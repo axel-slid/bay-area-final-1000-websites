@@ -25,7 +25,7 @@ Date: 2026-05-20
 ## Remaining Caveats
 
 - The no-owned-website status is based on OSM missing website tags plus search heuristics and pruning; it is not legal-proof or exhaustive proof that no site exists.
-- `Yelp or booking link` is populated for 653 of 1000 rows after targeted Yelp/Booksy/Fresha/Vagaro/Facebook/Instagram/Toast/OpenTable enrichment and cleanup. Rows without a profile link either did not surface a high-confidence third-party profile or still need deeper manual/profile-specific research.
+- `Yelp or booking link` is populated for 654 of 1000 rows after targeted Yelp/Booksy/Fresha/Vagaro/Facebook/Instagram/Toast/OpenTable enrichment and cleanup. Rows without a profile link either did not surface a high-confidence third-party profile or still need deeper manual/profile-specific research.
 - A final owned-website audit reviewed 39 raw search hits, excluded directory/name-collision false positives, and records 40 confirmed owned-site removals in `confirmed-owned-site-removals.csv`.
 - Business-specific Yelp/Booksy images were not copied into the generated sites. The final CSV now includes explicit hero image URLs/sources for all 1000 rows, profile-photo source notes, and profile-image extraction fields; rows with profile links point users to the relevant Yelp/Booksy/social profile photos.
 - The route is a deterministic nearest-neighbor plus bounded 2-opt route with OSRM segment estimates, not a paid road-network TSP optimization.

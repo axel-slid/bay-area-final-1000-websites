@@ -44,9 +44,9 @@ const rows = parseCsv(csv).map((row) => ({
   ...row,
   slug: path.basename(String(row["Generated site path"] || "").replace(/\/$/, "")),
 }));
+const appShell = path.join(root, "app-index.html");
 
 fs.writeFileSync(path.join(dist, "data.json"), JSON.stringify(rows));
-const appShell = path.join(root, "app-index.html");
 fs.copyFileSync(appShell, path.join(dist, "index.html"));
 for (const row of rows) {
   if (!row.slug) continue;

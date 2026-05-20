@@ -3,5 +3,11 @@
   "outputDirectory": "dist",
   "framework": null,
   "cleanUrls": true,
-  "trailingSlash": true
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/((?!data.json|robots.txt).*)",
+      "destination": "/index.html"
+    }
+  ]
 }

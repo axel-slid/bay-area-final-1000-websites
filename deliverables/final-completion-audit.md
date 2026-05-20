@@ -22,7 +22,7 @@ Date: 2026-05-20
 
 - GitHub/local files are current for the refreshed 1000-row package.
 - Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` is the latest successful production deployment.
-- Public Vercel serves the previous refreshed final CSV/data. The latest stricter cleanup adds five replacement slugs, so the committed `public-page-http-audit.csv` has 995 HTTP 200 rows and 5 `PENDING_DEPLOY` rows until the next production deploy succeeds.
+- Public Vercel serves the latest stricter cleanup package, and the committed `public-page-http-audit.csv` has 1000/1000 final Vercel links returning HTTP 200.
 
 ## Remaining Caveats
 

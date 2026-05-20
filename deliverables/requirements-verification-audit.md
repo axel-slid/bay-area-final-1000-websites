@@ -15,7 +15,7 @@ Date: 2026-05-20
 | CSV with GitHub and Vercel links | PROVED | 1000 GitHub links and 1000 Vercel links are populated. | `build-tools/bay-area-final-1000-websites.csv` |
 | Include description | PROVED | 1000 rows have nonblank descriptions. | `build-tools/bay-area-final-1000-websites.csv` |
 | Driving report and route | PROVED | 100 segment rows; route-integrity audit covers stops 1-1000 exactly once. Current OSRM segment total is 654.4 miles / 29.6 hours. | `build-tools/bay-area-final-1000-driving-report.md`; `build-tools/route-integrity-audit.csv` |
-| Live deployment | PROVED FOR PAGES/DATA | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the previous refreshed final CSV/data. The latest stricter cleanup is committed locally/GitHub and has 5 `PENDING_DEPLOY` rows until the next production deploy. | `websites/bay-area-final-1000/deliverables/deployment-status.md` |
+| Live deployment | PROVED FOR PAGES/DATA | Production Vercel deployment `dpl_Dm893G8qppsiVDnkwGgEkLvYPKLK` serves the latest stricter cleanup package, and the committed public-page audit has 1000/1000 HTTP 200 rows. | `websites/bay-area-final-1000/deliverables/deployment-status.md` |
 
 ## Key Counts
 
@@ -27,7 +27,7 @@ Date: 2026-05-20
 - Embedded profile images: 321
 - Driving segments: 100
 - Route-integrity audit rows: 101, all PASS
-- Public page audit: 995 HTTP 200, 5 pending deploy rows
+- Public page audit: 1000 HTTP 200, 0 pending deploy rows
 
 ## Caveats
 

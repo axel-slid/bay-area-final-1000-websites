@@ -7,19 +7,19 @@ Date: 2026-05-20
 - GitHub/local bundle is current for the refreshed 1000-row package.
 - Current GitHub branch: `main`.
 - Current data-cleanup commit: `eb9f1ce`; later status-only commits may be newer.
-- Latest successful production deployment: `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
+- Latest successful production deployment: `dpl_Dm893G8qppsiVDnkwGgEkLvYPKLK`.
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
 - Latest local deliverables include 1000 rows, 62 confirmed owned-site/stale removals, 678 validated profile links, 321 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.
 - Current route integrity covers stops 1-1000 exactly once. OSRM segment total is 654.4 road miles / 29.6 drive hours before stops, traffic, and in-person time.
 
 ## Public Vercel Alias
 
-- Production Vercel now serves deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
-- The public alias currently serves deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`; the latest stricter cleanup is committed locally/GitHub and needs the next production deploy for five replacement slugs.
-- The committed `public-page-http-audit.csv` records 995 final Vercel links returning HTTP 200 and 5 replacement slugs marked `PENDING_DEPLOY`.
-- A redeploy is pending for the latest stricter cleanup. The live copy of status-only audit artifacts can also lag until the next docs/artifact deployment.
-- A manual CLI redeploy attempt on 2026-05-20 was rejected with `api-deployments-free-per-day`, but Vercel Git deployment completed successfully and aliased production to `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
-- A later manual CLI redeploy attempt after commit `eb9f1ce` was also rejected with `api-deployments-free-per-day`; retry once the Vercel daily cap resets.
+- Production Vercel now serves deployment `dpl_Dm893G8qppsiVDnkwGgEkLvYPKLK`.
+- The public alias serves the latest stricter cleanup package, including all 62 owned-site/stale removals.
+- The committed `public-page-http-audit.csv` records 1000/1000 final Vercel links returning HTTP 200.
+- No redeploy is pending for the latest stricter cleanup package.
+- A manual CLI redeploy attempt on 2026-05-20 was rejected with `api-deployments-free-per-day`, but Vercel Git deployment completed successfully and aliased production to `dpl_Dm893G8qppsiVDnkwGgEkLvYPKLK`.
+- A later Git deployment after commit `eb9f1ce` completed successfully as `dpl_Dm893G8qppsiVDnkwGgEkLvYPKLK`.
 
 ## Verification Notes
 

@@ -16,7 +16,7 @@ This audit maps the original 1000-business website-generation request to current
 | Link Yelp/Booksy/profile if available | PARTIAL / AUDITED | 683 rows have accepted profile links. Audit: {'ACCEPTED - profile link in final CSV': 683, 'ATTEMPTED - no high-confidence profile found': 317}. | `build-tools/profile-link-search-audit.csv` |
 | CSV similar format with GitHub and Vercel links | PROVED | 1000 GitHub links and 1000 Vercel links. | `build-tools/bay-area-final-1000-websites.csv` |
 | Include description | PROVED | 1000 rows have descriptions. | `build-tools/bay-area-final-1000-websites.csv` |
-| Driving report and route | PROVED | Driving report plus 100 segment rows; OSRM total 673.1 miles / 30.4 drive hours before stops/traffic. | `build-tools/bay-area-final-1000-driving-report.md; build-tools/bay-area-final-1000-driving-segments.csv` |
+| Driving report and route | PROVED | Driving report plus 100 segment rows; route-integrity audit covers stops 1-1000 exactly once with no missing/extra/duplicate stops. OSRM total is 673.1 miles / 30.4 drive hours before stops/traffic. | `deliverables/bay-area-final-1000-driving-report.md; deliverables/bay-area-final-1000-driving-segments.csv; deliverables/route-integrity-audit.csv` |
 | Live deployment of deliverables | PARTIAL / GITHUB CURRENT | Live Vercel serves the 1000 generated business pages, and the corrected GitHub CSV links fetch 1000/1000 HTTP 200. Latest GitHub CSV/data/audit files include corrected replacement-row links, but the public Vercel CSV/data JSON and Markdown audit files may lag until the next successful deploy. | `https://bay-area-final-1000-websites.vercel.app/` |
 
 ## Key Counts
@@ -35,6 +35,7 @@ This audit maps the original 1000-business website-generation request to current
 - Public page HTTP audit: 1000 HTTP 200, 0 fetch errors
 - Brand-styling audit: 1000 PASS, 0 FAIL
 - Content-completeness audit: 1000 PASS, 0 FAIL
+- Route-integrity audit: 101 PASS, 0 FAIL; 1000 stops covered exactly once
 
 ## Remaining Non-Proof Caveats
 

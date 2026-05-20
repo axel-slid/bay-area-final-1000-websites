@@ -14,6 +14,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - Brand-styling audit: `deliverables/brand-styling-audit.csv`
 - Driving report: `deliverables/bay-area-final-1000-driving-report.md`
 - Driving segments: `deliverables/bay-area-final-1000-driving-segments.csv`
+- Route-integrity audit: `deliverables/route-integrity-audit.csv`
 - Drive-radius audit: `deliverables/final-drive-radius-audit.csv`
 - Owned-website audit: `deliverables/owned-website-search-audit.csv`
 - Profile-link audit: `deliverables/profile-link-search-audit.csv`
@@ -37,8 +38,8 @@ This audit checks the original request against current files, GitHub, and the pu
 | Link Yelp/Booksy/etc if available | Delivered with audited partial coverage | 683 rows have accepted profile links; 317 rows were searched with no high-confidence profile found. |
 | CSV similar to earlier CSV with GitHub and Vercel links | Proved | Final CSV has 1000 GitHub links and 1000 Vercel links. |
 | Include description | Proved | Final CSV has 1000 nonblank `Why a dedicated website would help` descriptions. |
-| Give a driving report | Proved | Driving report and 100 Google Maps segment rows are present. |
-| Optimal route to hit all businesses by car | Delivered with optimization caveat | Route uses deterministic nearest-neighbor plus bounded 2-opt with OSRM road estimates. It is optimized heuristically, not mathematically proven globally optimal. |
+| Give a driving report | Proved | Driving report and 100 Google Maps segment rows are present. Route-integrity audit passes 101/101 rows and covers stops 1-1000 exactly once. |
+| Optimal route to hit all businesses by car | Delivered with optimization caveat | Route uses deterministic nearest-neighbor plus bounded 2-opt with OSRM road estimates. Route-integrity audit proves the produced route covers all 1000 businesses exactly once, but it is not mathematically proven globally optimal. |
 | Public deployment is current | Partial public lag caveat | The public Vercel alias serves the 1000 generated business pages, and the corrected GitHub CSV links fetch 1000/1000 HTTP 200. The public alias CSV/data JSON and Markdown audit files may lag the latest GitHub-only corrections until Vercel upload cap clears. |
 
 ## Live Verification Snapshot
@@ -58,6 +59,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - GitHub hero-image HTTP audit: 1000 HTTP 200, 0 errors, all image/jpeg
 - GitHub brand-styling audit: 1000 PASS, 0 FAIL
 - GitHub content-completeness audit: 1000 PASS, 0 FAIL
+- GitHub route-integrity audit: 101 PASS, 0 FAIL; 1000 stops covered exactly once
 - Live drive-radius audit: 1000 `YES`
 - Public business-page HTTP audit against corrected GitHub CSV links: 1000 `200`, 0 fetch errors
 

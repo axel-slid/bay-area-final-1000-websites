@@ -8,7 +8,7 @@ Date: 2026-05-20
 - This deployment-status file is maintained on the current `main` branch.
 - Latest GitHub deliverables include 1000 final rows, 42 confirmed owned-site removals, 683 validated profile links, 326 validated direct profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Public-page HTTP audit confirmed 1000/1000 corrected final Vercel links return HTTP 200 after correcting the two replacement-row links to the aggregate deployment paths.
-- Local `dist/`, `.vercel/output/`, and GitHub have been verified with the corrected 1000 rows, 683 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, 1000 hero-image HTTP 200 results, 1000 public page HTTP 200 results, 1000 content-completeness audit passes, and 1000 brand-styling audit passes.
+- Local `dist/`, `.vercel/output/`, and GitHub have been verified with the corrected 1000 rows, 683 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, 1000 hero-image HTTP 200 results, 1000 public page HTTP 200 results, 1000 content-completeness audit passes, 1000 brand-styling audit passes, and route-integrity coverage of stops 1-1000 exactly once.
 
 ## Public Vercel Alias
 
@@ -29,6 +29,7 @@ Date: 2026-05-20
   - Hero images: 1000 HTTP 200, all image/jpeg.
   - Brand styling: 1000 rows pass palette/rationale audit.
   - Content completeness: 1000 rows pass required-field/link/coordinate audit.
+  - Route integrity: 100 segment rows plus summary pass; 1000 stops covered exactly once.
 - Live Vercel artifact checks confirmed before the latest GitHub-only link correction:
   - Drive-radius audit: 1000 rows within 90 minutes from San Carlos.
   - Live data currently has 1000 rows and 683 profile links. Public profile-image count may lag GitHub until the next successful deploy; GitHub now has 326 direct profile images after HTTP validation.

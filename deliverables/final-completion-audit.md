@@ -22,6 +22,7 @@ Date: 2026-05-20
   - `https://bay-area-final-1000-websites.vercel.app/tzintzun-auto-repair-bay-area/`
 - The 67 rows that previously had blank address fields now have reverse-geocoded approximate addresses marked in the address text.
 - Driving segment CSV has 100 Google Maps driving segments and OSRM road estimates for every segment.
+- Route-integrity audit validates 100/100 route segments plus a summary row: stops 1-1000 are covered exactly once, with no missing, extra, or duplicate stops.
 - OSRM segment totals: 673.1 road miles and 30.4 drive hours before stops, traffic, and in-person time.
 - Drive-radius audit checked all 1000 final rows from San Carlos with OSRM direct routes; all 1000 are within 90 minutes, and the slowest checked row was 61.6 minutes. Results are in `final-drive-radius-audit.csv`.
 - GitHub repo is pushed at `axel-slid/bay-area-final-1000-websites`.

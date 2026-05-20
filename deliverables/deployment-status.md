@@ -14,13 +14,13 @@ Date: 2026-05-20
 ## Public Vercel Alias
 
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`
-- Vercel inspect on 2026-05-20 showed the public alias pointing to deployment `dpl_4sjHjMGPkbs3fhwVUr4ansD4Unzw`, created at Wed May 20 2026 01:37:35 PDT.
+- Vercel inspect on 2026-05-20 showed the public alias pointing to deployment `dpl_V8LPgfJ8UqrVBArTbTzHg4aQe87Z`, created at Wed May 20 2026 01:53:51 PDT.
 - The live alias currently serves the 1000 generated business pages and the full 1000-row drive-radius audit.
 - The live alias no longer includes Cafe Bunn Mi or Mission Curry House.
 - Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
-- The live copy of this `deployment-status.md` file, other Markdown audit files, and public CSV/data JSON may lag this GitHub version until the next successful deploy. Current GitHub has corrected Vercel/GitHub links for Fruitas Regionales Magui and Lucky Hair & Nails; the public alias still serves those two business pages at the corrected aggregate paths.
+- The live copy of this `deployment-status.md` file, some newer Markdown audit files, and public CSV/data JSON may lag this GitHub version until the next successful deploy. Current GitHub has corrected Vercel/GitHub links for Fruitas Regionales Magui and Lucky Hair & Nails; the public alias still serves those two business pages at the corrected aggregate paths.
 - Production redeploy attempts on 2026-05-20 were blocked by Vercel free-tier caps: first `api-upload-free`, then `api-deployments-free-per-day` after retrying with `--archive=tgz`.
-- Later GitHub-only audit commits added `completion-proof-audit.md`, `public-page-http-audit.csv`, and two corrected replacement-row links; those artifacts are available in GitHub but may return not found or stale values on the public Vercel alias until another successful deployment publishes the updates.
+- Public alias checks after deployment `dpl_V8LPgfJ8UqrVBArTbTzHg4aQe87Z` found brand-styling, hero-image HTTP, and profile-image HTTP audits live; content-completeness and route-integrity audits still return not found on the public alias and remain GitHub-current until a later deploy publishes them.
 
 ## Verification Notes
 
@@ -31,7 +31,10 @@ Date: 2026-05-20
   - Brand styling: 1000 rows pass palette/rationale audit.
   - Content completeness: 1000 rows pass required-field/link/coordinate audit.
   - Route integrity: 100 segment rows plus summary pass; 1000 stops covered exactly once.
-- Live Vercel artifact checks confirmed before the latest GitHub-only link correction:
+- Live Vercel artifact checks currently confirm:
   - Drive-radius audit: 1000 rows within 90 minutes from San Carlos.
-  - Live data currently has 1000 rows and 683 profile links. Public profile-image count may lag GitHub until the next successful deploy; GitHub now has 326 direct profile images after HTTP validation.
+  - Live data currently has 1000 rows and 683 profile links. Public profile-image count and corrected two-row CSV links may lag GitHub until the next successful deploy; GitHub now has 326 direct profile images after HTTP validation and 0 external Vercel/GitHub links.
   - Live data does not contain Cafe Bunn Mi or Mission Curry House.
+  - Live brand-styling audit: 1000 rows.
+  - Live hero-image HTTP audit: 1000 rows.
+  - Live profile-image HTTP audit: 326 rows.

@@ -3,14 +3,5 @@
   "outputDirectory": "dist",
   "framework": null,
   "cleanUrls": true,
-  "trailingSlash": true,
-  "routes": [
-    {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "trailingSlash": true
 }

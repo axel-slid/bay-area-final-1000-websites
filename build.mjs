@@ -46,5 +46,12 @@ const rows = parseCsv(csv).map((row) => ({
 }));
 
 fs.writeFileSync(path.join(dist, "data.json"), JSON.stringify(rows));
-fs.copyFileSync(path.join(root, "app-index.html"), path.join(dist, "index.html"));
+const appShell = path.join(root, "app-index.html");
+fs.copyFileSync(appShell, path.join(dist, "index.html"));
+for (const row of rows) {
+  if (!row.slug) continue;
+  const dir = path.join(dist, row.slug);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.copyFileSync(appShell, path.join(dir, "index.html"));
+}
 fs.writeFileSync(path.join(dist, "robots.txt"), "User-agent: *\nAllow: /\n");

@@ -6,15 +6,10 @@
   "trailingSlash": true,
   "routes": [
     {
-      "src": "/data.json",
-      "dest": "/data.json"
+      "handle": "filesystem"
     },
     {
-      "src": "/robots.txt",
-      "dest": "/robots.txt"
-    },
-    {
-      "src": "/.*",
+      "src": "/(.*)",
       "dest": "/index.html"
     }
   ]

@@ -6,7 +6,7 @@ Date: 2026-05-20
 
 - GitHub/local bundle is current for the refreshed 1000-row package.
 - Current GitHub branch: `main`.
-- Current GitHub commit: `eb9f1ce`.
+- Current data-cleanup commit: `eb9f1ce`; later status-only commits may be newer.
 - Latest successful production deployment: `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
 - Latest local deliverables include 1000 rows, 62 confirmed owned-site/stale removals, 678 validated profile links, 321 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.

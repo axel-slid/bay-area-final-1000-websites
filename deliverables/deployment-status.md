@@ -4,37 +4,26 @@ Date: 2026-05-20
 
 ## Current Source Of Truth
 
-- Latest successful production deployment: `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`
-- This deployment-status file is maintained on the current `main` branch.
-- Latest deliverables include 1000 final rows, 45 confirmed owned-site/stale removals, 681 validated profile links, 326 validated direct profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
-- Local public-page HTTP audit confirmed 1000/1000 final Vercel links return HTTP 200 after deploying the corrected replacement rows.
-- Local `dist` and GitHub have been verified with the corrected 1000 rows, 681 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, 1000 hero-image HTTP 200 results, 1000 public page HTTP 200 results, 1000 content-completeness audit passes, 1000 brand-styling audit passes, and route-integrity coverage of stops 1-1000 exactly once. The latest local/GitHub route optimization reduces OSRM segment totals to 619.4 miles / 28.9 hours.
+- GitHub/local bundle is current for the refreshed 1000-row package.
+- Latest successful production deployment: `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
+- Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
+- Latest local deliverables include 1000 rows, 53 confirmed owned-site/stale removals, 679 validated profile links, 324 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.
+- Current route integrity covers stops 1-1000 exactly once. OSRM segment total is 654.3 road miles / 29.5 drive hours before stops, traffic, and in-person time.
 
 ## Public Vercel Alias
 
-- Public URL: `https://bay-area-final-1000-websites.vercel.app/`
-- Vercel deploy on 2026-05-20 completed successfully and aliased production to deployment `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
-- The live alias currently serves the corrected 1000 generated business pages and final CSV.
-- The live alias no longer includes Patio Español, Jang Soo BBQ, or Dean Real Estate Services.
-- Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
-- Successful production deploy command: `npx --yes vercel deploy --prod --yes --archive=tgz`.
-- A later redeploy attempt, after updating Markdown docs and the local public-page HTTP audit artifact, was blocked by Vercel free-tier cap `api-deployments-free-per-day`. GitHub/local files are current; the live public-page audit CSV may lag, but the final live pages and CSV are current.
-- A later local/GitHub route-optimization update improves the committed driving route beyond the currently deployed CSV. It will need a new production deploy once the Vercel daily deployment cap clears.
-- Public alias checks after deployment `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX` found all 1000 final Vercel links returning HTTP 200.
+- Production Vercel still serves the last successful deployment, `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
+- The current GitHub/local package removes additional owned-site/stale rows after that deployment.
+- `public-page-http-audit.csv` therefore records 995 prior HTTP 200 rows and 5 `PENDING_DEPLOY` rows for newly replaced slugs until the next production deploy succeeds.
+- A redeploy is required before the public alias is fully current with the latest local/GitHub CSV.
 
 ## Verification Notes
 
-- GitHub raw artifact checks confirmed the latest profile audit counts:
-  - Profile links: 681 accepted, 319 searched with no high-confidence profile found.
-  - Profile images: 326 accepted direct images, 355 searched with no safe matching image, 319 rows with no validated profile link.
-  - Hero images: 1000 HTTP 200, all image/jpeg.
-  - Brand styling: 1000 rows pass palette/rationale audit.
-  - Content completeness: 1000 rows pass required-field/link/coordinate audit.
-  - Route integrity: 100 segment rows plus summary pass; 1000 stops covered exactly once.
-- Live Vercel artifact checks currently confirm:
-  - Drive-radius audit: 1000 rows within 90 minutes from San Carlos.
-  - Live data currently has 1000 rows and 681 profile links.
-  - Live data does not contain Patio Español, Jang Soo BBQ, or Dean Real Estate Services.
-  - Live brand-styling audit: 1000 rows.
-  - Live hero-image HTTP audit: 1000 rows.
-  - Live profile-image HTTP audit: 326 rows.
+- Content completeness: 1000 PASS, 0 FAIL.
+- Brand styling: 1000 PASS, 0 FAIL.
+- Hero images: 1000 audited rows.
+- Profile links: 679 accepted links.
+- Profile images: 324 embedded direct profile images.
+- Owned-site audit: 964 no likely owned-site hit, 36 raw hits reviewed as not confirmed owned sites.
+- Drive-radius audit: 1000 rows within 90 minutes from San Carlos.
+- Route-integrity audit: 100 segment rows plus summary, all PASS.

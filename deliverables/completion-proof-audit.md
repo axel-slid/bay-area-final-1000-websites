@@ -39,7 +39,7 @@ This audit checks the original request against current files, GitHub, and the pu
 | CSV similar to earlier CSV with GitHub and Vercel links | Proved | Final CSV has 1000 GitHub links and 1000 Vercel links. |
 | Include description | Proved | Final CSV has 1000 nonblank `Why a dedicated website would help` descriptions. |
 | Give a driving report | Proved | Driving report and 100 Google Maps segment rows are present. Route-integrity audit passes 101/101 rows and covers stops 1-1000 exactly once. |
-| Optimal route to hit all businesses by car | Delivered with optimization caveat | Route uses deterministic nearest-neighbor plus bounded 2-opt with OSRM road estimates. Route-integrity audit proves the produced route covers all 1000 businesses exactly once, but it is not mathematically proven globally optimal. |
+| Optimal route to hit all businesses by car | Delivered with stronger optimization caveat | Route uses deterministic nearest-neighbor plus stronger bounded 2-opt with OSRM road estimates. The latest optimization saved 49.1 straight-line miles and reduced OSRM segment totals to 619.4 miles / 28.9 hours. Route-integrity audit proves the produced route covers all 1000 businesses exactly once, but it is not mathematically proven globally optimal. |
 | Public deployment is current | Proved for pages/CSV; audit artifact caveat | Production Vercel deployment `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX` serves the corrected 1000 generated business pages and final CSV. Local public-page HTTP audit against the final Vercel links returned 1000/1000 HTTP 200 and 0 fetch errors. A later redeploy of updated Markdown/audit artifacts was blocked by Vercel's daily deployment cap, so live audit files may lag GitHub/local. |
 
 ## Live Verification Snapshot
@@ -60,6 +60,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - GitHub brand-styling audit: 1000 PASS, 0 FAIL
 - GitHub content-completeness audit: 1000 PASS, 0 FAIL
 - GitHub route-integrity audit: 101 PASS, 0 FAIL; 1000 stops covered exactly once
+- Route optimization audit: 445.7 to 396.6 straight-line miles, 49.1 miles saved
 - Live drive-radius audit: 1000 `YES`
 - Public business-page HTTP audit against corrected GitHub CSV links: 1000 `200`, 0 fetch errors
 
@@ -67,7 +68,7 @@ This audit checks the original request against current files, GitHub, and the pu
 
 - The no-owned-website requirement cannot be proven exhaustively from public search alone; current evidence is a documented OSM/search/manual review process.
 - Profile links and business-specific profile images are included only where a high-confidence matching source was found.
-- The driving route is optimized heuristically; a globally optimal 1000-stop road-network TSP proof is not present.
+- The driving route is optimized heuristically with a stronger bounded 2-opt pass; a globally optimal 1000-stop road-network TSP proof is not present.
 - No-owned-website status remains heuristic and should be rechecked before outreach, especially for rows where search results are sparse or directory data is stale.
 - Live Vercel pages and final CSV are current, but the live public-page audit CSV may lag the committed local audit because a second redeploy was blocked by the Vercel daily deployment cap.
 

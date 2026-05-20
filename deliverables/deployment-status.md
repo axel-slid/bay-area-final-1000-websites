@@ -8,7 +8,7 @@ Date: 2026-05-20
 - This deployment-status file is maintained on the current `main` branch.
 - Latest deliverables include 1000 final rows, 45 confirmed owned-site/stale removals, 681 validated profile links, 326 validated direct profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Local public-page HTTP audit confirmed 1000/1000 final Vercel links return HTTP 200 after deploying the corrected replacement rows.
-- Local `dist`, Vercel production pages/CSV, and GitHub have been verified with the corrected 1000 rows, 681 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, 1000 hero-image HTTP 200 results, 1000 public page HTTP 200 results, 1000 content-completeness audit passes, 1000 brand-styling audit passes, and route-integrity coverage of stops 1-1000 exactly once.
+- Local `dist` and GitHub have been verified with the corrected 1000 rows, 681 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, 1000 hero-image HTTP 200 results, 1000 public page HTTP 200 results, 1000 content-completeness audit passes, 1000 brand-styling audit passes, and route-integrity coverage of stops 1-1000 exactly once. The latest local/GitHub route optimization reduces OSRM segment totals to 619.4 miles / 28.9 hours.
 
 ## Public Vercel Alias
 
@@ -19,6 +19,7 @@ Date: 2026-05-20
 - Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
 - Successful production deploy command: `npx --yes vercel deploy --prod --yes --archive=tgz`.
 - A later redeploy attempt, after updating Markdown docs and the local public-page HTTP audit artifact, was blocked by Vercel free-tier cap `api-deployments-free-per-day`. GitHub/local files are current; the live public-page audit CSV may lag, but the final live pages and CSV are current.
+- A later local/GitHub route-optimization update improves the committed driving route beyond the currently deployed CSV. It will need a new production deploy once the Vercel daily deployment cap clears.
 - Public alias checks after deployment `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX` found all 1000 final Vercel links returning HTTP 200.
 
 ## Verification Notes

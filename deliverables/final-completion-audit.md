@@ -23,7 +23,8 @@ Date: 2026-05-20
 - The 67 rows that previously had blank address fields now have reverse-geocoded approximate addresses marked in the address text.
 - Driving segment CSV has 100 Google Maps driving segments and OSRM road estimates for every segment.
 - Route-integrity audit validates 100/100 route segments plus a summary row: stops 1-1000 are covered exactly once, with no missing, extra, or duplicate stops.
-- OSRM segment totals: 673.7 road miles and 30.3 drive hours before stops, traffic, and in-person time.
+- Stronger 2-opt optimization reduced straight-line route length from 445.7 miles to 396.6 miles, saving 49.1 miles before road-network effects. Details are in `route-optimization-audit.csv` and `route-optimization-swaps.csv`.
+- OSRM segment totals: 619.4 road miles and 28.9 drive hours before stops, traffic, and in-person time.
 - Drive-radius audit checked all 1000 final rows from San Carlos with OSRM direct routes; all 1000 are within 90 minutes, and the slowest checked row was 61.6 minutes. Results are in `final-drive-radius-audit.csv`.
 - GitHub repo is pushed at `axel-slid/bay-area-final-1000-websites`.
 
@@ -36,4 +37,4 @@ Date: 2026-05-20
 - Business-specific direct Yelp/Fresha images are now embedded for 326 rows whose image-search result page matched the validated profile URL and whose image URL passed HTTP content validation. The remaining rows use category-relevant public hero images plus explicit hero image URLs/sources, profile-photo source notes, and profile-image extraction fields; rows with profile links point users to the relevant Yelp/Booksy/social profile photos.
 - Profile image search status for all 1000 rows is documented in `profile-image-search-audit.csv`: 326 accepted profile images, 355 profile-linked rows searched with no safe matching image, and 319 rows with no validated profile link.
 - Requirement-by-requirement proof and caveats are summarized in `requirements-verification-audit.md`.
-- The route is a deterministic nearest-neighbor plus bounded 2-opt route with OSRM segment estimates, not a paid road-network TSP optimization.
+- The route is a deterministic nearest-neighbor plus stronger bounded 2-opt route with OSRM segment estimates, not a paid road-network TSP optimization.

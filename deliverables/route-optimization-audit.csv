@@ -1,0 +1,7 @@
+Metric,Value
+Input rows,1000
+Starting straight-line route miles,445.718
+Optimized straight-line route miles,396.633
+Straight-line miles saved,49.085
+2-opt passes with improvement,60
+Elapsed seconds,33.1

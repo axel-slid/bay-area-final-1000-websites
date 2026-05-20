@@ -16,7 +16,7 @@ This audit maps the original 1000-business website-generation request to current
 | Link Yelp/Booksy/profile if available | PARTIAL / AUDITED | 681 rows have accepted profile links. Audit: {'ACCEPTED - profile link in final CSV': 681, 'ATTEMPTED - no high-confidence profile found': 319}. | `deliverables/profile-link-search-audit.csv` |
 | CSV similar format with GitHub and Vercel links | PROVED | 1000 GitHub links and 1000 Vercel links. | `build-tools/bay-area-final-1000-websites.csv` |
 | Include description | PROVED | 1000 rows have descriptions. | `build-tools/bay-area-final-1000-websites.csv` |
-| Driving report and route | PROVED | Driving report plus 100 segment rows; route-integrity audit covers stops 1-1000 exactly once with no missing/extra/duplicate stops. OSRM total is 673.7 miles / 30.3 drive hours before stops/traffic. | `deliverables/bay-area-final-1000-driving-report.md; deliverables/bay-area-final-1000-driving-segments.csv; deliverables/route-integrity-audit.csv` |
+| Driving report and route | PROVED | Driving report plus 100 segment rows; route-integrity audit covers stops 1-1000 exactly once with no missing/extra/duplicate stops. Stronger 2-opt saved 49.1 straight-line miles; OSRM total is 619.4 miles / 28.9 drive hours before stops/traffic. | `deliverables/bay-area-final-1000-driving-report.md; deliverables/bay-area-final-1000-driving-segments.csv; deliverables/route-integrity-audit.csv; deliverables/route-optimization-audit.csv` |
 | Live deployment of pages/CSV | PROVED WITH AUDIT-ARTIFACT CAVEAT | Production Vercel deployment `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX` serves the corrected 1000 generated business pages and final CSV; local public-page HTTP audit fetched 1000/1000 final Vercel links with HTTP 200 and 0 fetch errors. A later redeploy of updated Markdown/audit artifacts was blocked by Vercel's daily deployment cap, so live audit files may lag GitHub/local. | `https://bay-area-final-1000-websites.vercel.app/; deliverables/public-page-http-audit.csv` |
 
 ## Key Counts
@@ -41,4 +41,4 @@ This audit maps the original 1000-business website-generation request to current
 
 - No-owned-website status is based on OSM tags, search heuristics, and manual/pruned audits, not exhaustive legal proof.
 - Profile links and business-specific images are included only where high-confidence matching passed; remaining rows use audited category imagery/profile-source fallbacks.
-- Route is a deterministic nearest-neighbor plus bounded 2-opt route with OSRM estimates, not a paid traffic-aware field-sales optimizer.
+- Route is a deterministic nearest-neighbor plus stronger bounded 2-opt route with OSRM estimates, not a paid traffic-aware field-sales optimizer.

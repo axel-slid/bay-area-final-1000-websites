@@ -6,6 +6,7 @@ Date: 2026-05-20
 
 - Final website CSV has 1000 rows: `build-tools/bay-area-final-1000-websites.csv`.
 - Each row has a nonblank GitHub link, Vercel link, business name, address, phone, category, evidence, description, and generated site path.
+- Content-completeness audit validates 1000/1000 rows for required fields, description length, evidence length, Google Maps link, aggregate GitHub/Vercel links, and numeric coordinates.
 - Each row has a nonblank hero image URL, hero image source, and photo/profile source field in the final CSV.
 - Hero-image HTTP audit fetched all 1000 hero image URLs and returned 1000 HTTP 200 responses, all with `image/jpeg` content type and 0 fetch errors.
 - Profile image extraction was attempted for the first 180 third-party profile links and added `Profile image URL` / `Profile image source` columns. Direct profile-page image extraction yielded 0 usable image URLs because most profile hosts blocked direct HTML fetches or did not expose usable Open Graph images. A stricter image-search pass then checked all 683 validated profile-linked rows, followed by HTTP content validation. The final package accepts 326 business-specific direct Yelp/Fresha image URLs that return HTTP 200 with image content types; 19 prior candidates were rejected because they returned HTML/XML or 403.

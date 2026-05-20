@@ -10,7 +10,7 @@ This audit maps the original 1000-business website-generation request to current
 | Within 1.5 hour drive from San Carlos | PROVED | Drive-radius audit checked all 1000 rows with direct OSRM routes from San Carlos; all 1000 are within 90 minutes, and the slowest route is 61.6 minutes. | `build-tools/final-drive-radius-audit.csv` |
 | Do not have a website | PARTIAL / HEURISTIC | OSM/search heuristic used; 42 confirmed owned-site rows were removed. Final 1000 owned-site status is documented in owned-website-search-audit.csv, including explicit review notes for all 41 raw candidates, but remains heuristic rather than legal-proof. | `build-tools/confirmed-owned-site-removals.csv; build-tools/owned-website-search-audit.csv` |
 | Generated website for each company | PROVED | Static build has 1001 index.html files: directory index plus 1000 business pages. Public-page HTTP audit fetched 1000/1000 final Vercel links with HTTP 200 and 0 fetch errors. | `websites/bay-area-final-1000/dist; deliverables/public-page-http-audit.csv` |
-| Relevant information on each site | PROVED | Each row has business name, address, phone, category, evidence, hours/status where available, Google Maps link, and description fields. | `build-tools/bay-area-final-1000-websites.csv` |
+| Relevant information on each site | PROVED | Each row has business name, address, phone, category, evidence, hours/status where available, Google Maps link, and description fields. Content-completeness audit passes 1000/1000 rows. | `deliverables/bay-area-final-1000-websites.csv; deliverables/content-completeness-audit.csv` |
 | Images from Yelp/Booksy/etc where possible | PARTIAL / AUDITED | 326 rows have embedded direct profile images accepted from matched Yelp/Fresha results and verified by HTTP content audit; 19 prior candidates were rejected because they returned HTML/XML or 403. All 1000 rows have reachable hero images verified by HTTP audit. | `deliverables/profile-image-search-audit.csv; deliverables/profile-image-http-audit.csv; deliverables/hero-image-http-audit.csv` |
 | Creative brand styling | PROVED | 1000 rows have parseable `primary/surface/accent/ink` brand palettes and business-specific style rationales; brand-styling audit passes 1000/1000 rows. | `deliverables/bay-area-final-1000-websites.csv; deliverables/brand-styling-audit.csv` |
 | Link Yelp/Booksy/profile if available | PARTIAL / AUDITED | 683 rows have accepted profile links. Audit: {'ACCEPTED - profile link in final CSV': 683, 'ATTEMPTED - no high-confidence profile found': 317}. | `build-tools/profile-link-search-audit.csv` |
@@ -34,6 +34,7 @@ This audit maps the original 1000-business website-generation request to current
 - Driving segments: 100
 - Public page HTTP audit: 1000 HTTP 200, 0 fetch errors
 - Brand-styling audit: 1000 PASS, 0 FAIL
+- Content-completeness audit: 1000 PASS, 0 FAIL
 
 ## Remaining Non-Proof Caveats
 

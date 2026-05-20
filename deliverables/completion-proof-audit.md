@@ -27,7 +27,7 @@ Date: 2026-05-20
 | CSV with GitHub and Vercel links | Proved | 1000 GitHub links and 1000 Vercel links are populated. |
 | Description | Proved | 1000 rows have nonblank descriptions. |
 | Driving report and route | Proved with optimization caveat | Route-integrity audit covers stops 1-1000 exactly once; OSRM segment total is 654.3 miles / 29.5 hours. |
-| Public deployment current | Proved | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the refreshed final CSV/data with the five replacement businesses, and `public-page-http-audit.csv` has 1000/1000 HTTP 200 rows. |
+| Public deployment current | Proved for pages/data; artifact caveat | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the refreshed final CSV/data with the five replacement businesses. The committed public-page audit has 1000/1000 HTTP 200 rows; the live audit artifact may lag until a docs/artifact deploy. |
 
 ## Current Non-Proof Items
 

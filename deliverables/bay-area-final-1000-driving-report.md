@@ -167,8 +167,8 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 47 | New Age Hair & Nail Spa | beauty | 2773 El Camino Real, Redwood City, 94061 | (650) 261-1278 | 0.0 | 5.2 |
 | 48 | Uruapan | furniture | 2844 | (650) 366-2514 | 0.4 | 5.5 |
 | 49 | H&H Automotive | car_repair | 2835 | (650) 368-7052 | 0.0 | 5.6 |
-| 50 | Tzintzun Auto Repair | car_repair |  | (650) 204-5715 | 0.0 | 5.6 |
-| 51 | Osuna Auto Repair | car_repair |  | (650) 365-2364 | 0.1 | 5.7 |
+| 50 | Tzintzun Auto Repair | car_repair | Crocker Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate) | (650) 204-5715 | 0.0 | 5.6 |
+| 51 | Osuna Auto Repair | car_repair | Pacific Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate) | (650) 365-2364 | 0.1 | 5.7 |
 | 52 | A&S Automotive | car_repair | 2670 | (650) 261-9177 | 0.1 | 5.8 |
 | 53 | Estraella Smog Check | car_repair | 2627 | (650) 364-0530 | 0.0 | 5.8 |
 | 54 | Redwood City Transmission | car_repair | 412 | (650) 361-1676 | 0.0 | 5.8 |
@@ -178,11 +178,11 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 58 | Joe's Auto Repair | car_repair | 2914 | (650) 716-3915 | 0.4 | 6.4 |
 | 59 | L&M Transmissions | car_repair | 2951 | (650) 366-7185 | 0.1 | 6.5 |
 | 60 | San Luis Auto Glass | car_repair | 3017 | (510) 927-1781 | 0.1 | 6.6 |
-| 61 | Samantha's Salon | hairdresser |  | (650) 298-8136 | 0.0 | 6.6 |
-| 62 | Joyeria 3RRR | jewelry |  | (650) 771-1361 | 0.1 | 6.6 |
+| 61 | Samantha's Salon | hairdresser | 2nd Avenue, Redwood City, California, 94061 (reverse-geocoded approximate) | (650) 298-8136 | 0.0 | 6.6 |
+| 62 | Joyeria 3RRR | jewelry | Middlefield Road, North Fair Oaks, California, 94061 (reverse-geocoded approximate) | (650) 771-1361 | 0.1 | 6.6 |
 | 63 | Glamerous Looks Salon | hairdresser | 3142 | (650) 365-3130 | 0.1 | 6.7 |
 | 64 | Hair and Nails by Nancy | hairdresser | 3144 | (650) 261-1645 | 0.0 | 6.7 |
-| 65 | Irma's Beauty Salon | hairdresser |  | (650) 363-0288 | 0.0 | 6.7 |
+| 65 | Irma's Beauty Salon | hairdresser | 4th Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate) | (650) 363-0288 | 0.0 | 6.7 |
 | 66 | Villa Latina | clothes | 3176 | (650) 364-7400 | 0.0 | 6.7 |
 | 67 | Taqueria Gonzales | restaurant | 3194 | (650) 365-6405 | 0.0 | 6.8 |
 | 68 | United | restaurant | 3196 | (650) 720-0875 | 0.0 | 6.8 |
@@ -192,7 +192,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 72 | Vico's Beauty Salon | beauty | 3225 | (650) 257-3156 | 0.0 | 6.9 |
 | 73 | Rocio Alvizar | dentist | 3227 | (650) 365-1949 | 0.0 | 6.9 |
 | 74 | Tere's Boutique | clothes | 3270 | (650) 364-0239 | 0.1 | 6.9 |
-| 75 | Las Parrillas | restaurant |  | (650) 369-2040 | 0.0 | 6.9 |
+| 75 | Las Parrillas | restaurant | Semicircular Road, North Fair Oaks, California, 94027 (reverse-geocoded approximate) | (650) 369-2040 | 0.0 | 6.9 |
 | 76 | Turfside Grille | restaurant | 3151 | (650) 362-4109 | 0.4 | 7.3 |
 | 77 | Villa Roma Cocktail Lounge | bar | 593 Woodside Road, Redwood City, 94061 | (650) 365-5060 | 1.2 | 8.6 |
 | 78 | Diner Japonica | restaurant | 593 Woodside Road, Redwood City, 94061 | (650) 364-4649 | 0.0 | 8.6 |
@@ -215,11 +215,11 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 95 | Sky Nails | beauty | 1059 Crane Street, Menlo Park, CA, 94025 | (650) 462-0836 | 0.2 | 12.5 |
 | 96 | Pho Banh Mi | restaurant | 405 University Avenue, Palo Alto, CA, 94301 | (650) 559-0382 | 1.4 | 13.8 |
 | 97 | Simply Be Beautiful | beauty | 530 University Avenue, Palo Alto, CA, 94301 | (650) 323-1009 | 0.1 | 14.0 |
-| 98 | Menlo Park Smog | car_repair |  | (650) 323-7664 | 1.1 | 15.0 |
+| 98 | Menlo Park Smog | car_repair | 710 O'Keefe Street, Menlo Park, California, 94301 (reverse-geocoded approximate) | (650) 323-7664 | 1.1 | 15.0 |
 | 99 | Ochoas Beauty Salon | hairdresser | 720 Willow Road | (650) 325-2125 | 0.0 | 15.1 |
 | 100 | New Generation Nails | hairdresser | 724 | (650) 323-4987 | 0.0 | 15.1 |
 | 101 | Tony's Pizza | restaurant | 820 Willow Road | (650) 853-0860 | 0.1 | 15.1 |
-| 102 | Markstyle | hairdresser |  | (650) 325-4075 | 0.0 | 15.2 |
+| 102 | Markstyle | hairdresser | Willow Road, Menlo Park, California, 94301 (reverse-geocoded approximate) | (650) 325-4075 | 0.0 | 15.2 |
 | 103 | Mi Taqueria | restaurant | 875 Hamilton Avenue | (650) 289-0451 | 1.0 | 16.2 |
 | 104 | Nina's Nails & Hair | hairdresser | 891 Hamilton Avenue | (650) 324-3978 | 0.0 | 16.2 |
 | 105 | Hair Studio | hairdresser | 101 South California Avenue, Palo Alto, 94036 | (650) 473-1213 | 3.6 | 19.8 |
@@ -239,8 +239,8 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 119 | Emergency Animal Care | veterinary | 601 Showers Drive, Mountain View, CA, 94040 | (650) 494-1461 | 0.1 | 23.3 |
 | 120 | Esther's German Restaurant | restaurant | 987 North San Antonio Road, Los Altos, CA, 94022 | (650) 941-4463 | 0.3 | 23.6 |
 | 121 | Phở Vỉ Hoa | restaurant | 4546 West El Camino Real, Los Altos, CA, 94022 | (650) 947-1290 | 0.1 | 23.7 |
-| 122 | A Good Morning | restaurant |  | (650) 941-8154 | 0.0 | 23.7 |
-| 123 | D'Cache Beauty Salon | beauty |  | (650) 625-8991 | 1.2 | 24.9 |
+| 122 | A Good Morning | restaurant | West El Camino Real, Los Altos, California, 94022 (reverse-geocoded approximate) | (650) 941-8154 | 0.0 | 23.7 |
+| 123 | D'Cache Beauty Salon | beauty | Latham Street, Mountain View, California, 94039 (reverse-geocoded approximate) | (650) 625-8991 | 1.2 | 24.9 |
 | 124 | Taqueria Los Charros | restaurant | 854 West Dana Street | (650) 969-1464 | 0.8 | 25.7 |
 | 125 | Mervyn's Lounge | bar | 236 Castro Street, Mountain View, CA | (650) 938-2968 | 0.1 | 25.8 |
 | 126 | Phở Tô Châu | restaurant | 853 Villa Street | (650) 961-8069 | 0.0 | 25.8 |
@@ -295,7 +295,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 175 | Hunan Mifen Chinese Rice Noodles | restaurant | 1149 Lawrence Expressway | (408) 734-8898 | 1.0 | 46.6 |
 | 176 | Lakewood Dental Care | dentist | 1153 Lawrence Expressway | (408) 541-1900 | 0.0 | 46.6 |
 | 177 | Amazing Cuts | hairdresser | 613 West Tasman Drive, Sunnyvale, CA, 94089 | (408) 746-5758 | 0.8 | 47.4 |
-| 178 | Amakai | restaurant |  | (408) 988-2555 | 1.9 | 49.3 |
+| 178 | Amakai | restaurant | 4300 Great America Parkway, Santa Clara, California, 95054 (reverse-geocoded approximate) | (408) 988-2555 | 1.9 | 49.3 |
 | 179 | New Camau | fast_food | 3775 Lafayette Street, 95054 | (408) 988-1883 | 1.4 | 50.7 |
 | 180 | Easterly Hunan Cuisine | restaurant | 3927 Rivermark Plaza, Santa Clara, CA, 95054 | (408) 748-3355 | 0.6 | 51.3 |
 | 181 | Mina's Korean BBQ | restaurant | 3730 North 1st Street, San Jose, 95134 | (408) 433-2270 | 1.1 | 52.4 |
@@ -322,7 +322,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 202 | Luu New Tung Kee Noodle | restaurant | 481 East Calaveras Boulevard, Milpitas, CA, 95035 | (408) 263-8288 | 0.3 | 60.4 |
 | 203 | Radiant Dental | dentist | 10 South Hillview Drive, Milpitas, CA, 95035 | (408) 719-1643 | 0.3 | 60.6 |
 | 204 | Modern Image | hairdresser | 98 Dempsey Road, Milpitas, CA | (408) 935-8889 | 0.4 | 61.0 |
-| 205 | King Chicken Wing | restaurant |  | (408) 262-8730 | 0.1 | 61.1 |
+| 205 | King Chicken Wing | restaurant | South Park Victoria Drive, Milpitas, California, 95035 (reverse-geocoded approximate) | (408) 262-8730 | 0.1 | 61.1 |
 | 206 | Park Victoria Dental | dentist | 33 South Park Victoria Drive, Milpitas, CA, 95035 | (408) 942-1000 | 0.0 | 61.2 |
 | 207 | Tina's Hair Design | hairdresser | 31 South Park Victoria Drive, Milpitas, CA, 95035 | (408) 946-5234 | 0.0 | 61.2 |
 | 208 | Calaveras Family Dentistry | dentist | 79 Dempsey Road, Milpitas, CA, 95035 | (408) 263-0900 | 0.1 | 61.2 |
@@ -389,7 +389,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 269 | Blue Ginger Indian Restaurant | restaurant | 28565 Hesperian Boulevard, Hayward, CA, 94545 | (510) 397-6772 | 1.3 | 87.1 |
 | 270 | pho ty II | restaurant | 27461 Hesperian Boulevard, Hayward | (510) 783-9888 | 1.2 | 88.3 |
 | 271 | Bamboo Steamer | restaurant | 24297 Hesperian Boulevard, Hayward, CA, 94545 | (510) 300-3388 | 1.6 | 89.9 |
-| 272 | Kennedy Snack Shop | fast_food |  | (510) 670-7275 | 1.4 | 91.3 |
+| 272 | Kennedy Snack Shop | fast_food | 19501 Hesperian Boulevard, San Lorenzo, California, 94580 (reverse-geocoded approximate) | (510) 670-7275 | 1.4 | 91.3 |
 | 273 | Sivan's Cafe | cafe | 766 A Street, Hayward, CA, 94541 | (510) 538-5911 | 1.9 | 93.2 |
 | 274 | Pistons Car Care Center | car_repair | 22484 Mission Boulevard | (510) 582-0227 | 0.1 | 93.3 |
 | 275 | Dumpling Kitchen Express | fast_food | 3295 Castro Valley Boulevard, Castro Valley, CA, 94546 | (510) 210-0388 | 1.5 | 94.9 |
@@ -444,17 +444,17 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 324 | Royal Ground Coffee | cafe | 2409 Shattuck Avenue, Berkeley, CA, 94704 | (510) 849-9888 | 0.2 | 125.5 |
 | 325 | 眷湘 Easterly | restaurant | 2323 Shattuck Avenue, Berkeley | (510) 647-8008 | 0.1 | 125.6 |
 | 326 | Paul's Shoe Repair | shoes | 2281 Shattuck Avenue, Berkeley | (510) 843-1570 | 0.1 | 125.7 |
-| 327 | Frank's Tailoring | tailor |  | (510) 848-4232 | 0.6 | 126.3 |
-| 328 | Organic Greens | restaurant |  | (510) 704-0554 | 0.5 | 126.8 |
-| 329 | Siamese Dream | clothes |  | (510) 428-9987 | 0.4 | 127.2 |
+| 327 | Frank's Tailoring | tailor | Telegraph Avenue, Berkeley, California, 94705 (reverse-geocoded approximate) | (510) 848-4232 | 0.6 | 126.3 |
+| 328 | Organic Greens | restaurant | 2925 College Avenue, Berkeley, California, 94705 (reverse-geocoded approximate) | (510) 704-0554 | 0.5 | 126.8 |
+| 329 | Siamese Dream | clothes | 3170 College Avenue, Berkeley, California, 94168 (reverse-geocoded approximate) | (510) 428-9987 | 0.4 | 127.2 |
 | 330 | Better Cuts Salon | hairdresser | 4212 Piedmont Avenue | (510) 428-2466 | 1.6 | 128.9 |
 | 331 | Young's Automotive | car_repair | 3509 Grand Avenue | (510) 444-4185 | 0.9 | 129.8 |
-| 332 | Dumpling Hours | restaurant |  | (510) 891-9888 | 0.3 | 130.1 |
+| 332 | Dumpling Hours | restaurant | 3321;3329 Lakeshore Avenue, Oakland, California, 94610 (reverse-geocoded approximate) | (510) 891-9888 | 0.3 | 130.1 |
 | 333 | Taqueria el Cruzero | restaurant | 1309 MacArthur Boulevard | (510) 532-3333 | 0.9 | 131.0 |
-| 334 | The Cutting Place | beauty |  | (510) 530-8087 | 0.6 | 131.6 |
+| 334 | The Cutting Place | beauty | Park Boulevard, Oakland, California, 94602 (reverse-geocoded approximate) | (510) 530-8087 | 0.6 | 131.6 |
 | 335 | Napoleon's | beauty | 3427 Fruitvale Avenue, Oakland, CA, 94602 | (510) 479-3487 | 0.6 | 132.2 |
 | 336 | Hunan Yuan | restaurant | 4100 Redwood Road, Oakland, CA, 94619 | (510) 531-1415 | 1.9 | 134.1 |
-| 337 | Panel craft | car_repair |  | (510) 548-0815 | 7.0 | 141.1 |
+| 337 | Panel craft | car_repair | 2828 San Pablo Avenue, Berkeley, California, 94702 (reverse-geocoded approximate) | (510) 548-0815 | 7.0 | 141.1 |
 | 338 | Quince Cafe & Grill | cafe | 2228 San Pablo Avenue, Berkeley, CA, 94702 | (510) 666-0094 | 0.7 | 141.8 |
 | 339 | Seabreeze | restaurant | 598 University Avenue, Berkeley, CA | (510) 486-8119 | 0.8 | 142.6 |
 | 340 | Swiss Louis | restaurant | Pier 39, San Francisco, CA, 94133 | (415) 421-2913 | 6.9 | 149.5 |
@@ -469,7 +469,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 349 | Yummy BBQ Kitchen | restaurant | 683 Broadway | (415) 378-3768 | 0.0 | 150.9 |
 | 350 | V.I.P Coffee & Cake Shop | bakery | 671 Broadway | (415) 989-7118 | 0.0 | 150.9 |
 | 351 | Wa Li Bakery & Cafe | bakery | 1249 Stockton Street, San Francisco, CA | (415) 986-1660 | 0.0 | 151.0 |
-| 352 | Yummy Yummy | restaurant |  | (415) 391-1068 | 0.1 | 151.1 |
+| 352 | Yummy Yummy | restaurant | 758;760 Pacific Avenue, San Francisco, California, 94133 (reverse-geocoded approximate) | (415) 391-1068 | 0.1 | 151.1 |
 | 353 | Little Paris | restaurant | 1131 Stockton Street, San Francisco, CA, 94133 | (415) 982-6111 | 0.1 | 151.1 |
 | 354 | The AA Bakery & Cafe | bakery | 1068 Stockton Street, San Francisco, CA | (415) 981-0123 | 0.0 | 151.2 |
 | 355 | Joy's Hair Salon | hairdresser | 894 Washington Street | (415) 391-3832 | 0.0 | 151.2 |
@@ -483,21 +483,21 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 363 | Tokyo Express: Teriyaki House | restaurant | 660 Sacramento Street | (415) 956-3040 | 0.1 | 151.5 |
 | 364 | Jinshan Cafe | cafe | 781 Sacramento Street | (415) 466-8117 | 0.1 | 151.6 |
 | 365 | Sushi Boat Restaurant | restaurant | 700 Grant Avenue | (415) 872-9008 | 0.0 | 151.6 |
-| 366 | L.D Jewelry | jewelry |  | (415) 391-1883 | 0.1 | 151.7 |
+| 366 | L.D Jewelry | jewelry | Grant Avenue, San Francisco, California, 94108 (reverse-geocoded approximate) | (415) 391-1883 | 0.1 | 151.7 |
 | 367 | Sutter Cafe | cafe | 330 Sutter Street, San Francisco, CA, 94108 | (415) 434-3309 | 0.1 | 151.9 |
 | 368 | Richard's Hair Design | hairdresser | 330 Sutter Street, San Francisco, CA, 94108 | (415) 981-7028 | 0.0 | 151.9 |
 | 369 | BLOOMING ALLEY | florist | 330 Sutter Street, San Francisco, CA, 94108 | (415) 391-6574 | 0.0 | 151.9 |
 | 370 | Tailored Salon | beauty | 266 Sutter Street, San Francisco, CA, 94108 | (415) 501-9205 | 0.1 | 151.9 |
-| 371 | HB Alterations | tailor |  | (415) 986-2959 | 0.0 | 152.0 |
+| 371 | HB Alterations | tailor | Claude Lane, San Francisco, California, 94108 (reverse-geocoded approximate) | (415) 986-2959 | 0.0 | 152.0 |
 | 372 | Boydstun & Klingner CPA's | accountant | 235 Montgomery Street, San Francisco, CA, 94104 | (415) 986-9900 | 0.1 | 152.1 |
 | 373 | Caffè Bianco | cafe | 39 Sutter Street, San Francisco, CA, 94104 | (415) 780-1807 | 0.1 | 152.2 |
 | 374 | Yank Sing | restaurant | 49 Stevenson Street | (415) 541-4949 | 0.1 | 152.3 |
-| 375 | Caramba | restaurant |  | (415) 543-8226 | 0.1 | 152.5 |
+| 375 | Caramba | restaurant | 2nd Street, San Francisco, California, 94104 (reverse-geocoded approximate) | (415) 543-8226 | 0.1 | 152.5 |
 | 376 | New Ming's Restaurant | restaurant | 641 Mission Street, San Francisco, CA | (415) 227-4798 | 0.1 | 152.5 |
 | 377 | St. John | clothes | 767 Market Street, San Francisco, CA, 94103 | (415) 856-0420 | 0.2 | 152.8 |
 | 378 | Nave Cafe | cafe | 242 Powell Street, 94102 | (415) 601-2677 | 0.2 | 152.9 |
 | 379 | Barcelino per Donna | clothes | 476 Post Street | (415) 912-5700 | 0.1 | 153.1 |
-| 380 | Noori Stitch | tailor |  | (510) 695-4471 | 0.1 | 153.1 |
+| 380 | Noori Stitch | tailor | Powell Street, San Francisco, California, 94108 (reverse-geocoded approximate) | (510) 695-4471 | 0.1 | 153.1 |
 | 381 | Maru Sushi | restaurant | 529 Powell Street, San Francisco, CA, 94108 | (415) 393-9911 | 0.1 | 153.2 |
 | 382 | Beanstalk Cafe | cafe | 724 Bush Street, 94108 | (415) 576-1966 | 0.0 | 153.2 |
 | 383 | Fresh Brew Coffee | cafe | 882 Bush Street | (415) 567-0915 | 0.1 | 153.4 |
@@ -509,11 +509,11 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 389 | Ling's Salon | hairdresser | 648 Hyde Street | (415) 921-8402 | 0.1 | 153.8 |
 | 390 | Golden Door Barber | hairdresser | 764 Geary Street | (415) 874-9626 | 0.1 | 153.8 |
 | 391 | Ling Beauty Salon | beauty | 753 O'Farrell Street | (415) 361-6779 | 0.1 | 153.9 |
-| 392 | Mayfair Beauty Salon | beauty |  | (415) 474-4853 | 0.1 | 154.0 |
+| 392 | Mayfair Beauty Salon | beauty | 333;335 Hyde Street, San Francisco, California, 94102 (reverse-geocoded approximate) | (415) 474-4853 | 0.1 | 154.0 |
 | 393 | Mộng Thu | restaurant | 248 Hyde Street | (415) 928-6724 | 0.1 | 154.1 |
 | 394 | Larkin Restaurant | restaurant | 607 Larkin Street, San Francisco, CA | (415) 400-4463 | 0.1 | 154.2 |
 | 395 | Sam's Bakery | bakery | 753 Polk Street, San Francisco | (415) 834-5682 | 0.1 | 154.3 |
-| 396 | Jarin Thia Cuisine | restaurant |  | (415) 563-5746 | 0.0 | 154.3 |
+| 396 | Jarin Thia Cuisine | restaurant | Ellis Street, San Francisco, California, 94102 (reverse-geocoded approximate) | (415) 563-5746 | 0.0 | 154.3 |
 | 397 | Pronto Pizza & Espresso | restaurant | 798 Eddy Street, San Francisco | (415) 921-1999 | 0.1 | 154.4 |
 | 398 | Cafe 450 Eurest Dining | cafe | 450 Golden Gate Avenue, San Francisco, CA, 94102 | (415) 621-0874 | 0.1 | 154.5 |
 | 399 | Mom Banh Mi | cafe | 411 Ellis Street, San Francisco, CA | (415) 796-2492 | 0.4 | 154.9 |
@@ -527,7 +527,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 407 | Ton Ton Japanese Ramen House | restaurant | 422 Geary Street, San Francisco, CA | (415) 874-9664 | 0.1 | 155.2 |
 | 408 | Cable Car Coffee | cafe | 900 Market Street | (415) 470-0170 | 0.2 | 155.4 |
 | 409 | Taquerria Castillo B2 | restaurant | 10 Mason Street, San Francisco, CA, 94102 | (415) 986-0426 | 0.1 | 155.5 |
-| 410 | Ady Barber & Beauty | hairdresser |  | (415) 341-1047 | 0.2 | 155.7 |
+| 410 | Ady Barber & Beauty | hairdresser | Mission Street, San Francisco, California, 94103 (reverse-geocoded approximate) | (415) 341-1047 | 0.2 | 155.7 |
 | 411 | U & I Auto Safety Center | car_repair | 758 Bryant Street, San Francisco, CA | (415) 255-7337 | 0.5 | 156.1 |
 | 412 | Hello Bahn Mi | fast_food | 681 Townsend Street | (415) 658-7181 | 0.5 | 156.6 |
 | 413 | Yamato Auto Repair | car_repair | 1359 Harrison Street | (415) 346-5116 | 0.4 | 157.0 |
@@ -587,7 +587,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 467 | El Trebol | bar | 3149 22nd Street, San Francisco, CA, 94110 | (415) 647-5774 | 0.3 | 162.7 |
 | 468 | Pan Lido Salvadoreno | bakery | 3147 22nd Street, San Francisco, CA, 94110 | (415) 282-3350 | 0.0 | 162.7 |
 | 469 | Fiesta Laundromat | laundry | 898 South Van Ness Avenue, 94110 | (415) 401-7605 | 0.2 | 162.9 |
-| 470 | Homestead | bar |  | (415) 282-4663 | 0.2 | 163.1 |
+| 470 | Homestead | bar | 19th Street, San Francisco, California, 94110 (reverse-geocoded approximate) | (415) 282-4663 | 0.2 | 163.1 |
 | 471 | El Tepa | restaurant | 2198 Folsom Street | (415) 255-8372 | 0.1 | 163.2 |
 | 472 | Irma's Pampagna Restaurant | restaurant | 2901 16th Street | (415) 626-6688 | 0.2 | 163.5 |
 | 473 | El Yucateco Bakery | bakery | 2907 16th Street | (415) 655-3402 | 0.0 | 163.5 |
@@ -661,11 +661,11 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 541 | SF Nail Spa | beauty | 1324 Noriega Street, San Francisco, CA, 94122 | (415) 564-5581 | 0.0 | 172.0 |
 | 542 | Be Salon | beauty | 1306 Noriega Street, San Francisco, CA, 94122 | (415) 926-2227 | 0.0 | 172.0 |
 | 543 | Jenny's Hair Salon | hairdresser | 1235 Noriega Street | (415) 242-0168 | 0.0 | 172.0 |
-| 544 | Oriental Seafood Restaurant | restaurant |  | (415) 661-8808 | 0.8 | 172.8 |
+| 544 | Oriental Seafood Restaurant | restaurant | Noriega Street, San Francisco, California, 94116 (reverse-geocoded approximate) | (415) 661-8808 | 0.8 | 172.8 |
 | 545 | Duke's Hardware | hardware | 2526 Noriega Street, San Francisco, CA, 94122-4127 | (415) 753-0258 | 0.0 | 172.8 |
 | 546 | Kaili Beauty Nail Salon | beauty | 2545 Noriega Street | +1 415-741-6822; +1 415-527-8398 | 0.0 | 172.8 |
 | 547 | Sunset Hardware | hardware | 3126 Noriega Street, San Francisco, CA, 94122 | (415) 987-6048 | 0.3 | 173.1 |
-| 548 | JT’s Auto Repair | car_repair |  | (415) 636-6656 | 0.3 | 173.5 |
+| 548 | JT’s Auto Repair | car_repair | 3601 Lawton Street, San Francisco, California, 94122 (reverse-geocoded approximate) | (415) 636-6656 | 0.3 | 173.5 |
 | 549 | Law Office Of Kurt D. Huysentruyt | lawyer | 3630 Lawton Street | (415) 661-5565 | 0.0 | 173.5 |
 | 550 | J J Cosmetology Health Spa | beauty | 3800 Noriega Street, San Francisco, CA, 94122 | (415) 731-8888 | 0.3 | 173.8 |
 | 551 | The Clean Cycle Laundromat | laundry | 1454 48th Avenue, San Francisco, CA, 94122 | (415) 935-1681 | 0.5 | 174.3 |
@@ -692,7 +692,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 572 | Ruby's Cut | hairdresser | 2838 Clement Street | (415) 751-1662 | 0.1 | 177.2 |
 | 573 | Jang Soo BBQ | restaurant | 6314 Geary Boulevard, San Francisco, CA, 94121 | (415) 221-8282 | 0.2 | 177.4 |
 | 574 | George Jee Insurance Services | insurance | 6125 Geary Boulevard | (415) 668-3272 | 0.1 | 177.5 |
-| 575 | Qué Chulada | restaurant |  | (415) 702-6433 | 0.2 | 177.7 |
+| 575 | Qué Chulada | restaurant | 5848;5850 Geary Boulevard, San Francisco, California, 94121 (reverse-geocoded approximate) | (415) 702-6433 | 0.2 | 177.7 |
 | 576 | An Chi | restaurant | 5827 Geary Boulevard, San Francisco, CA, 94121 | (415) 702-9986 | 0.0 | 177.7 |
 | 577 | Nail Care by Theresa | beauty | 5815 Geary Boulevard | (415) 806-8329 | 0.0 | 177.7 |
 | 578 | Pho Huong Viet | restaurant | 5733 Geary Boulevard | (415) 702-6177 | 0.0 | 177.8 |
@@ -703,7 +703,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 583 | Bao Bao Dumpling | restaurant | 5145 Geary Boulevard | (415) 386-0388 | 0.0 | 178.1 |
 | 584 | amphawa | restaurant | 5020 Geary Boulevard | (415) 221-2824 | 0.1 | 178.2 |
 | 585 | Sagarmatha Kitchen | restaurant | 4828 Geary Boulevard | (415) 571-8105 | 0.1 | 178.3 |
-| 586 | Randolph Yip, DDS | dentist |  | (415) 221-4800 | 0.0 | 178.3 |
+| 586 | Randolph Yip, DDS | dentist | 4800;4804 Geary Boulevard, San Francisco, California, 94118 (reverse-geocoded approximate) | (415) 221-4800 | 0.0 | 178.3 |
 | 587 | Express Pupuseria | fast_food | 4715 Geary Boulevard | (415) 666-3534 | 0.1 | 178.4 |
 | 588 | Korean Village Wooden Charcoal | restaurant | 4611 Geary Boulevard | (415) 751-6336 | 0.1 | 178.4 |
 | 589 | Celandine Day Spa | beauty | 404 8th Avenue | (415) 666-0800 | 0.1 | 178.6 |
@@ -730,7 +730,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 610 | Fuku Ramen | restaurant | 2110 Clement Street | (415) 683-5979 | 0.3 | 179.9 |
 | 611 | Thanh Thanh Café | cafe | 2205 Clement Street | (415) 387-1759 | 0.1 | 179.9 |
 | 612 | Kayo Hair | hairdresser | 2211 Clement Street | (415) 831-2222 | 0.0 | 179.9 |
-| 613 | Izakaya Mayumi | restaurant |  | (415) 742-4159 | 0.0 | 180.0 |
+| 613 | Izakaya Mayumi | restaurant | 2221;2223 Clement Street, San Francisco, California, 94121 (reverse-geocoded approximate) | (415) 742-4159 | 0.0 | 180.0 |
 | 614 | Blossom Beauty Salon & Spa | beauty | 2416 Clement Street | (415) 702-6818 | 0.1 | 180.1 |
 | 615 | Chef Xiong Kitchen | restaurant | 2428 Clement Street, San Francisco, CA, 94121 | (415) 706-1623 | 0.0 | 180.1 |
 | 616 | Indian Clay Oven | restaurant | 2438 Clement Street | (415) 751-5000 | 0.0 | 180.1 |
@@ -751,11 +751,11 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 631 | Katsuo+Kombu | restaurant | 559 Divisadero Street | (415) 829-3150 | 0.1 | 184.0 |
 | 632 | Club Waziema | restaurant | 543 Divisadero Street, San Francisco, 94117 | (415) 346-6641 | 0.0 | 184.0 |
 | 633 | Asian American Medical Center | dentist | 1630 Geary Boulevard, CA | (415) 346-2828 | 0.8 | 184.8 |
-| 634 | Osakaya | restaurant |  | (415) 922-2728 | 0.0 | 184.8 |
+| 634 | Osakaya | restaurant | Geary Boulevard, San Francisco, California, 95115 (reverse-geocoded approximate) | (415) 922-2728 | 0.0 | 184.8 |
 | 635 | Trio Nails | beauty | 1832 Buchanan Street | (415) 931-9261 | 0.1 | 185.0 |
 | 636 | Elite Fine Jewelry | jewelry | 2480 Sacramento Street | (415) 931-9100 | 0.3 | 185.3 |
 | 637 | San Francisco Animal Medical Center | veterinary | 2343 Fillmore Street | (415) 872-1872 | 0.1 | 185.4 |
-| 638 | 9 Nail Spa | beauty |  | (415) 567-3861 | 0.6 | 186.0 |
+| 638 | 9 Nail Spa | beauty | Franklin Street, San Francisco, California, 94164 (reverse-geocoded approximate) | (415) 567-3861 | 0.6 | 186.0 |
 | 639 | Wayo | restaurant | 1407 Van Ness Avenue, San Francisco, CA | (415) 561-9598 | 0.1 | 186.1 |
 | 640 | Route 101 | bar | 1332 Van Ness Avenue, San Francisco, CA, 94109 | (415) 874-9360 | 0.0 | 186.1 |
 | 641 | La Fina Estampa | restaurant | 1407 Bush Street, San Francisco, CA, 94109 | (415) 345-1685 | 0.1 | 186.2 |
@@ -763,7 +763,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 643 | Aicha | restaurant | 1303 Polk Street, San Francisco, CA | (415) 345-9947 | 0.0 | 186.2 |
 | 644 | Victor's Pizzeria & Restaurant | restaurant | 1411 Polk Street, San Francisco, CA | (415) 885-1660 | 0.1 | 186.3 |
 | 645 | Cordon Bleu | restaurant | 1574 California Street, San Francisco, CA, 94109 | (415) 673-5637 | 0.1 | 186.3 |
-| 646 | Lan's Formal Wear | clothes |  | (415) 921-2615 | 0.0 | 186.4 |
+| 646 | Lan's Formal Wear | clothes | 1538;1540;1542;1544 Polk Street, San Francisco, California, 94109 (reverse-geocoded approximate) | (415) 921-2615 | 0.0 | 186.4 |
 | 647 | Zee Continental Jewelry | jewelry | 1546 Polk Street | (415) 775-2935 | 0.0 | 186.4 |
 | 648 | CC Nail Spa | beauty | 1472 California Street, San Francisco, CA | (415) 887-8989 | 0.1 | 186.5 |
 | 649 | Hair Future | hairdresser | 1434 California Street | (415) 771-9577 | 0.0 | 186.5 |
@@ -771,7 +771,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 651 | Costa Del Sol Tanning | beauty | 1426 California Street, San Francisco, CA | (415) 771-3577 | 0.0 | 186.5 |
 | 652 | Hair on Hyde | hairdresser | 1402 California Street | (415) 674-9689 | 0.0 | 186.6 |
 | 653 | The Floral Designer | florist | 963 Hyde Street | (415) 775-2757 | 0.1 | 186.6 |
-| 654 | Armando for Hair | hairdresser |  | (415) 441-1724 | 0.2 | 186.8 |
+| 654 | Armando for Hair | hairdresser | Sutter Street, San Francisco, California, 94164 (reverse-geocoded approximate) | (415) 441-1724 | 0.2 | 186.8 |
 | 655 | Wen's Kitchen | restaurant | 1150 Polk Street, San Francisco, CA, 94109 | (415) 771-6888 | 0.0 | 186.9 |
 | 656 | Mustafio's Pizza | fast_food | 1116 Polk Street | (415) 932-6779 | 0.0 | 186.9 |
 | 657 | Piroo | restaurant | 1101 Polk Street, San Francisco, CA, 94109 | (415) 757-0756 | 0.0 | 186.9 |
@@ -779,7 +779,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 659 | Village Pizzeria | restaurant | 1243 Van Ness Avenue, San Francisco, CA | (415) 673-7771 | 0.0 | 187.0 |
 | 660 | Fingertips | beauty | 1309 Sutter Street, San Francisco | (415) 567-2092 | 0.0 | 187.0 |
 | 661 | West Coast Nails | beauty | 1821 Larkin Street, San Francisco, 94109 | (415) 928-1859 | 0.5 | 187.6 |
-| 662 | Union Nails | beauty |  | (415) 931-0414 | 0.1 | 187.6 |
+| 662 | Union Nails | beauty | 1601 Pacific Avenue, San Francisco, California, 94109 (reverse-geocoded approximate) | (415) 931-0414 | 0.1 | 187.6 |
 | 663 | Pearly Nails | beauty | 2015 Van Ness Avenue | (415) 567-2866 | 0.1 | 187.7 |
 | 664 | Ramen Sho Ryu | restaurant | 2123 Polk Street, San Francisco, CA, 94109 | (415) 400-4732 | 0.1 | 187.9 |
 | 665 | Little Kitchen | restaurant | 2401 Polk Street, San Francisco | (415) 922-5526 | 0.2 | 188.0 |
@@ -789,7 +789,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 669 | Yong Chang Hair Design | hairdresser | 942 Pacific Avenue, San Francisco | (415) 693-9282 | 0.1 | 188.8 |
 | 670 | A&A Hair Design | hairdresser | 835 Broadway, San Francisco, CA | (415) 989-8285 | 0.0 | 188.9 |
 | 671 | Jason's Salon | hairdresser | 807 Broadway, San Francisco, CA | (415) 699-4629 | 0.0 | 188.9 |
-| 672 | Comprehensive Dental Care | dentist |  | (415) 392-0788 | 0.0 | 188.9 |
+| 672 | Comprehensive Dental Care | dentist | Broadway, San Francisco, California, 94133 (reverse-geocoded approximate) | (415) 392-0788 | 0.0 | 188.9 |
 | 673 | Lana Beauty Salon | hairdresser | 784 Broadway, San Francisco, CA, 94133 | (415) 986-5172 | 0.0 | 189.0 |
 | 674 | Happy Chinese Restaurant | restaurant | 1326 Powell Street, San Francisco | (415) 398-1268 | 0.0 | 189.0 |
 | 675 | Powell Florist | florist | 1230 Powell Street, San Francisco, CA | (415) 781-8788 | 0.1 | 189.1 |
@@ -819,16 +819,16 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 699 | Four Seasons Nails and Spa | beauty | 451 Cortland Avenue | (415) 282-2531 | 0.7 | 194.6 |
 | 700 | Bernal Heights Nail Care | beauty | 430A Cortland Avenue | (415) 401-9096 | 0.0 | 194.7 |
 | 701 | Progressive Grounds | cafe | 400 Cortland Avenue | (415) 282-6233 | 0.0 | 194.7 |
-| 702 | LP Decorative Plumbing | plumber |  | (415) 641-7928 | 0.0 | 194.7 |
+| 702 | LP Decorative Plumbing | plumber | Cortland Avenue, San Francisco, California, 94110 (reverse-geocoded approximate) | (415) 641-7928 | 0.0 | 194.7 |
 | 703 | Brown Bear Realty | estate_agent | 303 Cortland Avenue | (415) 285-5700 | 0.0 | 194.7 |
 | 704 | Moonlight Cafe | restaurant | 634 Cortland Avenue | (415) 647-6448 | 0.2 | 194.9 |
 | 705 | Tacos Los Altos | restaurant | 737 Cortland Avenue, 94110 | (415) 821-0701 | 0.0 | 194.9 |
 | 706 | Silver Crest Donut Shop | restaurant | 340 Bayshore Boulevard, San Francisco, CA, 94124 | (415) 826-0753 | 0.5 | 195.5 |
 | 707 | 3R Automotive | car_repair | 240 Bayshore Boulevard | (415) 955-7277 | 0.2 | 195.6 |
-| 708 | Generation Nails | beauty |  | (415) 648-2933 | 1.0 | 196.6 |
+| 708 | Generation Nails | beauty | Evans Avenue, San Francisco, California, 94124 (reverse-geocoded approximate) | (415) 648-2933 | 1.0 | 196.6 |
 | 709 | Center Hardware | hardware | 3003;3095 3rd Street, San Francisco, CA, 94107-3505 | (415) 861-1800 | 0.6 | 197.2 |
-| 710 | Yan Li | restaurant |  | (415) 822-8978 | 1.3 | 198.5 |
-| 711 | Golden City | fast_food |  | (415) 822-3003 | 0.1 | 198.6 |
+| 710 | Yan Li | restaurant | 3rd Street, San Francisco, California, 94124 (reverse-geocoded approximate) | (415) 822-8978 | 1.3 | 198.5 |
+| 711 | Golden City | fast_food | 3rd Street, San Francisco, California, 94124 (reverse-geocoded approximate) | (415) 822-3003 | 0.1 | 198.6 |
 | 712 | Taqueria Gonzalez | restaurant | 2527;2529;2531 San Bruno Avenue | (415) 468-4293 | 0.7 | 199.3 |
 | 713 | 2546 Cafe | restaurant | 2546 San Bruno Avenue | (415) 468-8008 | 0.0 | 199.3 |
 | 714 | Ming Hing Restaurant | restaurant | 2550 San Bruno Avenue | (415) 468-5309 | 0.0 | 199.3 |
@@ -856,7 +856,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 736 | Da Pan | fast_food | 3995 Alemany Boulevard | (698) 895-0501 | 0.7 | 204.7 |
 | 737 | Hall of Flame | restaurant | 73 Cambon Drive, 94132 | (415) 584-4444 | 0.6 | 205.3 |
 | 738 | Emmy's Restaurant | restaurant | 1923 Ocean Avenue, San Francisco, CA, 94127 | (415) 585-8887 | 0.8 | 206.1 |
-| 739 | Mahogany House of Styles | beauty |  | (415) 239-5156 | 0.1 | 206.2 |
+| 739 | Mahogany House of Styles | beauty | Ocean Avenue, San Francisco, California, 94127 (reverse-geocoded approximate) | (415) 239-5156 | 0.1 | 206.2 |
 | 740 | Java on Ocean Cafe | cafe | 1700 Ocean Avenue, San Francisco, CA, 94112 | (415) 333-6075 | 0.0 | 206.2 |
 | 741 | Jolie Elegance Spa | beauty | 1418 Ocean Avenue | (415) 585-2409 | 0.1 | 206.4 |
 | 742 | Sakesan Sushi & Robata | restaurant | 1400 Ocean Avenue, San Francisco, CA, 94112 | (415) 347-7898 | 0.0 | 206.4 |
@@ -879,19 +879,19 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 759 | Dumpling Kitchen | restaurant | 1935 Taraval Street, San Francisco, CA, 94116 | (415) 662-8938 | 0.1 | 209.4 |
 | 760 | Bright N' Clean Laundry Center | laundry | 2900 Taraval Street | (510) 579-8419 | 0.6 | 209.9 |
 | 761 | Gentle Nail Salon | beauty | 1414 9th Avenue | (415) 702-6559 | 2.2 | 212.1 |
-| 762 | Green Spa & Nail | beauty |  | (415) 702-6704 | 0.0 | 212.1 |
+| 762 | Green Spa & Nail | beauty | Judah Street, San Francisco, California, 94122 (reverse-geocoded approximate) | (415) 702-6704 | 0.0 | 212.1 |
 | 763 | Hing Wang Bakery | restaurant | 339 Judah Street, San Francisco, CA, 94122 | (415) 681-3928 | 0.0 | 212.1 |
 | 764 | Sensi Nails | beauty | 338 Judah Street, CA, 94122 | (415) 665-6245 | 0.0 | 212.1 |
 | 765 | Tun Beauty Salon | beauty | 1373 7th Avenue, San Francisco, CA, 94122 | (415) 564-8982 | 0.1 | 212.2 |
 | 766 | May Lee's Restaurant | restaurant | 1256 7th Avenue, San Francisco, CA, 94122 | (415) 242-1006 | 0.1 | 212.4 |
 | 767 | Choice Yakiniku | restaurant | 5214A Diamond Heights Boulevard, San Francisco, CA, 94131 | (415) 206-9755 | 2.0 | 214.3 |
-| 768 | Pupuseria El Golazo | fast_food |  | (650) 759-5980 | 2.2 | 216.5 |
+| 768 | Pupuseria El Golazo | fast_food | Geneva Avenue, San Francisco, California, 94112 (reverse-geocoded approximate) | (650) 759-5980 | 2.2 | 216.5 |
 | 769 | Round N Round Pot | restaurant | 182 Old County Road, Brisbane, CA, 94005 | (415) 715-8419 | 2.5 | 219.0 |
 | 770 | Melissa's Taqueria | restaurant | 160 Visitacion Avenue, Brisbane, CA, 94005 | (415) 656-1369 | 0.2 | 219.3 |
 | 771 | South City Hair | hairdresser | 250 Grand Avenue, South San Francisco, CA | (650) 873-6787 | 2.0 | 221.2 |
 | 772 | Cafe Bunn Mi | restaurant | 226 Grand Avenue, South San Francisco, CA | (650) 745-8883 | 0.0 | 221.3 |
 | 773 | Fil-Am Cuisine 2 | fast_food | 321 Grand Avenue, South San Francisco | (650) 871-5010 | 0.1 | 221.3 |
-| 774 | San Bruno Transmission & Auto Repair | car_repair |  | (650) 589-2122 | 1.7 | 223.0 |
+| 774 | San Bruno Transmission & Auto Repair | car_repair | San Bruno Avenue East, San Bruno, California, 94066 (reverse-geocoded approximate) | (650) 589-2122 | 1.7 | 223.0 |
 | 775 | The Kitchen | restaurant | 279 El Camino Real, Milbrae, CA, 94030 | (650) 692-9688 | 2.3 | 225.3 |
 | 776 | De Design | beauty | 289 Broadway | (650) 697-1210 | 0.0 | 225.4 |
 | 777 | V&V Nails | beauty | 220 Broadway | (650) 652-9999 | 0.0 | 225.4 |
@@ -903,7 +903,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 783 | Bucky’s Cocktail Lounge | bar | 101 South Boulevard, San Mateo, CA | (650) 349-4711 | 1.3 | 232.0 |
 | 784 | Jack's Restaurant | restaurant | 1750 South El Camino Real, San Mateo, CA, 94402 | (650) 350-1077 | 0.2 | 232.2 |
 | 785 | The Pantry | restaurant | 1855 South Delaware Street, San Mateo, CA, 94402 | (650) 345-4544 | 0.5 | 232.6 |
-| 786 | Sunesy Hair Design | hairdresser |  | (650) 437-2271 | 0.6 | 233.2 |
+| 786 | Sunesy Hair Design | hairdresser | South El Camino Real, San Mateo, California, 94402 (reverse-geocoded approximate) | (650) 437-2271 | 0.6 | 233.2 |
 | 787 | Java Blue (Patio Coffee Shop) | restaurant | 25 West 25th Avenue, 94403 | (650) 570-3037 | 0.1 | 233.3 |
 | 788 | Pilgrim Kitchen | bakery | 311 El Camino Real, Belmont, CA, 94002 | (650) 592-0638 | 1.5 | 234.8 |
 | 789 | Belmont Dental | dentist | Masonic Way | (650) 593-5110 | 0.7 | 235.6 |
@@ -926,20 +926,20 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 806 | Peach Garden | restaurant | 5862 Mowry School Road, Newark, CA, 94560 | (510) 770-0777 | 5.0 | 259.8 |
 | 807 | Balentine Plaza Dental Care | dentist | 5866 Mowry School Road, Newark, CA, 94560 | (510) 656-4400 | 0.0 | 259.8 |
 | 808 | Balentine Beauty Salon | hairdresser | 5876 Mowry School Road, Newark, CA, 94560 | (510) 659-1860 | 0.0 | 259.8 |
-| 809 | Mary’s Barbershop | hairdresser |  | (925) 568-0021 | 7.8 | 267.6 |
+| 809 | Mary’s Barbershop | hairdresser | 11853 Main Street, California, 94586 (reverse-geocoded approximate) | (925) 568-0021 | 7.8 | 267.6 |
 | 810 | Yat Sing Chinese Food | restaurant | 5400 Sunol Boulevard, Pleasanton, CA, 94566 | (925) 484-1008 | 4.1 | 271.6 |
 | 811 | Jim's Country Style Restaurant | restaurant | 5400 Sunol Boulevard, Pleasanton, CA, 94566 | (925) 426-7019 | 0.0 | 271.7 |
-| 812 | Main St. Hair Extensions Bar | hairdresser |  | (925) 339-2395 | 0.4 | 272.1 |
-| 813 | Brush & Blow | hairdresser |  | (925) 249-5139 | 0.1 | 272.2 |
+| 812 | Main St. Hair Extensions Bar | hairdresser | 260;264;268 Main Street, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 339-2395 | 0.4 | 272.1 |
+| 813 | Brush & Blow | hairdresser | West Angela Street, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 249-5139 | 0.1 | 272.2 |
 | 814 | Mr. Sun - Pleasanton | cafe | 440 Main Street, Pleasanton, CA, 94566 | (925) 425-9033 | 0.1 | 272.3 |
-| 815 | Sculptations Boutique | beauty |  | (925) 381-9300 | 0.1 | 272.4 |
-| 816 | Estrella Designs | tailor |  | (925) 408-2985 | 0.0 | 272.4 |
-| 817 | Aila aesthetics | beauty |  | (925) 313-7780 | 0.2 | 272.6 |
-| 818 | Lavendar Nail Salon | beauty |  | (925) 462-6907 | 0.9 | 273.5 |
+| 815 | Sculptations Boutique | beauty | Division Street, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 381-9300 | 0.1 | 272.4 |
+| 816 | Estrella Designs | tailor | Division Street, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 408-2985 | 0.0 | 272.4 |
+| 817 | Aila aesthetics | beauty | 148;164 Ray Street, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 313-7780 | 0.2 | 272.6 |
+| 818 | Lavendar Nail Salon | beauty | 3550 Bernal Avenue, Pleasanton, California, 94566 (reverse-geocoded approximate) | (925) 462-6907 | 0.9 | 273.5 |
 | 819 | The Jelly Donut | cafe | 2897 Hopyard Road, Pleasanton, CA, 94588 | (925) 462-1343 | 2.3 | 275.8 |
 | 820 | Shear Cuts | hairdresser | 2739 Hopyard Road, Pleasanton, CA, 94588 | (925) 462-0123 | 0.1 | 275.9 |
 | 821 | Hopyard Nails | beauty | 2723 Hopyard Road, Pleasanton, CA, 94588 | (925) 462-2261 | 0.0 | 275.9 |
-| 822 | Monaco Hair And Nails | beauty |  | (925) 479-0999 | 2.1 | 278.0 |
+| 822 | Monaco Hair And Nails | beauty | Dublin Boulevard, Dublin, California, 94588 (reverse-geocoded approximate) | (925) 479-0999 | 2.1 | 278.0 |
 | 823 | Haveli Indian Cuisine | restaurant | 4582 Dublin Boulevard, Dublin, CA, 94568 | (925) 551-5800 | 0.5 | 278.5 |
 | 824 | Athens Burgers | fast_food | 6999 Dublin Boulevard | (925) 803-8135 | 2.1 | 280.6 |
 | 825 | Corwood Car Wash | car_wash | 6973 Village Parkway, Dublin, CA, 94568-2405 | (925) 828-5151 | 0.4 | 280.9 |
@@ -955,7 +955,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 835 | Zorba Automotive | car_repair | 6449 Golden Gate Drive, Dublin, CA, 94568 | (925) 829-6100 | 0.6 | 282.8 |
 | 836 | Tri-Valley Mufflers | car_repair | 6447 Golden Gate Drive, Dublin, CA, 94568 | (925) 829-4441 | 0.0 | 282.8 |
 | 837 | Country Faire Dental Group | dentist | 12111 Alcosta Boulevard | (925) 829-3111 | 3.7 | 286.4 |
-| 838 | W Salon | hairdresser |  | (925) 790-0000 | 2.6 | 289.0 |
+| 838 | W Salon | hairdresser | 2005 Crow Canyon Place, San Ramon, California, 94583 (reverse-geocoded approximate) | (925) 790-0000 | 2.6 | 289.0 |
 | 839 | Angel Staging Partners | estate_agent | 38 Beta Court, San Ramon, CA, 94583 | (925) 855-1100 | 0.6 | 289.6 |
 | 840 | His 'n Hers Hair | hairdresser | 1215 South Park Victoria Drive, Milpitas, CA, 95035 | (408) 262-8047 | 25.6 | 315.2 |
 | 841 | Jessica’s Beauty Salon | beauty | 1350 South Park Victoria Drive, Milpitas, CA, 95035 | (408) 263-2055 | 0.2 | 315.4 |
@@ -989,7 +989,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 869 | Mì Quảng Cô Thảo | restaurant | 1560 North 4th Street, San Jose, CA, 95112 | (408) 501-0011 | 0.3 | 325.2 |
 | 870 | Diamond Mitsubishi Fuso | car_repair | 1505 North 4th Street, San Jose, CA, 95112 | (408) 263-7300 | 0.1 | 325.3 |
 | 871 | Menara Moroccan | restaurant | 43 East Gish Road, San Jose, CA, 95112 | (408) 453-1983 | 0.2 | 325.5 |
-| 872 | Prolago Hand Car Wash | car_wash |  | (408) 271-9766 | 0.6 | 326.1 |
+| 872 | Prolago Hand Car Wash | car_wash | North 10th Street, San Jose, California, 95131 (reverse-geocoded approximate) | (408) 271-9766 | 0.6 | 326.1 |
 | 873 | Peter Auto Body & Paint | car_repair | 1310 North 10th Street, San Jose, 95112 | (408) 288-8398 | 0.2 | 326.3 |
 | 874 | 101 Auto Body & Paint | car_repair | 1033 North 11th Street, San Jose, CA, 95112 | (408) 293-1010 | 0.3 | 326.6 |
 | 875 | Chez Sovan | restaurant | 923 Oakland Road, San Jose, CA, 95112 | (408) 287-7619 | 0.2 | 326.8 |
@@ -1000,7 +1000,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 880 | Taquería “El Caminito” | restaurant | 782 North 13th Street, San Jose, CA, 95112 | (408) 295-1471 | 0.2 | 327.3 |
 | 881 | Tony’s Pool Hall | bar | 583 East Taylor Street, San Jose, CA, 95112 | (408) 293-1181 | 0.1 | 327.4 |
 | 882 | Mikee’s Auto Repair | car_repair | 698 North 13th Street, San Jose, CA, 95112 | (408) 287-1105 | 0.1 | 327.5 |
-| 883 | LTM Smog & Repair | car_repair |  | (408) 924-0630 | 0.0 | 327.5 |
+| 883 | LTM Smog & Repair | car_repair | North 13th Street, San Jose, California, 95112 (reverse-geocoded approximate) | (408) 924-0630 | 0.0 | 327.5 |
 | 884 | Doctor Martha E. Barragan, D.D.S. | dentist | 634 North 13th Street, San Jose, CA, 95112 | (408) 288-5490 | 0.1 | 327.5 |
 | 885 | Raul’s Mufflers | car_repair | 633 North 13th Street, San Jose, CA, 95112 | +1-408-772-5978;+1-408-816-7875 | 0.0 | 327.6 |
 | 886 | A&M Paint & Body | car_repair | 633 North 13th Street, San Jose, CA, 95112 | (408) 293-4256 | 0.0 | 327.6 |
@@ -1024,13 +1024,13 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 904 | Spa City | beauty | 330 East Hamilton Avenue, Campbell, CA, 95008 | (408) 378-1777 | 1.3 | 335.6 |
 | 905 | Kaizen | restaurant | 330 East Hamilton Avenue, Campbell, CA, 95008 | (408) 370-1600 | 0.0 | 335.7 |
 | 906 | JCM Electric | electrician | 535 Salmar Avenue | (408) 628-4304 | 0.3 | 336.0 |
-| 907 | Krupps Upholstery | furniture |  | (408) 374-0188 | 0.0 | 336.0 |
+| 907 | Krupps Upholstery | furniture | 535 Salmar Avenue, Campbell, California, 95008 (reverse-geocoded approximate) | (408) 374-0188 | 0.0 | 336.0 |
 | 908 | Mo's | restaurant | 278 East Campbell Avenue, Campbell, CA, 95008 | (408) 871-1300 | 0.3 | 336.4 |
 | 909 | Happy Hair Salon | hairdresser | 2205 South Bascom Avenue, Campbell, CA, 95008 | (408) 879-0500 | 0.7 | 337.1 |
 | 910 | Serendipity Hair Salon | hairdresser | 2188 South Bascom Avenue, Campbell, CA, 95008 | (408) 371-9015 | 0.1 | 337.2 |
 | 911 | the garret | restaurant | 1777 South Bascom Avenue, 95008 | (408) 555-7930 | 0.5 | 337.7 |
-| 912 | Patricia S. Nakamura Electrolysis | beauty |  | (408) 371-0488 | 0.1 | 337.8 |
-| 913 | Hollywood Nails | beauty |  | (408) 377-8185 | 0.0 | 337.8 |
+| 912 | Patricia S. Nakamura Electrolysis | beauty | 1639 South Bascom Avenue, Campbell, California, 95008 (reverse-geocoded approximate) | (408) 371-0488 | 0.1 | 337.8 |
+| 913 | Hollywood Nails | beauty | 1639 South Bascom Avenue, Campbell, California, 95008 (reverse-geocoded approximate) | (408) 377-8185 | 0.0 | 337.8 |
 | 914 | T Lashes LLC | beauty | 1645 South Bascom Avenue, Campbell, CA, 95008 | +1-408-917-8228;+1-408-618-1122 | 0.0 | 337.9 |
 | 915 | Straight Edge | hairdresser | 1645 South Bascom Avenue, Campbell, CA, 95008 | (408) 832-6109 | 0.0 | 337.9 |
 | 916 | La Superior Panadería y Taquería | bakery | 1098 Leigh Avenue, San Jose, CA, 95126 | (408) 320-1999 | 0.9 | 338.8 |
@@ -1062,13 +1062,13 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 942 | S Pearl Salon | hairdresser | 1739 Berryessa Road, San Jose, 95131 | (669) 226-5363 | 0.9 | 351.2 |
 | 943 | Jonathan H Kim Dentistry | dentist | 1725 Berryessa Road, San Jose, CA, 95133 | (408) 259-2900 | 0.0 | 351.3 |
 | 944 | VK Hair Creations | hairdresser | 1651 North Capitol Avenue, San Jose, CA, 95132 | (408) 926-9677 | 1.5 | 352.8 |
-| 945 | Lettuce Sandwich Shop | restaurant |  | (408) 844-9400 | 4.4 | 357.2 |
+| 945 | Lettuce Sandwich Shop | restaurant | Coleman Avenue, Santa Clara, California, 95053 (reverse-geocoded approximate) | (408) 844-9400 | 4.4 | 357.2 |
 | 946 | M.Y. Salon | hairdresser | 1000 Lafayette Street, Santa Clara, CA, 95050 | (408) 260-9108 | 0.6 | 357.8 |
 | 947 | Winx | beauty | 1190 Homestead Road, Santa Clara, CA, 95050 | (408) 799-4069 | 0.2 | 358.0 |
 | 948 | Painted Ivy | hairdresser | 390 North Winchester Boulevard, Santa Clara, CA, 95050 | (408) 883-4025 | 1.1 | 359.1 |
 | 949 | CK Salon | hairdresser | 2373 Pruneridge Avenue, Santa Clara, CA, 95050 | (408) 609-3105 | 0.6 | 359.7 |
-| 950 | Vanna's Hair & Nails | beauty |  | (408) 249-1230 | 0.0 | 359.8 |
-| 951 | TLS Auto Service | car_repair |  | (408) 241-3848 | 0.8 | 360.6 |
+| 950 | Vanna's Hair & Nails | beauty | Pruneridge Avenue, Santa Clara, California, 95050 (reverse-geocoded approximate) | (408) 249-1230 | 0.0 | 359.8 |
+| 951 | TLS Auto Service | car_repair | South Kiely Boulevard, San Jose, California, 95117 (reverse-geocoded approximate) | (408) 241-3848 | 0.8 | 360.6 |
 | 952 | Kokodek Korean Fried Chicken | restaurant | 385 South Kiely Boulevard, San Jose, CA, 95129 | (669) 331-9707 | 0.2 | 360.8 |
 | 953 | Kiely 2 Wash & Dry | laundry | 975 Saratoga Avenue, San Jose, CA, 95129 | (408) 252-2423 | 0.8 | 361.6 |
 | 954 | What the Falafel | restaurant | 991 Saratoga Avenue, San Jose, CA, 95129 | (408) 253-1111 | 0.0 | 361.6 |
@@ -1102,7 +1102,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 982 | Santa Clara Tint Wrap & Carpet Coloring | car_repair | 3295 El Camino Real, Santa Clara, CA, 95051 | (408) 684-0083 | 0.0 | 381.9 |
 | 983 | Nu-Way Tool Supply | hardware | 3232 El Camino Real, Santa Clara, CA, 95051 | (408) 984-5395 | 0.1 | 382.0 |
 | 984 | Sassy Nail | beauty | 3216 El Camino Real, Santa Clara, CA, 95051 | (408) 246-3600 | 0.0 | 382.0 |
-| 985 | Christine Dental | dentist |  | (408) 246-5959 | 0.5 | 382.5 |
+| 985 | Christine Dental | dentist | El Camino Real, Santa Clara, California, 95051 (reverse-geocoded approximate) | (408) 246-5959 | 0.5 | 382.5 |
 | 986 | Blurr Kitchen | restaurant | 95050 | (408) 243-1868 | 0.5 | 382.9 |
 | 987 | Korean Spring | restaurant | 1062 Kiely Boulevard, Santa Clara, CA, 95051 | (408) 985-8808 | 0.7 | 383.6 |
 | 988 | Griffin Upholstery | car_repair | 1062 East El Camino Real | (408) 249-1360 | 1.4 | 385.1 |
@@ -1113,7 +1113,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 | 993 | T&K Barber & Hairstyling | hairdresser | 938 East El Camino Real, Sunnyvale, CA, 94087 | (408) 739-8960 | 0.3 | 385.6 |
 | 994 | Rajjot Sweets and Snacks | restaurant | 1234 South Wolfe Road, Sunnyvale, 94086 | (408) 730-5510 | 0.1 | 385.7 |
 | 995 | Thai pepper cuisine | restaurant | 103 East Fremont Avenue, Sunnyvale, 94087 | (408) 739-7717 | 1.0 | 386.7 |
-| 996 | Pearly Bright Dental | dentist |  | (408) 736-6688 | 0.2 | 386.9 |
+| 996 | Pearly Bright Dental | dentist | 1110 Sunnyvale-Saratoga Road, Sunnyvale, California, 94087 (reverse-geocoded approximate) | (408) 736-6688 | 0.2 | 386.9 |
 | 997 | Super Burrito | fast_food | 1671 Hollenbeck Avenue, Sunnyvale, 94087 | (408) 737-7791 | 1.3 | 388.3 |
 | 998 | Bento Express | fast_food | 1677 Hollenbeck Avenue, 94087 | (408) 720-0072 | 0.1 | 388.3 |
 | 999 | Tasty Pizza | fast_food | 21000 Stevens Creek Boulevard, Cupertino, CA, 95014 | (408) 816-8800 | 1.1 | 389.4 |

@@ -12,6 +12,7 @@ Date: 2026-05-20
 - Deployed business pages render source cards for lead evidence, Google Maps, profile/photo source status, and hero image source.
 - Generated site paths exist for all 1000 rows.
 - Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 active business slug pages, plus `data.json` and `robots.txt`.
+- Public-page HTTP audit fetched all 1000 final Vercel links and returned 1000 HTTP 200 responses with 0 fetch errors. Results are in `public-page-http-audit.csv`.
 - Live Vercel checks returned HTTP 200 for:
   - `https://bay-area-final-1000-websites.vercel.app/`
   - `https://bay-area-final-1000-websites.vercel.app/plantation-coffee-roastery-bay-area/`

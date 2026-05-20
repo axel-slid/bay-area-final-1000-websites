@@ -16,6 +16,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - Owned-website audit: `deliverables/owned-website-search-audit.csv`
 - Profile-link audit: `deliverables/profile-link-search-audit.csv`
 - Profile-image audit: `deliverables/profile-image-search-audit.csv`
+- Public page HTTP audit: `deliverables/public-page-http-audit.csv`
 
 ## Requirement Status
 
@@ -34,7 +35,7 @@ This audit checks the original request against current files, GitHub, and the pu
 | Include description | Proved | Final CSV has 1000 nonblank `Why a dedicated website would help` descriptions. |
 | Give a driving report | Proved | Driving report and 100 Google Maps segment rows are present. |
 | Optimal route to hit all businesses by car | Delivered with optimization caveat | Route uses deterministic nearest-neighbor plus bounded 2-opt with OSRM road estimates. It is optimized heuristically, not mathematically proven globally optimal. |
-| Public deployment is current | Proved for data/CSV/site artifacts; Markdown lag caveat | Live Vercel `data.json` and audit CSV files verify current counts and removed rows. Live Markdown audit/status files may lag GitHub until Vercel upload cap clears. |
+| Public deployment is current | Partial public lag caveat | The public Vercel alias serves the 1000 generated business pages, and the corrected GitHub CSV links fetch 1000/1000 HTTP 200. The public alias CSV/data JSON and Markdown audit files may lag the latest GitHub-only corrections until Vercel upload cap clears. |
 
 ## Live Verification Snapshot
 
@@ -50,13 +51,14 @@ This audit checks the original request against current files, GitHub, and the pu
 - Live profile-link audit: 683 accepted, 317 no high-confidence profile found
 - Live profile-image audit: 345 accepted, 338 no safe matching image found, 317 no profile link
 - Live drive-radius audit: 1000 `YES`
+- Public business-page HTTP audit against corrected GitHub CSV links: 1000 `200`, 0 fetch errors
 
 ## Current Non-Proof Items
 
 - The no-owned-website requirement cannot be proven exhaustively from public search alone; current evidence is a documented OSM/search/manual review process.
 - Profile links and business-specific profile images are included only where a high-confidence matching source was found.
 - The driving route is optimized heuristically; a globally optimal 1000-stop road-network TSP proof is not present.
-- Vercel is currently serving current data/CSV/site artifacts, but public Markdown status/audit files may lag GitHub because the latest redeploy was blocked by the Vercel `api-upload-free` cap.
+- Vercel is currently serving the generated business pages, but public CSV/data JSON and Markdown status/audit files may lag GitHub because the latest redeploy was blocked by the Vercel `api-upload-free` cap.
 
 ## Completion Decision
 

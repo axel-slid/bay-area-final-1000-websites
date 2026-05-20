@@ -5,6 +5,7 @@ Date: 2026-05-20
 ## Current Source Of Truth
 
 - GitHub/local bundle is current for the refreshed 1000-row package.
+- Current GitHub commit: `0a73972`.
 - Latest successful production deployment: `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
 - Latest local deliverables include 1000 rows, 53 confirmed owned-site/stale removals, 679 validated profile links, 324 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.
@@ -16,6 +17,7 @@ Date: 2026-05-20
 - The current GitHub/local package removes additional owned-site/stale rows after that deployment.
 - `public-page-http-audit.csv` therefore records 995 prior HTTP 200 rows and 5 `PENDING_DEPLOY` rows for newly replaced slugs until the next production deploy succeeds.
 - A redeploy is required before the public alias is fully current with the latest local/GitHub CSV.
+- Production redeploy attempted on 2026-05-20 with `npx --yes vercel deploy --prod --yes --archive=tgz`; Vercel rejected it with `api-deployments-free-per-day`.
 
 ## Verification Notes
 

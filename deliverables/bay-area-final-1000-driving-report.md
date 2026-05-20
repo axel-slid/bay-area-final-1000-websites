@@ -7,6 +7,7 @@ Route for the selected 1000 verified no-owned-website businesses.
 - Approximate straight-line route distance: 389.4 miles
 - Method: nearest-neighbor route improved with bounded 2-opt over verified lead coordinates. This is a deterministic draft route; a paid road-network optimizer should be used before an actual driving campaign.
 - Driving navigation: 100 Google Maps driving segments are included below and in `bay-area-final-1000-driving-segments.csv`.
+- OSRM road estimate across available segments: 584.9 miles, 27.3 hours.
 
 ## Driving Segments
 

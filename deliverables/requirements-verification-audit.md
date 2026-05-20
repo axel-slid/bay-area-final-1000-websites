@@ -17,7 +17,7 @@ This audit maps the original 1000-business website-generation request to current
 | CSV similar format with GitHub and Vercel links | PROVED | 1000 GitHub links and 1000 Vercel links. | `build-tools/bay-area-final-1000-websites.csv` |
 | Include description | PROVED | 1000 rows have descriptions. | `build-tools/bay-area-final-1000-websites.csv` |
 | Driving report and route | PROVED | Driving report plus 100 segment rows; OSRM total 673.1 miles / 30.4 drive hours before stops/traffic. | `build-tools/bay-area-final-1000-driving-report.md; build-tools/bay-area-final-1000-driving-segments.csv` |
-| Live deployment of deliverables | PARTIAL / GITHUB CURRENT | Live Vercel site is ready and 1000 Vercel links exist, but the public alias is serving an older audit artifact while direct redeploy is blocked by the daily Vercel deployment limit. GitHub has the latest deliverables. | `https://bay-area-final-1000-websites.vercel.app/` |
+| Live deployment of deliverables | PROVED / STATUS FILE MAY LAG | Live Vercel site and data/audit artifacts are current for the corrected 1000-row package: 683 profile links, 345 profile images, 42 confirmed removals, and no Cafe Bunn Mi / Mission Curry House rows. The live copy of `deployment-status.md` may lag GitHub until the next status-only deploy. | `https://bay-area-final-1000-websites.vercel.app/` |
 
 ## Key Counts
 

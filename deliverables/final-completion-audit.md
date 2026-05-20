@@ -6,6 +6,7 @@ Date: 2026-05-20
 
 - Final website CSV has 1000 rows: `build-tools/bay-area-final-1000-websites.csv`.
 - Each row has a nonblank GitHub link, Vercel link, business name, address, phone, category, evidence, description, and generated site path.
+- Each row has a nonblank hero image URL, hero image source, and photo/profile source field in the final CSV.
 - Generated site paths exist for all 1000 rows.
 - Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 active business slug pages, plus `data.json` and `robots.txt`.
 - Live Vercel checks returned HTTP 200 for:
@@ -23,5 +24,5 @@ Date: 2026-05-20
 - The no-owned-website status is based on OSM missing website tags plus search heuristics and pruning; it is not legal-proof or exhaustive proof that no site exists.
 - `Yelp or booking link` is populated for 653 of 1000 rows after targeted Yelp/Booksy/Fresha/Vagaro/Facebook/Instagram/Toast/OpenTable enrichment and cleanup. Rows without a profile link either did not surface a high-confidence third-party profile or still need deeper manual/profile-specific research.
 - A final owned-website audit reviewed 39 raw search hits, excluded directory/name-collision false positives, and records 40 confirmed owned-site removals in `confirmed-owned-site-removals.csv`.
-- Business-specific Yelp/Booksy images were not copied into the generated sites. The pages use category-relevant public image assets and public lead details.
+- Business-specific Yelp/Booksy images were not copied into the generated sites. The final CSV now includes explicit hero image URLs/sources for all 1000 rows and profile-photo source notes; rows with profile links point users to the relevant Yelp/Booksy/social profile photos.
 - The route is a deterministic nearest-neighbor plus bounded 2-opt route with OSRM segment estimates, not a paid road-network TSP optimization.

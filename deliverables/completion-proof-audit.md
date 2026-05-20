@@ -18,16 +18,16 @@ Date: 2026-05-20
 |---|---|---|
 | Compile 1000 companies | Proved locally/GitHub | Final CSV has 1000 rows and 1000 unique generated site paths. |
 | Within 1.5 hour drive from San Carlos | Proved | Drive-radius audit has 1000/1000 rows within 90 minutes; max OSRM direct drive time is 61.6 minutes. |
-| Companies do not have a website | Delivered with heuristic caveat | 53 owned-site/stale rows have been removed. Current final-row audit: 964 no likely owned-site hit, 36 raw hits reviewed as not confirmed owned sites. |
+| Companies do not have a website | Delivered with heuristic caveat | 62 owned-site/stale rows have been removed. Current final-row audit: 969 no likely owned-site hit, 31 raw hits reviewed as not confirmed owned sites. |
 | Make a website for each one | Proved locally | Build output produces one directory index plus 1000 business pages. |
 | Include relevant information | Proved | Content-completeness audit passes 1000/1000 rows. |
-| Include images where possible | Delivered with audited partial coverage | 324 rows have embedded matched profile images; all rows have hero images and image-source fields. |
+| Include images where possible | Delivered with audited partial coverage | 321 rows have embedded matched profile images; all rows have hero images and image-source fields. |
 | Brand styling | Proved | Brand-styling audit passes 1000/1000 rows. |
-| Link Yelp/Booksy/profile if available | Delivered with audited partial coverage | 679 rows have accepted profile links. |
+| Link Yelp/Booksy/profile if available | Delivered with audited partial coverage | 678 rows have accepted profile links. |
 | CSV with GitHub and Vercel links | Proved | 1000 GitHub links and 1000 Vercel links are populated. |
 | Description | Proved | 1000 rows have nonblank descriptions. |
-| Driving report and route | Proved with optimization caveat | Route-integrity audit covers stops 1-1000 exactly once; OSRM segment total is 654.3 miles / 29.5 hours. |
-| Public deployment current | Proved for pages/data; artifact caveat | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the refreshed final CSV/data with the five replacement businesses. The committed public-page audit has 1000/1000 HTTP 200 rows; the live audit artifact may lag until a docs/artifact deploy. |
+| Driving report and route | Proved with optimization caveat | Route-integrity audit covers stops 1-1000 exactly once; OSRM segment total is 654.4 miles / 29.6 hours. |
+| Public deployment current | Proved for pages/data; artifact caveat | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the previous refreshed final CSV/data. The latest stricter cleanup is committed locally/GitHub and has five replacement slugs pending the next production deploy. |
 
 ## Current Non-Proof Items
 

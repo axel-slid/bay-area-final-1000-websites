@@ -1,8 +1,6 @@
 Metric,Value
 Input rows,1000
-Initial straight-line route miles,481.037
-Optimized straight-line route miles,410.091
-Miles saved,70.946
-2-opt passes applied,160
-Runtime seconds,16.7
-Output CSV,build-tools/bay-area-final-1000-optimized-route-candidate.csv
+Initial straight-line route miles,486.060
+Converged after passes,152
+Final straight-line route miles,394.353
+Straight-line improvement miles,91.707

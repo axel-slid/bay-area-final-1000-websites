@@ -6,7 +6,7 @@
   "trailingSlash": true,
   "rewrites": [
     {
-      "source": "/((?!data.json|robots.txt).*)",
+      "source": "/:path*",
       "destination": "/index.html"
     }
   ]

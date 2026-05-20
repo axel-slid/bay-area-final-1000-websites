@@ -4,10 +4,18 @@
   "framework": null,
   "cleanUrls": true,
   "trailingSlash": true,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/:path*",
-      "destination": "/index.html"
+      "src": "/data.json",
+      "dest": "/data.json"
+    },
+    {
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
     }
   ]
 }

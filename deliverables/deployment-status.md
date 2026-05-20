@@ -4,7 +4,7 @@ Date: 2026-05-20
 
 ## Current Source Of Truth
 
-- Latest verified package commit: `1a0d303`
+- Latest verified GitHub package commit: `7e5d03f`
 - This deployment-status file is maintained on the current `main` branch.
 - Latest GitHub deliverables include 1000 final rows, 42 confirmed owned-site removals, 683 validated profile links, 345 validated profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Local `dist/`, `.vercel/output/`, GitHub, and the public Vercel alias have been verified with the same 1000 rows, 683 profile links, and 345 profile images.
@@ -15,7 +15,8 @@ Date: 2026-05-20
 - The live alias currently serves the corrected 1000-row package, the full 1000-row drive-radius audit, and 1000 generated business pages.
 - The live alias no longer includes Cafe Bunn Mi or Mission Curry House.
 - Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
-- The live copy of this `deployment-status.md` file may lag this GitHub version until the next successful status-only deploy; the live data and audit artifacts above have been verified current.
+- The live copy of this `deployment-status.md` file and other Markdown audit files may lag this GitHub version until the next successful status-only deploy; the live data JSON, CSV deliverables, and audit CSV artifacts above have been verified current.
+- A production redeploy attempt on 2026-05-20 was blocked by Vercel's free-tier upload cap (`api-upload-free`); retrying with `--archive=tgz` hit the same 24-hour cap.
 
 ## Verification Notes
 

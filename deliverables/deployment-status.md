@@ -13,12 +13,12 @@ Date: 2026-05-20
 ## Public Vercel Alias
 
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`
-- Vercel inspect on 2026-05-20 showed the public alias pointing to deployment `dpl_KRvB8gsCB52gGKdHwgMggorcfQHV`, created at Wed May 20 2026 01:21:27 PDT.
+- Vercel inspect on 2026-05-20 showed the public alias pointing to deployment `dpl_4sjHjMGPkbs3fhwVUr4ansD4Unzw`, created at Wed May 20 2026 01:37:35 PDT.
 - The live alias currently serves the 1000 generated business pages and the full 1000-row drive-radius audit.
 - The live alias no longer includes Cafe Bunn Mi or Mission Curry House.
 - Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
 - The live copy of this `deployment-status.md` file, other Markdown audit files, and public CSV/data JSON may lag this GitHub version until the next successful deploy. Current GitHub has corrected Vercel/GitHub links for Fruitas Regionales Magui and Lucky Hair & Nails; the public alias still serves those two business pages at the corrected aggregate paths.
-- A production redeploy attempt on 2026-05-20 was blocked by Vercel's free-tier upload cap (`api-upload-free`); retrying with `--archive=tgz` hit the same 24-hour cap.
+- Production redeploy attempts on 2026-05-20 were blocked by Vercel free-tier caps: first `api-upload-free`, then `api-deployments-free-per-day` after retrying with `--archive=tgz`.
 - Later GitHub-only audit commits added `completion-proof-audit.md`, `public-page-http-audit.csv`, and two corrected replacement-row links; those artifacts are available in GitHub but may return not found or stale values on the public Vercel alias until another successful deployment publishes the updates.
 
 ## Verification Notes

@@ -19,7 +19,7 @@ Date: 2026-05-20
 - The 67 rows that previously had blank address fields now have reverse-geocoded approximate addresses marked in the address text.
 - Driving segment CSV has 100 Google Maps driving segments and OSRM road estimates for every segment.
 - OSRM segment totals: 672.2 road miles and 30.3 drive hours before stops, traffic, and in-person time.
-- Drive-radius audit sampled the 120 farthest straight-line rows from San Carlos with OSRM direct routes; the slowest sampled row was 61.6 minutes from San Carlos, under the 1.5 hour requirement. Results are in `final-drive-radius-audit.csv`.
+- Drive-radius audit checked all 1000 final rows from San Carlos with OSRM direct routes; all 1000 are within 90 minutes, and the slowest checked row was 61.6 minutes. Results are in `final-drive-radius-audit.csv`.
 - GitHub repo is pushed at `axel-slid/bay-area-final-1000-websites`.
 
 ## Remaining Caveats

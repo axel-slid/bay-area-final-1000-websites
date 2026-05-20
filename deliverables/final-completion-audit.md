@@ -30,4 +30,5 @@ Date: 2026-05-20
 - A final owned-website audit reviewed 39 raw search hits, excluded directory/name-collision false positives, and records 40 confirmed owned-site removals in `confirmed-owned-site-removals.csv`.
 - Business-specific Yelp/Fresha/Facebook images are now embedded for 330 rows whose image-search result page matched the validated profile URL. The remaining rows use category-relevant public hero images plus explicit hero image URLs/sources, profile-photo source notes, and profile-image extraction fields; rows with profile links point users to the relevant Yelp/Booksy/social profile photos.
 - Profile image search status for all 1000 rows is documented in `profile-image-search-audit.csv`: 330 accepted profile images, 314 profile-linked rows searched with no safe matching image, 38 profile-linked rows with search errors/no results, and 318 rows with no validated profile link.
+- Requirement-by-requirement proof and caveats are summarized in `requirements-verification-audit.md`.
 - The route is a deterministic nearest-neighbor plus bounded 2-opt route with OSRM segment estimates, not a paid road-network TSP optimization.

@@ -6,18 +6,18 @@ Date: 2026-05-20
 
 - GitHub/local bundle is current for the refreshed 1000-row package.
 - Current GitHub commit: `0a73972`.
-- Latest successful production deployment: `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
+- Latest successful production deployment: `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
 - Latest local deliverables include 1000 rows, 53 confirmed owned-site/stale removals, 679 validated profile links, 324 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.
 - Current route integrity covers stops 1-1000 exactly once. OSRM segment total is 654.3 road miles / 29.5 drive hours before stops, traffic, and in-person time.
 
 ## Public Vercel Alias
 
-- Production Vercel still serves the last successful deployment, `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`.
-- The current GitHub/local package removes additional owned-site/stale rows after that deployment.
-- `public-page-http-audit.csv` therefore records 995 prior HTTP 200 rows and 5 `PENDING_DEPLOY` rows for newly replaced slugs until the next production deploy succeeds.
-- A redeploy is required before the public alias is fully current with the latest local/GitHub CSV.
-- Production redeploy attempted on 2026-05-20 with `npx --yes vercel deploy --prod --yes --archive=tgz`; Vercel rejected it with `api-deployments-free-per-day`.
+- Production Vercel now serves deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
+- The public alias serves the current GitHub/local package, including the additional owned-site/stale-row removals.
+- `public-page-http-audit.csv` records 1000/1000 final Vercel links returning HTTP 200 after the refreshed deployment.
+- No redeploy is currently pending for the refreshed final CSV.
+- A manual CLI redeploy attempt on 2026-05-20 was rejected with `api-deployments-free-per-day`, but Vercel Git deployment completed successfully and aliased production to `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
 
 ## Verification Notes
 

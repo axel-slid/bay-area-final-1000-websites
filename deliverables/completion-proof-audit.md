@@ -6,7 +6,7 @@ Date: 2026-05-20
 
 - GitHub repo: `https://github.com/axel-slid/bay-area-final-1000-websites`
 - Public Vercel URL: `https://bay-area-final-1000-websites.vercel.app/`
-- Latest successful production deployment: `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`
+- Latest successful production deployment: `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`
 - Final CSV: `deliverables/bay-area-final-1000-websites.csv`
 - Driving report: `deliverables/bay-area-final-1000-driving-report.md`
 - Owned-website audit: `deliverables/owned-website-search-audit.csv`
@@ -27,11 +27,11 @@ Date: 2026-05-20
 | CSV with GitHub and Vercel links | Proved | 1000 GitHub links and 1000 Vercel links are populated. |
 | Description | Proved | 1000 rows have nonblank descriptions. |
 | Driving report and route | Proved with optimization caveat | Route-integrity audit covers stops 1-1000 exactly once; OSRM segment total is 654.3 miles / 29.5 hours. |
-| Public deployment current | Pending redeploy | Production Vercel is on `dpl_BeBNEFqTWX9qFD2JDxHBkuJ6NvSX`; five newly replaced slugs are pending the next successful production deployment. |
+| Public deployment current | Proved | Production Vercel deployment `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5` serves the refreshed final CSV/data with the five replacement businesses, and `public-page-http-audit.csv` has 1000/1000 HTTP 200 rows. |
 
 ## Current Non-Proof Items
 
 - No-owned-website status is based on public search, OSM tags, and manual review, not exhaustive legal proof.
 - Profile links and direct profile images are present only where high-confidence matches were found.
 - Route optimization is heuristic and not globally proven optimal.
-- Public Vercel needs one more successful production deploy to match the latest GitHub/local package.
+- Public Vercel is current for the latest final CSV/data; future data changes will still require a fresh deploy.

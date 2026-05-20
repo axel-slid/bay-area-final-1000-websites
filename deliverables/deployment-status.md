@@ -5,7 +5,7 @@ Date: 2026-05-20
 ## Current Source Of Truth
 
 - Latest verified data/build commit: `03d4531`
-- Latest deployment-status commit: `38a35a3`
+- This deployment-status file is maintained on the current `main` branch.
 - Latest GitHub deliverables include 1000 final rows, 682 validated profile links, 345 validated profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Local `dist/` and `.vercel/output/` builds have been verified with the same 1000 rows, 682 profile links, and 345 profile images.
 

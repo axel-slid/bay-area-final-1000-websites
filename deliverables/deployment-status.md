@@ -6,6 +6,7 @@ Date: 2026-05-20
 
 - GitHub/local bundle is current for the refreshed 1000-row package.
 - Current GitHub branch: `main`.
+- Current GitHub commit: `eb9f1ce`.
 - Latest successful production deployment: `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
 - Public URL: `https://bay-area-final-1000-websites.vercel.app/`.
 - Latest local deliverables include 1000 rows, 62 confirmed owned-site/stale removals, 678 validated profile links, 321 direct profile images, zero owned-site search error rows, zero profile-search error rows, and a 1000-row drive-radius audit.
@@ -18,6 +19,7 @@ Date: 2026-05-20
 - The committed `public-page-http-audit.csv` records 995 final Vercel links returning HTTP 200 and 5 replacement slugs marked `PENDING_DEPLOY`.
 - A redeploy is pending for the latest stricter cleanup. The live copy of status-only audit artifacts can also lag until the next docs/artifact deployment.
 - A manual CLI redeploy attempt on 2026-05-20 was rejected with `api-deployments-free-per-day`, but Vercel Git deployment completed successfully and aliased production to `dpl_EvQYdozCKYCD6kFCUwufkecdu4v5`.
+- A later manual CLI redeploy attempt after commit `eb9f1ce` was also rejected with `api-deployments-free-per-day`; retry once the Vercel daily cap resets.
 
 ## Verification Notes
 

@@ -7,7 +7,8 @@ This audit checks the original request against current files, GitHub, and the pu
 ## Current Authoritative Artifacts
 
 - GitHub repo: `https://github.com/axel-slid/bay-area-final-1000-websites`
-- Latest verified package/data commit before audit-only updates: `7e5d03f`
+- Latest verified core CSV/data-changing commit: `b373766`
+- Later GitHub commits add verification/audit artifacts on top of that corrected core dataset.
 - Public Vercel URL: `https://bay-area-final-1000-websites.vercel.app/`
 - Final CSV: `deliverables/bay-area-final-1000-websites.csv`
 - Content-completeness audit: `deliverables/content-completeness-audit.csv`

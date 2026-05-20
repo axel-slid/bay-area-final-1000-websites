@@ -4,7 +4,8 @@ Date: 2026-05-20
 
 ## Current Source Of Truth
 
-- Latest verified package/data commit before audit-only updates: `7e5d03f`
+- Latest verified core CSV/data-changing commit: `b373766`
+- Later GitHub commits add verification/audit artifacts on top of that corrected core dataset.
 - This deployment-status file is maintained on the current `main` branch.
 - Latest GitHub deliverables include 1000 final rows, 42 confirmed owned-site removals, 683 validated profile links, 326 validated direct profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Public-page HTTP audit confirmed 1000/1000 corrected final Vercel links return HTTP 200 after correcting the two replacement-row links to the aggregate deployment paths.

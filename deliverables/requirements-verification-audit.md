@@ -28,7 +28,7 @@ This audit maps the original 1000-business website-generation request to current
 - Profile-link audit counts: {'ACCEPTED - profile link in final CSV': 682, 'ATTEMPTED - search error/no results': 203, 'ATTEMPTED - no high-confidence profile found': 115}
 - Profile-image audit counts: {'ACCEPTED - profile image embedded': 330, 'ATTEMPTED - search error/no results': 38, 'NO PROFILE LINK - category image used': 318, 'ATTEMPTED - no safe matching image found': 314}
 - Confirmed owned-site removals recorded: 40
-- Owned-website final-row audit counts: {'RAW HIT REVIEWED - not confirmed owned site': 39, 'ATTEMPTED - no likely owned-site hit': 384, 'ATTEMPTED - search error': 577}
+- Owned-website final-row audit counts: {'RAW HIT REVIEWED - not confirmed owned site': 40, 'ATTEMPTED - no likely owned-site hit': 396, 'ATTEMPTED - search error': 564}
 - Driving segments: 100
 
 ## Remaining Non-Proof Caveats

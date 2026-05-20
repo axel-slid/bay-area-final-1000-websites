@@ -8,6 +8,7 @@ Date: 2026-05-20
 - Each row has a nonblank GitHub link, Vercel link, business name, address, phone, category, evidence, description, and generated site path.
 - Each row has a nonblank hero image URL, hero image source, and photo/profile source field in the final CSV.
 - Each row has a nonblank brand palette and style rationale field in the final CSV; the deployed shell reads the palette from CSV data and renders the rationale on each business page.
+- Deployed business pages render source cards for lead evidence, Google Maps, profile/photo source status, and hero image source.
 - Generated site paths exist for all 1000 rows.
 - Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 active business slug pages, plus `data.json` and `robots.txt`.
 - Live Vercel checks returned HTTP 200 for:

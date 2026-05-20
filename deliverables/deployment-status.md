@@ -15,6 +15,7 @@ Date: 2026-05-20
 - The live alias currently serves the corrected 1000-row package, the full 1000-row drive-radius audit, and 1000 generated business pages.
 - The live alias no longer includes Cafe Bunn Mi or Mission Curry House.
 - Latest production deployment verified: `https://bay-area-final-1000-websites.vercel.app/`
+- The live copy of this `deployment-status.md` file may lag this GitHub version until the next successful status-only deploy; the live data and audit artifacts above have been verified current.
 
 ## Verification Notes
 

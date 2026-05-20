@@ -45,9 +45,11 @@ const rows = parseCsv(csv).map((row) => ({
   slug: path.basename(String(row["Generated site path"] || "").replace(/\/$/, "")),
 }));
 const appShell = path.join(root, "app-index.html");
+const deliverables = path.join(root, "deliverables");
 
 fs.writeFileSync(path.join(dist, "data.json"), JSON.stringify(rows));
 fs.copyFileSync(appShell, path.join(dist, "index.html"));
+fs.cpSync(deliverables, path.join(dist, "deliverables"), { recursive: true });
 for (const row of rows) {
   if (!row.slug) continue;
   const dir = path.join(dist, row.slug);

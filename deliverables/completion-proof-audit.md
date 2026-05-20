@@ -16,6 +16,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - Owned-website audit: `deliverables/owned-website-search-audit.csv`
 - Profile-link audit: `deliverables/profile-link-search-audit.csv`
 - Profile-image audit: `deliverables/profile-image-search-audit.csv`
+- Profile-image HTTP audit: `deliverables/profile-image-http-audit.csv`
 - Public page HTTP audit: `deliverables/public-page-http-audit.csv`
 
 ## Requirement Status
@@ -28,7 +29,7 @@ This audit checks the original request against current files, GitHub, and the pu
 | Make a website for each one | Proved | Build output has 1001 `index.html` files: one app index plus 1000 business pages. Final CSV has 1000 unique generated site paths. |
 | Use the templates | Proved | Current static package is generated from the shared template shell and per-business CSV fields. |
 | Include relevant information | Proved | 1000 rows include business name, address, phone, category, evidence, Google Maps link, generated site path, and description field. |
-| Include images from Yelp/Booksy/etc | Delivered with audited partial coverage | 345 rows have accepted business-specific profile images from matched Yelp/Fresha/Facebook image results. Remaining rows use category hero images and documented image-search statuses. |
+| Include images from Yelp/Booksy/etc | Delivered with audited partial coverage | 326 rows have accepted business-specific direct profile image URLs from matched Yelp/Fresha results, and all 326 return HTTP 200 with image content types. 19 prior candidates were rejected because they returned HTML/XML or 403. Remaining rows use category hero images and documented image-search statuses. |
 | Be creative/stylize to brand | Proved at data/template level | 1000 rows include `Brand palette` and `Style rationale`, and the generated pages render those fields. |
 | Link Yelp/Booksy/etc if available | Delivered with audited partial coverage | 683 rows have accepted profile links; 317 rows were searched with no high-confidence profile found. |
 | CSV similar to earlier CSV with GitHub and Vercel links | Proved | Final CSV has 1000 GitHub links and 1000 Vercel links. |
@@ -45,11 +46,12 @@ This audit checks the original request against current files, GitHub, and the pu
 - Live Vercel links: 1000
 - Live descriptions: 1000
 - Live accepted profile links: 683
-- Live accepted profile images: 345
+- GitHub accepted direct profile images: 326
 - Removed rows absent from live data: Cafe Bunn Mi, Mission Curry House
 - Live owned-website audit: 959 `ATTEMPTED - no likely owned-site hit`, 41 `RAW HIT REVIEWED - not confirmed owned site`
 - Live profile-link audit: 683 accepted, 317 no high-confidence profile found
-- Live profile-image audit: 345 accepted, 338 no safe matching image found, 317 no profile link
+- GitHub profile-image audit: 326 accepted, 338 no safe matching image found, 317 no profile link, 19 rejected because candidate URL did not return direct image content
+- GitHub profile-image HTTP audit: 326 HTTP 200, 0 errors, all image/jpeg or image/png
 - Live drive-radius audit: 1000 `YES`
 - Public business-page HTTP audit against corrected GitHub CSV links: 1000 `200`, 0 fetch errors
 

@@ -6,9 +6,9 @@ Date: 2026-05-20
 
 - Latest verified package/data commit before audit-only updates: `7e5d03f`
 - This deployment-status file is maintained on the current `main` branch.
-- Latest GitHub deliverables include 1000 final rows, 42 confirmed owned-site removals, 683 validated profile links, 345 validated profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
+- Latest GitHub deliverables include 1000 final rows, 42 confirmed owned-site removals, 683 validated profile links, 326 validated direct profile images, zero profile-search error rows, zero owned-site search error rows, and a 1000-row drive-radius audit.
 - Public-page HTTP audit confirmed 1000/1000 corrected final Vercel links return HTTP 200 after correcting the two replacement-row links to the aggregate deployment paths.
-- Local `dist/`, `.vercel/output/`, and GitHub have been verified with the corrected 1000 rows, 683 profile links, 345 profile images, and 1000 public page HTTP 200 results.
+- Local `dist/`, `.vercel/output/`, and GitHub have been verified with the corrected 1000 rows, 683 profile links, 326 direct profile images, 326 profile-image HTTP 200 results, and 1000 public page HTTP 200 results.
 
 ## Public Vercel Alias
 
@@ -25,8 +25,8 @@ Date: 2026-05-20
 
 - GitHub raw artifact checks confirmed the latest profile audit counts:
   - Profile links: 683 accepted, 317 searched with no high-confidence profile found.
-  - Profile images: 345 accepted, 338 searched with no safe matching image, 317 rows with no validated profile link.
+  - Profile images: 326 accepted direct images, 338 searched with no safe matching image, 317 rows with no validated profile link, 19 rejected by HTTP image validation.
 - Live Vercel artifact checks confirmed before the latest GitHub-only link correction:
   - Drive-radius audit: 1000 rows within 90 minutes from San Carlos.
-  - Live data currently has 1000 rows, 683 profile links, and 345 profile images.
+  - Live data currently has 1000 rows and 683 profile links. Public profile-image count may lag GitHub until the next successful deploy; GitHub now has 326 direct profile images after HTTP validation.
   - Live data does not contain Cafe Bunn Mi or Mission Curry House.

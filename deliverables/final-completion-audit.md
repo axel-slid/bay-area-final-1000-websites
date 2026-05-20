@@ -7,14 +7,14 @@ Date: 2026-05-20
 - Final website CSV has 1000 rows: `build-tools/bay-area-final-1000-websites.csv`.
 - Each row has a nonblank GitHub link, Vercel link, business name, address, phone, category, evidence, description, and generated site path.
 - Generated site paths exist for all 1000 rows.
-- Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 business pages.
+- Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 active business slug pages, plus `data.json` and `robots.txt`.
 - Live Vercel checks returned HTTP 200 for:
   - `https://bay-area-final-1000-websites.vercel.app/`
   - `https://bay-area-final-1000-websites.vercel.app/plantation-coffee-roastery-bay-area/`
   - `https://bay-area-final-1000-websites.vercel.app/tzintzun-auto-repair-bay-area/`
 - The 67 rows that previously had blank address fields now have reverse-geocoded approximate addresses marked in the address text.
 - Driving segment CSV has 100 Google Maps driving segments and OSRM road estimates for every segment.
-- OSRM segment totals: 584.9 road miles and 27.3 drive hours before stops, traffic, and in-person time.
+- OSRM segment totals: 609.8 road miles and 27.8 drive hours before stops, traffic, and in-person time.
 - GitHub repo is pushed at `axel-slid/bay-area-final-1000-websites`.
 
 ## Remaining Caveats

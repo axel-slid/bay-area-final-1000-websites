@@ -10,6 +10,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - Latest verified package/data commit before audit-only updates: `7e5d03f`
 - Public Vercel URL: `https://bay-area-final-1000-websites.vercel.app/`
 - Final CSV: `deliverables/bay-area-final-1000-websites.csv`
+- Brand-styling audit: `deliverables/brand-styling-audit.csv`
 - Driving report: `deliverables/bay-area-final-1000-driving-report.md`
 - Driving segments: `deliverables/bay-area-final-1000-driving-segments.csv`
 - Drive-radius audit: `deliverables/final-drive-radius-audit.csv`
@@ -31,7 +32,7 @@ This audit checks the original request against current files, GitHub, and the pu
 | Use the templates | Proved | Current static package is generated from the shared template shell and per-business CSV fields. |
 | Include relevant information | Proved | 1000 rows include business name, address, phone, category, evidence, Google Maps link, generated site path, and description field. |
 | Include images from Yelp/Booksy/etc | Delivered with audited partial coverage | 326 rows have accepted business-specific direct profile image URLs from matched Yelp/Fresha results, and all 326 return HTTP 200 with image content types. All 1000 rows also have reachable category/hero images: 1000 HTTP 200, all image/jpeg. 19 prior profile-image candidates were rejected because they returned HTML/XML or 403. |
-| Be creative/stylize to brand | Proved at data/template level | 1000 rows include `Brand palette` and `Style rationale`, and the generated pages render those fields. |
+| Be creative/stylize to brand | Proved at data/template level | 1000 rows include parseable `primary/surface/accent/ink` brand palettes and business-specific `Style rationale`; brand-styling audit passes 1000/1000 rows. |
 | Link Yelp/Booksy/etc if available | Delivered with audited partial coverage | 683 rows have accepted profile links; 317 rows were searched with no high-confidence profile found. |
 | CSV similar to earlier CSV with GitHub and Vercel links | Proved | Final CSV has 1000 GitHub links and 1000 Vercel links. |
 | Include description | Proved | Final CSV has 1000 nonblank `Why a dedicated website would help` descriptions. |
@@ -54,6 +55,7 @@ This audit checks the original request against current files, GitHub, and the pu
 - GitHub profile-image audit: 326 accepted, 338 no safe matching image found, 317 no profile link, 19 rejected because candidate URL did not return direct image content
 - GitHub profile-image HTTP audit: 326 HTTP 200, 0 errors, all image/jpeg or image/png
 - GitHub hero-image HTTP audit: 1000 HTTP 200, 0 errors, all image/jpeg
+- GitHub brand-styling audit: 1000 PASS, 0 FAIL
 - Live drive-radius audit: 1000 `YES`
 - Public business-page HTTP audit against corrected GitHub CSV links: 1000 `200`, 0 fetch errors
 

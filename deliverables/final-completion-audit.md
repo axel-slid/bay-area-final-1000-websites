@@ -10,6 +10,7 @@ Date: 2026-05-20
 - Hero-image HTTP audit fetched all 1000 hero image URLs and returned 1000 HTTP 200 responses, all with `image/jpeg` content type and 0 fetch errors.
 - Profile image extraction was attempted for the first 180 third-party profile links and added `Profile image URL` / `Profile image source` columns. Direct profile-page image extraction yielded 0 usable image URLs because most profile hosts blocked direct HTML fetches or did not expose usable Open Graph images. A stricter image-search pass then checked all 683 validated profile-linked rows, followed by HTTP content validation. The final package accepts 326 business-specific direct Yelp/Fresha image URLs that return HTTP 200 with image content types; 19 prior candidates were rejected because they returned HTML/XML or 403.
 - Each row has a nonblank brand palette and style rationale field in the final CSV; the deployed shell reads the palette from CSV data and renders the rationale on each business page.
+- Brand-styling audit validates 1000/1000 rows: each row has a parseable `primary/surface/accent/ink` palette and a business-specific style rationale.
 - Deployed business pages render source cards for lead evidence, Google Maps, profile/photo source status, and hero image source.
 - Generated site paths exist for all 1000 rows.
 - Static bundle build produced 1001 HTML entry points: one bundle index plus 1000 active business slug pages, plus `data.json` and `robots.txt`.

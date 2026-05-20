@@ -1,0 +1,1001 @@
+Route stop,Business,GitHub Pages link,HTTP status,Audit status
+1,Plantation Coffee Roastery,https://axel-slid.github.io/bay-area-final-1000-websites/plantation-coffee-roastery-bay-area/,200,PASS
+2,Elegant Hair & Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/elegant-hair-nail-salon-san-carlos/,200,PASS
+3,Hair Pro,https://axel-slid.github.io/bay-area-final-1000-websites/hair-pro-redwood-city/,200,PASS
+4,Estampas Peruanas,https://axel-slid.github.io/bay-area-final-1000-websites/estampas-peruanas-redwood-city/,200,PASS
+5,Fabulous Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/fabulous-hair-nails-redwood-city/,200,PASS
+6,Shiny Nails,https://axel-slid.github.io/bay-area-final-1000-websites/shiny-nails-redwood-city/,200,PASS
+7,Naranjo's Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/naranjos-taqueria-redwood-city/,200,PASS
+8,Peninsula Uniforms & Equipment,https://axel-slid.github.io/bay-area-final-1000-websites/peninsula-uniforms-equipment-redwood-city/,200,PASS
+9,Kemuri Japanese Barú,https://axel-slid.github.io/bay-area-final-1000-websites/kemuri-japanese-baru-redwood-city/,200,PASS
+10,Bluefin Sushi & Teriyaki Grill,https://axel-slid.github.io/bay-area-final-1000-websites/bluefin-sushi-teriyaki-grill-redwood-city/,200,PASS
+11,Découpage Hair,https://axel-slid.github.io/bay-area-final-1000-websites/decoupage-hair-redwood-city/,200,PASS
+12,Memole & Company,https://axel-slid.github.io/bay-area-final-1000-websites/memole-company-redwood-city/,200,PASS
+13,Perfect 10 Nails,https://axel-slid.github.io/bay-area-final-1000-websites/perfect-10-nails-redwood-city/,200,PASS
+14,Happy Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/happy-donuts-redwood-city/,200,PASS
+15,Perfectly Cut,https://axel-slid.github.io/bay-area-final-1000-websites/perfectly-cut-redwood-city/,200,PASS
+16,Muffler Express,https://axel-slid.github.io/bay-area-final-1000-websites/muffler-express-redwood-city/,200,PASS
+17,Lynn Auto Machine,https://axel-slid.github.io/bay-area-final-1000-websites/lynn-auto-machine-redwood-city/,200,PASS
+18,Nails Trix Salon,https://axel-slid.github.io/bay-area-final-1000-websites/nails-trix-salon-redwood-city/,200,PASS
+19,Primo Auto Service,https://axel-slid.github.io/bay-area-final-1000-websites/primo-auto-service-redwood-city/,200,PASS
+20,Wash & Dry Coin Laundry,https://axel-slid.github.io/bay-area-final-1000-websites/wash-dry-coin-laundry-redwood-city/,200,PASS
+21,Faby's Jewelers,https://axel-slid.github.io/bay-area-final-1000-websites/fabys-jewelers-redwood-city/,200,PASS
+22,Los Temos Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/los-temos-taqueria-redwood-city/,200,PASS
+23,Languren's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/langurens-beauty-salon-redwood-city/,200,PASS
+24,El Zarape,https://axel-slid.github.io/bay-area-final-1000-websites/el-zarape-redwood-city/,200,PASS
+25,Elio's Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/elios-jewelry-redwood-city/,200,PASS
+26,Ben's Auto Tech,https://axel-slid.github.io/bay-area-final-1000-websites/bens-auto-tech-redwood-city/,200,PASS
+27,Family Wash and Fold,https://axel-slid.github.io/bay-area-final-1000-websites/family-wash-and-fold-redwood-city/,200,PASS
+28,F.C. Painting,https://axel-slid.github.io/bay-area-final-1000-websites/fc-painting-redwood-city/,200,PASS
+29,Tammy's Joyeria y Paqueteria,https://axel-slid.github.io/bay-area-final-1000-websites/tammys-joyeria-y-paqueteria-redwood-city/,200,PASS
+30,Chu's Florist & Birds,https://axel-slid.github.io/bay-area-final-1000-websites/chus-florist-birds-redwood-city/,200,PASS
+31,Ray's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/rays-auto-repair-redwood-city/,200,PASS
+32,Stuttgart Motors,https://axel-slid.github.io/bay-area-final-1000-websites/stuttgart-motors-redwood-city/,200,PASS
+33,Castillo's Auto Electric,https://axel-slid.github.io/bay-area-final-1000-websites/castillos-auto-electric-redwood-city/,200,PASS
+34,HK Smog,https://axel-slid.github.io/bay-area-final-1000-websites/hk-smog-redwood-city/,200,PASS
+35,Padilla's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/padillas-auto-repair-redwood-city/,200,PASS
+36,El Camino Auto Body,https://axel-slid.github.io/bay-area-final-1000-websites/el-camino-auto-body-redwood-city/,200,PASS
+37,Beauty Touch Salon,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-touch-salon-redwood-city/,200,PASS
+38,Laluces Dental,https://axel-slid.github.io/bay-area-final-1000-websites/laluces-dental-redwood-city/,200,PASS
+39,US Chinese Food,https://axel-slid.github.io/bay-area-final-1000-websites/us-chinese-food-redwood-city/,200,PASS
+40,Nor Cal Collision,https://axel-slid.github.io/bay-area-final-1000-websites/nor-cal-collision-redwood-city/,200,PASS
+41,Capelli Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/capelli-beauty-redwood-city/,200,PASS
+42,Tacos El Camino,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-el-camino-redwood-city/,200,PASS
+43,KY's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/kys-auto-repair-redwood-city/,200,PASS
+44,La Costa,https://axel-slid.github.io/bay-area-final-1000-websites/la-costa-redwood-city/,200,PASS
+45,New Age Hair & Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/new-age-hair-nail-spa-redwood-city/,200,PASS
+46,Karlita's Taco Place,https://axel-slid.github.io/bay-area-final-1000-websites/karlitas-taco-place-redwood-city/,200,PASS
+47,Men Haircuts by Lilian,https://axel-slid.github.io/bay-area-final-1000-websites/men-haircuts-by-lilian-redwood-city/,200,PASS
+48,Diner Japonica,https://axel-slid.github.io/bay-area-final-1000-websites/diner-japonica-redwood-city/,200,PASS
+49,Villa Roma Cocktail Lounge,https://axel-slid.github.io/bay-area-final-1000-websites/villa-roma-cocktail-lounge-redwood-city/,200,PASS
+50,Family Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/family-hair-salon-redwood-city/,200,PASS
+51,Nancy's Nails,https://axel-slid.github.io/bay-area-final-1000-websites/nancys-nails-redwood-city/,200,PASS
+52,Clean Wash,https://axel-slid.github.io/bay-area-final-1000-websites/clean-wash-redwood-city/,200,PASS
+53,Pho Truong Long,https://axel-slid.github.io/bay-area-final-1000-websites/pho-truong-long-redwood-city/,200,PASS
+54,Precious Nails,https://axel-slid.github.io/bay-area-final-1000-websites/precious-nails-redwood-city/,200,PASS
+55,Reflections Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/reflections-hair-design-redwood-city/,200,PASS
+56,One on One Fiteness,https://axel-slid.github.io/bay-area-final-1000-websites/one-on-one-fiteness-redwood-city/,200,PASS
+57,King's Court Barber Salon,https://axel-slid.github.io/bay-area-final-1000-websites/kings-court-barber-salon-redwood-city/,200,PASS
+58,Bravo! Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/bravo-taqueria-redwood-city/,200,PASS
+59,Diane's Salon,https://axel-slid.github.io/bay-area-final-1000-websites/dianes-salon-portola-valley/,200,PASS
+60,KJ's Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/kjs-cafe-los-altos-hills/,200,PASS
+61,Tammy Salon,https://axel-slid.github.io/bay-area-final-1000-websites/tammy-salon-bay-area/,200,PASS
+62,Paris Tailor,https://axel-slid.github.io/bay-area-final-1000-websites/paris-tailor-los-altos/,200,PASS
+63,La Venus,https://axel-slid.github.io/bay-area-final-1000-websites/la-venus-los-altos/,200,PASS
+64,Cambric Ltd,https://axel-slid.github.io/bay-area-final-1000-websites/cambric-ltd-bay-area/,200,PASS
+65,"Curtis Miyahara, DMD",https://axel-slid.github.io/bay-area-final-1000-websites/curtis-miyahara-dmd-los-altos/,200,PASS
+66,Nancy's Tailor,https://axel-slid.github.io/bay-area-final-1000-websites/nancys-tailor-los-altos/,200,PASS
+67,The Pho Cabin,https://axel-slid.github.io/bay-area-final-1000-websites/the-pho-cabin-bay-area/,200,PASS
+68,Harold's Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/harolds-jewelry-los-altos/,200,PASS
+69,Mikado,https://axel-slid.github.io/bay-area-final-1000-websites/mikado-los-altos/,200,PASS
+70,Tacos Al Vapor,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-al-vapor-los-altos/,200,PASS
+71,Ann's Nails,https://axel-slid.github.io/bay-area-final-1000-websites/anns-nails-los-altos/,200,PASS
+72,NAR,https://axel-slid.github.io/bay-area-final-1000-websites/nar-bay-area/,200,PASS
+73,ICON Wintow Tint,https://axel-slid.github.io/bay-area-final-1000-websites/icon-wintow-tint-mountain-view/,200,PASS
+74,"Liem Tran, DDS",https://axel-slid.github.io/bay-area-final-1000-websites/liem-tran-dds-bay-area/,200,PASS
+75,Sunny Beauty Salon & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/sunny-beauty-salon-nails-sunnyvale/,200,PASS
+76,Lozano's Brushless Car Wash,https://axel-slid.github.io/bay-area-final-1000-websites/lozanos-brushless-car-wash-sunnyvale/,200,PASS
+77,TC Accounting,https://axel-slid.github.io/bay-area-final-1000-websites/tc-accounting-sunnyvale/,200,PASS
+78,Noodle Talk,https://axel-slid.github.io/bay-area-final-1000-websites/noodle-talk-bay-area/,200,PASS
+79,Hendy Auto Services,https://axel-slid.github.io/bay-area-final-1000-websites/hendy-auto-services-bay-area/,200,PASS
+80,TJ Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/tj-automotive-sunnyvale/,200,PASS
+81,Famous Food Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/famous-food-restaurant-bay-area/,200,PASS
+82,Taqueria Patzcuaro,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-patzcuaro-sunnyvale/,200,PASS
+83,Pearly Bright Dental,https://axel-slid.github.io/bay-area-final-1000-websites/pearly-bright-dental-bay-area/,200,PASS
+84,Thai pepper cuisine,https://axel-slid.github.io/bay-area-final-1000-websites/thai-pepper-cuisine-sunnyvale/,200,PASS
+85,Super Burrito,https://axel-slid.github.io/bay-area-final-1000-websites/super-burrito-sunnyvale/,200,PASS
+86,Bento Express,https://axel-slid.github.io/bay-area-final-1000-websites/bento-express-bay-area/,200,PASS
+87,Tasty Pizza,https://axel-slid.github.io/bay-area-final-1000-websites/tasty-pizza-cupertino/,200,PASS
+88,The X-Pot,https://axel-slid.github.io/bay-area-final-1000-websites/the-x-pot-cupertino/,200,PASS
+89,Hummingbird Day Spa,https://axel-slid.github.io/bay-area-final-1000-websites/hummingbird-day-spa-cupertino/,200,PASS
+90,"John K. S. Tong, D.D.S.",https://axel-slid.github.io/bay-area-final-1000-websites/john-k-s-tong-dds-cupertino/,200,PASS
+91,Sushi Kuni,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-kuni-cupertino/,200,PASS
+92,Calihair,https://axel-slid.github.io/bay-area-final-1000-websites/calihair-cupertino/,200,PASS
+93,"Family & Cosmetic Dentistry Ellen Peng, D.d.s.",https://axel-slid.github.io/bay-area-final-1000-websites/family-cosmetic-dentistry-ellen-peng-dds-bay-area/,200,PASS
+94,Nails A-1,https://axel-slid.github.io/bay-area-final-1000-websites/nails-a-1-san-jose/,200,PASS
+95,Royal Skincare & Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/royal-skincare-hair-design-san-jose/,200,PASS
+96,What the Falafel,https://axel-slid.github.io/bay-area-final-1000-websites/what-the-falafel-san-jose/,200,PASS
+97,Kiely 2 Wash & Dry,https://axel-slid.github.io/bay-area-final-1000-websites/kiely-2-wash-dry-san-jose/,200,PASS
+98,Goody Goody,https://axel-slid.github.io/bay-area-final-1000-websites/goody-goody-san-jose/,200,PASS
+99,Synergy Personal Training,https://axel-slid.github.io/bay-area-final-1000-websites/synergy-personal-training-san-jose/,200,PASS
+100,Amatos Cheesesteaks,https://axel-slid.github.io/bay-area-final-1000-websites/amatos-cheesesteaks-san-jose/,200,PASS
+101,Formosa Aroma,https://axel-slid.github.io/bay-area-final-1000-websites/formosa-aroma-san-jose/,200,PASS
+102,Campbell Everyday Smog - Star Station,https://axel-slid.github.io/bay-area-final-1000-websites/campbell-everyday-smog-star-station-bay-area/,200,PASS
+103,Two Pesos Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/two-pesos-taqueria-los-gatos/,200,PASS
+104,Rural Supply,https://axel-slid.github.io/bay-area-final-1000-websites/rural-supply-los-gatos/,200,PASS
+105,T-Bird's Pizza,https://axel-slid.github.io/bay-area-final-1000-websites/t-birds-pizza-los-gatos/,200,PASS
+106,Mama's Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/mamas-bakery-los-gatos/,200,PASS
+107,Bob's Garage,https://axel-slid.github.io/bay-area-final-1000-websites/bobs-garage-los-gatos/,200,PASS
+108,Orange Coast Title,https://axel-slid.github.io/bay-area-final-1000-websites/orange-coast-title-los-gatos/,200,PASS
+109,Preferred Image of Los Gatos,https://axel-slid.github.io/bay-area-final-1000-websites/preferred-image-of-los-gatos-los-gatos/,200,PASS
+110,Heartbeat Café,https://axel-slid.github.io/bay-area-final-1000-websites/heartbeat-cafe-san-jose/,200,PASS
+111,Harbor Fish & Chips,https://axel-slid.github.io/bay-area-final-1000-websites/harbor-fish-chips-san-jose/,200,PASS
+112,Diamond Shoe Repair,https://axel-slid.github.io/bay-area-final-1000-websites/diamond-shoe-repair-san-jose/,200,PASS
+113,Vogue Salon & Lounge,https://axel-slid.github.io/bay-area-final-1000-websites/vogue-salon-lounge-san-jose/,200,PASS
+114,A&P Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/ap-auto-repair-san-jose/,200,PASS
+115,T-Safety Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/t-safety-automotive-san-jose/,200,PASS
+116,Michael J's Collision Centers,https://axel-slid.github.io/bay-area-final-1000-websites/michael-js-collision-centers-san-jose/,200,PASS
+117,Thai Spice,https://axel-slid.github.io/bay-area-final-1000-websites/thai-spice-san-jose/,200,PASS
+118,Sweet Mango,https://axel-slid.github.io/bay-area-final-1000-websites/sweet-mango-san-jose/,200,PASS
+119,Los Dubon Inc.,https://axel-slid.github.io/bay-area-final-1000-websites/los-dubon-inc-san-jose/,200,PASS
+120,"Robert A Gong-Guy, DDS",https://axel-slid.github.io/bay-area-final-1000-websites/robert-a-gong-guy-dds-san-jose/,200,PASS
+121,La Superior Panadería y Taquería,https://axel-slid.github.io/bay-area-final-1000-websites/la-superior-panaderia-y-taqueria-san-jose/,200,PASS
+122,Straight Edge,https://axel-slid.github.io/bay-area-final-1000-websites/straight-edge-campbell/,200,PASS
+123,T Lashes LLC,https://axel-slid.github.io/bay-area-final-1000-websites/t-lashes-llc-campbell/,200,PASS
+124,Hollywood Nails,https://axel-slid.github.io/bay-area-final-1000-websites/hollywood-nails-bay-area/,200,PASS
+125,Patricia S. Nakamura Electrolysis,https://axel-slid.github.io/bay-area-final-1000-websites/patricia-s-nakamura-electrolysis-bay-area/,200,PASS
+126,the garret,https://axel-slid.github.io/bay-area-final-1000-websites/the-garret-bay-area/,200,PASS
+127,Serendipity Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/serendipity-hair-salon-campbell/,200,PASS
+128,Happy Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/happy-hair-salon-campbell/,200,PASS
+129,Mo's,https://axel-slid.github.io/bay-area-final-1000-websites/mos-campbell/,200,PASS
+130,JCM Electric,https://axel-slid.github.io/bay-area-final-1000-websites/jcm-electric-bay-area/,200,PASS
+131,Kaizen,https://axel-slid.github.io/bay-area-final-1000-websites/kaizen-campbell/,200,PASS
+132,Spa City,https://axel-slid.github.io/bay-area-final-1000-websites/spa-city-campbell/,200,PASS
+133,Excel Cuts & Nailcare,https://axel-slid.github.io/bay-area-final-1000-websites/excel-cuts-nailcare-san-jose/,200,PASS
+134,Quality Car Care,https://axel-slid.github.io/bay-area-final-1000-websites/quality-car-care-san-jose/,200,PASS
+135,BYLT,https://axel-slid.github.io/bay-area-final-1000-websites/bylt-san-jose/,200,PASS
+136,D&J Auto Center,https://axel-slid.github.io/bay-area-final-1000-websites/dj-auto-center-san-jose/,200,PASS
+137,Venice Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/venice-nail-salon-san-jose/,200,PASS
+138,Spartan Autobody Shop,https://axel-slid.github.io/bay-area-final-1000-websites/spartan-autobody-shop-san-jose/,200,PASS
+139,Auzerais Collision Center,https://axel-slid.github.io/bay-area-final-1000-websites/auzerais-collision-center-san-jose/,200,PASS
+140,El Radiator Doctor,https://axel-slid.github.io/bay-area-final-1000-websites/el-radiator-doctor-san-jose/,200,PASS
+141,Bel Bacio,https://axel-slid.github.io/bay-area-final-1000-websites/bel-bacio-san-jose/,200,PASS
+142,Dac Phuc,https://axel-slid.github.io/bay-area-final-1000-websites/dac-phuc-san-jose/,200,PASS
+143,Angel’s Cleaners & Alteration,https://axel-slid.github.io/bay-area-final-1000-websites/angels-cleaners-alteration-san-jose/,200,PASS
+144,La Victoria Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/la-victoria-taqueria-san-jose/,200,PASS
+145,Kali Noodles & Tea Bar,https://axel-slid.github.io/bay-area-final-1000-websites/kali-noodles-tea-bar-san-jose/,200,PASS
+146,Phở Công Lý,https://axel-slid.github.io/bay-area-final-1000-websites/pho-cong-ly-san-jose/,200,PASS
+147,MC-Salon,https://axel-slid.github.io/bay-area-final-1000-websites/mc-salon-san-jose/,200,PASS
+148,Đà-Lạt,https://axel-slid.github.io/bay-area-final-1000-websites/a-lat-san-jose/,200,PASS
+149,Mike Pizza & Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/mike-pizza-taqueria-san-jose/,200,PASS
+150,Transon Auto Body & Paint,https://axel-slid.github.io/bay-area-final-1000-websites/transon-auto-body-paint-san-jose/,200,PASS
+151,Phố Cổ II,https://axel-slid.github.io/bay-area-final-1000-websites/pho-co-ii-san-jose/,200,PASS
+152,Nam Thanh Bánh Canh 3 Miền,https://axel-slid.github.io/bay-area-final-1000-websites/nam-thanh-banh-canh-3-mien-san-jose/,200,PASS
+153,Thanh Sơn,https://axel-slid.github.io/bay-area-final-1000-websites/thanh-son-san-jose/,200,PASS
+154,Saigon Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/saigon-kitchen-san-jose/,200,PASS
+155,Nina Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/nina-hair-nails-san-jose/,200,PASS
+156,Lucy's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lucys-beauty-salon-san-jose/,200,PASS
+157,Café Docanto,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-docanto-san-jose/,200,PASS
+158,Joyería Y Discoteca Peña,https://axel-slid.github.io/bay-area-final-1000-websites/joyeria-y-discoteca-pena-san-jose/,200,PASS
+159,Oasis Insurance Agency,https://axel-slid.github.io/bay-area-final-1000-websites/oasis-insurance-agency-san-jose/,200,PASS
+160,T&P Auto Services,https://axel-slid.github.io/bay-area-final-1000-websites/tp-auto-services-san-jose/,200,PASS
+161,Lucky Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/lucky-hair-nails-san-jose/,200,PASS
+162,Fruitas Regionales Magui,https://axel-slid.github.io/bay-area-final-1000-websites/fruitas-regionales-magui-san-jose/,200,PASS
+163,Valencia's Auto Service,https://axel-slid.github.io/bay-area-final-1000-websites/valencias-auto-service-san-jose/,200,PASS
+164,New Dong Phuong Tofu,https://axel-slid.github.io/bay-area-final-1000-websites/new-dong-phuong-tofu-san-jose/,200,PASS
+165,McKee Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/mckee-hair-nails-san-jose/,200,PASS
+166,Schroeder's Haircuts,https://axel-slid.github.io/bay-area-final-1000-websites/schroeders-haircuts-san-jose/,200,PASS
+167,Color Nails,https://axel-slid.github.io/bay-area-final-1000-websites/color-nails-san-jose/,200,PASS
+168,Helen's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/helens-beauty-salon-san-jose/,200,PASS
+169,El Cerrito Taqueria and Cenaduria,https://axel-slid.github.io/bay-area-final-1000-websites/el-cerrito-taqueria-and-cenaduria-san-jose/,200,PASS
+170,The Coffee Cup,https://axel-slid.github.io/bay-area-final-1000-websites/the-coffee-cup-san-jose/,200,PASS
+171,Glow Beauty Bar,https://axel-slid.github.io/bay-area-final-1000-websites/glow-beauty-bar-san-jose/,200,PASS
+172,Daydream Sandwiches& Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/daydream-sandwiches-donuts-san-jose/,200,PASS
+173,Ava's Skin Care Lash Studio,https://axel-slid.github.io/bay-area-final-1000-websites/avas-skin-care-lash-studio-san-jose/,200,PASS
+174,North Valley Dental Office,https://axel-slid.github.io/bay-area-final-1000-websites/north-valley-dental-office-san-jose/,200,PASS
+175,Brand Hong Kong Salon,https://axel-slid.github.io/bay-area-final-1000-websites/brand-hong-kong-salon-san-jose/,200,PASS
+176,Trang Pham CPA,https://axel-slid.github.io/bay-area-final-1000-websites/trang-pham-cpa-san-jose/,200,PASS
+177,S Pearl Salon,https://axel-slid.github.io/bay-area-final-1000-websites/s-pearl-salon-san-jose/,200,PASS
+178,Jonathan H Kim Dentistry,https://axel-slid.github.io/bay-area-final-1000-websites/jonathan-h-kim-dentistry-san-jose/,200,PASS
+179,VK Hair Creations,https://axel-slid.github.io/bay-area-final-1000-websites/vk-hair-creations-san-jose/,200,PASS
+180,The Jelly Donut,https://axel-slid.github.io/bay-area-final-1000-websites/the-jelly-donut-san-jose/,200,PASS
+181,Kristin's Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/kristins-hair-design-san-jose/,200,PASS
+182,WOW Dental,https://axel-slid.github.io/bay-area-final-1000-websites/wow-dental-san-jose/,200,PASS
+183,Lalas Dental,https://axel-slid.github.io/bay-area-final-1000-websites/lalas-dental-san-jose/,200,PASS
+184,Greathair,https://axel-slid.github.io/bay-area-final-1000-websites/greathair-milpitas/,200,PASS
+185,Jessica’s Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/jessicas-beauty-salon-milpitas/,200,PASS
+186,His 'n Hers Hair,https://axel-slid.github.io/bay-area-final-1000-websites/his-n-hers-hair-milpitas/,200,PASS
+187,Hair Couture,https://axel-slid.github.io/bay-area-final-1000-websites/hair-couture-milpitas/,200,PASS
+188,Chef P's at Seafood City,https://axel-slid.github.io/bay-area-final-1000-websites/chef-ps-at-seafood-city-milpitas/,200,PASS
+189,Arté Boutique,https://axel-slid.github.io/bay-area-final-1000-websites/arte-boutique-milpitas/,200,PASS
+190,Pho Saigon,https://axel-slid.github.io/bay-area-final-1000-websites/pho-saigon-milpitas/,200,PASS
+191,Forever Beauty Hair And Nails,https://axel-slid.github.io/bay-area-final-1000-websites/forever-beauty-hair-and-nails-milpitas/,200,PASS
+192,J&J Luxury Hair And Nails,https://axel-slid.github.io/bay-area-final-1000-websites/jj-luxury-hair-and-nails-milpitas/,200,PASS
+193,Advanced Verterinary Medical Center,https://axel-slid.github.io/bay-area-final-1000-websites/advanced-verterinary-medical-center-milpitas/,200,PASS
+194,M Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/m-beauty-salon-san-jose/,200,PASS
+195,Mama Lupita's,https://axel-slid.github.io/bay-area-final-1000-websites/mama-lupitas-san-jose/,200,PASS
+196,#1 Eyelash & Skin,https://axel-slid.github.io/bay-area-final-1000-websites/1-eyelash-skin-san-jose/,200,PASS
+197,Phở Ý #1,https://axel-slid.github.io/bay-area-final-1000-websites/pho-y-1-san-jose/,200,PASS
+198,Precious Smile Dental Center,https://axel-slid.github.io/bay-area-final-1000-websites/precious-smile-dental-center-san-jose/,200,PASS
+199,Kim Tar B.B.Q.,https://axel-slid.github.io/bay-area-final-1000-websites/kim-tar-bbq-san-jose/,200,PASS
+200,Ma’s Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/mas-restaurant-san-jose/,200,PASS
+201,Tiger Tea & Juice,https://axel-slid.github.io/bay-area-final-1000-websites/tiger-tea-juice-san-jose/,200,PASS
+202,Sushi Pro,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-pro-san-jose/,200,PASS
+203,Personalized Vans & Trucks,https://axel-slid.github.io/bay-area-final-1000-websites/personalized-vans-trucks-san-jose/,200,PASS
+204,Mì Quảng Cô Thảo,https://axel-slid.github.io/bay-area-final-1000-websites/mi-quang-co-thao-san-jose/,200,PASS
+205,Diamond Mitsubishi Fuso,https://axel-slid.github.io/bay-area-final-1000-websites/diamond-mitsubishi-fuso-san-jose/,200,PASS
+206,Menara Moroccan,https://axel-slid.github.io/bay-area-final-1000-websites/menara-moroccan-san-jose/,200,PASS
+207,Prolago Hand Car Wash,https://axel-slid.github.io/bay-area-final-1000-websites/prolago-hand-car-wash-bay-area/,200,PASS
+208,Peter Auto Body & Paint,https://axel-slid.github.io/bay-area-final-1000-websites/peter-auto-body-paint-san-jose/,200,PASS
+209,101 Auto Body & Paint,https://axel-slid.github.io/bay-area-final-1000-websites/101-auto-body-paint-san-jose/,200,PASS
+210,Chez Sovan,https://axel-slid.github.io/bay-area-final-1000-websites/chez-sovan-san-jose/,200,PASS
+211,Autoland;Radiatorland,https://axel-slid.github.io/bay-area-final-1000-websites/autolandradiatorland-san-jose/,200,PASS
+212,Tire Merchants,https://axel-slid.github.io/bay-area-final-1000-websites/tire-merchants-san-jose/,200,PASS
+213,Maria Asela Caces-Tiamson Inc.,https://axel-slid.github.io/bay-area-final-1000-websites/maria-asela-caces-tiamson-inc-san-jose/,200,PASS
+214,AKW Auto Body & Paint,https://axel-slid.github.io/bay-area-final-1000-websites/akw-auto-body-paint-san-jose/,200,PASS
+215,Taquería “El Caminito”,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-el-caminito-san-jose/,200,PASS
+216,Tony’s Pool Hall,https://axel-slid.github.io/bay-area-final-1000-websites/tonys-pool-hall-san-jose/,200,PASS
+217,Mikee’s Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/mikees-auto-repair-san-jose/,200,PASS
+218,LTM Smog & Repair,https://axel-slid.github.io/bay-area-final-1000-websites/ltm-smog-repair-bay-area/,200,PASS
+219,"Doctor Martha E. Barragan, D.D.S.",https://axel-slid.github.io/bay-area-final-1000-websites/doctor-martha-e-barragan-dds-san-jose/,200,PASS
+220,Raul’s Mufflers,https://axel-slid.github.io/bay-area-final-1000-websites/rauls-mufflers-san-jose/,200,PASS
+221,A&M Paint & Body,https://axel-slid.github.io/bay-area-final-1000-websites/am-paint-body-san-jose/,200,PASS
+222,True Beauty Salon Spa,https://axel-slid.github.io/bay-area-final-1000-websites/true-beauty-salon-spa-san-jose/,200,PASS
+223,Taylor Automotive Service,https://axel-slid.github.io/bay-area-final-1000-websites/taylor-automotive-service-san-jose/,200,PASS
+224,Lettuce Sandwich Shop,https://axel-slid.github.io/bay-area-final-1000-websites/lettuce-sandwich-shop-bay-area/,200,PASS
+225,M.Y. Salon,https://axel-slid.github.io/bay-area-final-1000-websites/my-salon-santa-clara/,200,PASS
+226,Winx,https://axel-slid.github.io/bay-area-final-1000-websites/winx-santa-clara/,200,PASS
+227,Painted Ivy,https://axel-slid.github.io/bay-area-final-1000-websites/painted-ivy-santa-clara/,200,PASS
+228,CK Salon,https://axel-slid.github.io/bay-area-final-1000-websites/ck-salon-santa-clara/,200,PASS
+229,Vanna's Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/vannas-hair-nails-bay-area/,200,PASS
+230,Kokodek Korean Fried Chicken,https://axel-slid.github.io/bay-area-final-1000-websites/kokodek-korean-fried-chicken-san-jose/,200,PASS
+231,TLS Auto Service,https://axel-slid.github.io/bay-area-final-1000-websites/tls-auto-service-bay-area/,200,PASS
+232,Korean Spring,https://axel-slid.github.io/bay-area-final-1000-websites/korean-spring-santa-clara/,200,PASS
+233,Kens' Hair Stylists & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/kens-hair-stylists-nails-santa-clara/,200,PASS
+234,Classic Homestead Barber,https://axel-slid.github.io/bay-area-final-1000-websites/classic-homestead-barber-santa-clara/,200,PASS
+235,T&K Barber & Hairstyling,https://axel-slid.github.io/bay-area-final-1000-websites/tk-barber-hairstyling-sunnyvale/,200,PASS
+236,Rajjot Sweets and Snacks,https://axel-slid.github.io/bay-area-final-1000-websites/rajjot-sweets-and-snacks-sunnyvale/,200,PASS
+237,Jang Tu,https://axel-slid.github.io/bay-area-final-1000-websites/jang-tu-bay-area/,200,PASS
+238,Hair Focus,https://axel-slid.github.io/bay-area-final-1000-websites/hair-focus-sunnyvale/,200,PASS
+239,Rama V Thai Cuisine,https://axel-slid.github.io/bay-area-final-1000-websites/rama-v-thai-cuisine-bay-area/,200,PASS
+240,Griffin Upholstery,https://axel-slid.github.io/bay-area-final-1000-websites/griffin-upholstery-bay-area/,200,PASS
+241,Paredes Auto Works,https://axel-slid.github.io/bay-area-final-1000-websites/paredes-auto-works-bay-area/,200,PASS
+242,Cheun Joo Young Yamg Dol Sot,https://axel-slid.github.io/bay-area-final-1000-websites/cheun-joo-young-yamg-dol-sot-santa-clara/,200,PASS
+243,Perfect Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/perfect-hair-design-santa-clara/,200,PASS
+244,Honey Berry,https://axel-slid.github.io/bay-area-final-1000-websites/honey-berry-bay-area/,200,PASS
+245,미주부동산,https://axel-slid.github.io/bay-area-final-1000-websites/santa-clara/,200,PASS
+246,Ga-In Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/ga-in-beauty-salon-santa-clara/,200,PASS
+247,Santa Clara Tint Wrap & Carpet Coloring,https://axel-slid.github.io/bay-area-final-1000-websites/santa-clara-tint-wrap-carpet-coloring-santa-clara/,200,PASS
+248,Jeff's Garage,https://axel-slid.github.io/bay-area-final-1000-websites/jeffs-garage-santa-clara/,200,PASS
+249,Nu-Way Tool Supply,https://axel-slid.github.io/bay-area-final-1000-websites/nu-way-tool-supply-santa-clara/,200,PASS
+250,Sassy Nail,https://axel-slid.github.io/bay-area-final-1000-websites/sassy-nail-santa-clara/,200,PASS
+251,Christine Dental,https://axel-slid.github.io/bay-area-final-1000-websites/christine-dental-bay-area/,200,PASS
+252,Blurr Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/blurr-kitchen-bay-area/,200,PASS
+253,Taqueria Vallarta,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-vallarta-santa-clara/,200,PASS
+254,Goldie's Muffler & Brake,https://axel-slid.github.io/bay-area-final-1000-websites/goldies-muffler-brake-santa-clara/,200,PASS
+255,Ume Chinese Food,https://axel-slid.github.io/bay-area-final-1000-websites/ume-chinese-food-san-jose/,200,PASS
+256,Biryani Stop,https://axel-slid.github.io/bay-area-final-1000-websites/biryani-stop-san-jose/,200,PASS
+257,Kenneth Hua Dentistry,https://axel-slid.github.io/bay-area-final-1000-websites/kenneth-hua-dentistry-san-jose/,200,PASS
+258,Wilson Motorsports AutoRepair Inc.,https://axel-slid.github.io/bay-area-final-1000-websites/wilson-motorsports-autorepair-inc-san-jose/,200,PASS
+259,QQ Noodle,https://axel-slid.github.io/bay-area-final-1000-websites/qq-noodle-milpitas/,200,PASS
+260,AikoNails,https://axel-slid.github.io/bay-area-final-1000-websites/aikonails-milpitas/,200,PASS
+261,Dreamhair Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/dreamhair-beauty-salon-milpitas/,200,PASS
+262,Hair.Com,https://axel-slid.github.io/bay-area-final-1000-websites/haircom-milpitas/,200,PASS
+263,Apt.Li Xiang Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/aptli-xiang-restaurant-milpitas/,200,PASS
+264,Jiuding Flavor Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/jiuding-flavor-restaurant-milpitas/,200,PASS
+265,El Alazan Grill,https://axel-slid.github.io/bay-area-final-1000-websites/el-alazan-grill-milpitas/,200,PASS
+266,Hair Day - The Korean Salon,https://axel-slid.github.io/bay-area-final-1000-websites/hair-day-the-korean-salon-milpitas/,200,PASS
+267,Ann Hong Vietnamese Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/ann-hong-vietnamese-restaurant-milpitas/,200,PASS
+268,Angel Nails Spa,https://axel-slid.github.io/bay-area-final-1000-websites/angel-nails-spa-milpitas/,200,PASS
+269,Serra Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/serra-barber-shop-milpitas/,200,PASS
+270,Sonam House Of Indian Fashion,https://axel-slid.github.io/bay-area-final-1000-websites/sonam-house-of-indian-fashion-milpitas/,200,PASS
+271,Bleu de Beaute,https://axel-slid.github.io/bay-area-final-1000-websites/bleu-de-beaute-milpitas/,200,PASS
+272,Taste Good Beijing Duck,https://axel-slid.github.io/bay-area-final-1000-websites/taste-good-beijing-duck-milpitas/,200,PASS
+273,Sen Dai Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/sen-dai-sushi-milpitas/,200,PASS
+274,Donut Basket,https://axel-slid.github.io/bay-area-final-1000-websites/donut-basket-milpitas/,200,PASS
+275,Taiwan Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/taiwan-cafe-bay-area/,200,PASS
+276,Jeanne's Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/jeannes-nail-spa-milpitas/,200,PASS
+277,Luu New Tung Kee Noodle,https://axel-slid.github.io/bay-area-final-1000-websites/luu-new-tung-kee-noodle-milpitas/,200,PASS
+278,Radiant Dental,https://axel-slid.github.io/bay-area-final-1000-websites/radiant-dental-milpitas/,200,PASS
+279,Modern Image,https://axel-slid.github.io/bay-area-final-1000-websites/modern-image-milpitas/,200,PASS
+280,King Chicken Wing,https://axel-slid.github.io/bay-area-final-1000-websites/king-chicken-wing-bay-area/,200,PASS
+281,Park Victoria Dental,https://axel-slid.github.io/bay-area-final-1000-websites/park-victoria-dental-milpitas/,200,PASS
+282,Tina's Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/tinas-hair-design-milpitas/,200,PASS
+283,Calaveras Family Dentistry,https://axel-slid.github.io/bay-area-final-1000-websites/calaveras-family-dentistry-milpitas/,200,PASS
+284,BBH Noodle,https://axel-slid.github.io/bay-area-final-1000-websites/bbh-noodle-milpitas/,200,PASS
+285,Be My Nails,https://axel-slid.github.io/bay-area-final-1000-websites/be-my-nails-milpitas/,200,PASS
+286,Christy's Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/christys-donuts-milpitas/,200,PASS
+287,Victoria Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/victoria-hair-nails-milpitas/,200,PASS
+288,Chez Christina,https://axel-slid.github.io/bay-area-final-1000-websites/chez-christina-milpitas/,200,PASS
+289,The Pizza Box,https://axel-slid.github.io/bay-area-final-1000-websites/the-pizza-box-milpitas/,200,PASS
+290,MM Barbershop,https://axel-slid.github.io/bay-area-final-1000-websites/mm-barbershop-milpitas/,200,PASS
+291,I Nails,https://axel-slid.github.io/bay-area-final-1000-websites/i-nails-milpitas/,200,PASS
+292,Loved And Lashed,https://axel-slid.github.io/bay-area-final-1000-websites/loved-and-lashed-milpitas/,200,PASS
+293,Allianace Dental Center,https://axel-slid.github.io/bay-area-final-1000-websites/allianace-dental-center-milpitas/,200,PASS
+294,Bliss Beauty & Spa,https://axel-slid.github.io/bay-area-final-1000-websites/bliss-beauty-spa-milpitas/,200,PASS
+295,Chick & Tea,https://axel-slid.github.io/bay-area-final-1000-websites/chick-tea-milpitas/,200,PASS
+296,Gao's Kabob & Crab,https://axel-slid.github.io/bay-area-final-1000-websites/gaos-kabob-crab-milpitas/,200,PASS
+297,Shing's Hair Studio,https://axel-slid.github.io/bay-area-final-1000-websites/shings-hair-studio-milpitas/,200,PASS
+298,Beauty Touch,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-touch-milpitas/,200,PASS
+299,OP Beautiful Nails Spa,https://axel-slid.github.io/bay-area-final-1000-websites/op-beautiful-nails-spa-milpitas/,200,PASS
+300,Vincent Liang Dentistry,https://axel-slid.github.io/bay-area-final-1000-websites/vincent-liang-dentistry-milpitas/,200,PASS
+301,Little Taipei Café,https://axel-slid.github.io/bay-area-final-1000-websites/little-taipei-cafe-fremont/,200,PASS
+302,Lok Nails,https://axel-slid.github.io/bay-area-final-1000-websites/lok-nails-bay-area/,200,PASS
+303,Sean's Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/seans-barber-shop-bay-area/,200,PASS
+304,A+ Hk Style Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/a-hk-style-cafe-fremont/,200,PASS
+305,"Richard My Ta, D.D.S., Inc.",https://axel-slid.github.io/bay-area-final-1000-websites/richard-my-ta-dds-inc-fremont/,200,PASS
+306,Star Salon,https://axel-slid.github.io/bay-area-final-1000-websites/star-salon-fremont/,200,PASS
+307,Red Pot,https://axel-slid.github.io/bay-area-final-1000-websites/red-pot-bay-area/,200,PASS
+308,CT Nails & Spa,https://axel-slid.github.io/bay-area-final-1000-websites/ct-nails-spa-fremont/,200,PASS
+309,Pho Saigon Pasteur,https://axel-slid.github.io/bay-area-final-1000-websites/pho-saigon-pasteur-fremont/,200,PASS
+310,Young Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/young-beauty-salon-fremont/,200,PASS
+311,Max Nunez CPA,https://axel-slid.github.io/bay-area-final-1000-websites/max-nunez-cpa-fremont/,200,PASS
+312,L'Amour Nails,https://axel-slid.github.io/bay-area-final-1000-websites/lamour-nails-fremont/,200,PASS
+313,De Ala Dental,https://axel-slid.github.io/bay-area-final-1000-websites/de-ala-dental-fremont/,200,PASS
+314,Top Hair Cut & Salon,https://axel-slid.github.io/bay-area-final-1000-websites/top-hair-cut-salon-fremont/,200,PASS
+315,"Amy B. Wong, D.D.S.",https://axel-slid.github.io/bay-area-final-1000-websites/amy-b-wong-dds-bay-area/,200,PASS
+316,Doan's Hair & Spa,https://axel-slid.github.io/bay-area-final-1000-websites/doans-hair-spa-bay-area/,200,PASS
+317,Sushi Ken,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-ken-bay-area/,200,PASS
+318,Sleek Salon,https://axel-slid.github.io/bay-area-final-1000-websites/sleek-salon-fremont/,200,PASS
+319,Stela's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/stelas-hair-salon-fremont/,200,PASS
+320,Mary’s Barbershop,https://axel-slid.github.io/bay-area-final-1000-websites/marys-barbershop-bay-area/,200,PASS
+321,Yat Sing Chinese Food,https://axel-slid.github.io/bay-area-final-1000-websites/yat-sing-chinese-food-pleasanton/,200,PASS
+322,Jim's Country Style Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/jims-country-style-restaurant-pleasanton/,200,PASS
+323,Main St. Hair Extensions Bar,https://axel-slid.github.io/bay-area-final-1000-websites/main-st-hair-extensions-bar-bay-area/,200,PASS
+324,Brush & Blow,https://axel-slid.github.io/bay-area-final-1000-websites/brush-blow-bay-area/,200,PASS
+325,Estrella Designs,https://axel-slid.github.io/bay-area-final-1000-websites/estrella-designs-bay-area/,200,PASS
+326,Sculptations Boutique,https://axel-slid.github.io/bay-area-final-1000-websites/sculptations-boutique-bay-area/,200,PASS
+327,Aila aesthetics,https://axel-slid.github.io/bay-area-final-1000-websites/aila-aesthetics-bay-area/,200,PASS
+328,Lavendar Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lavendar-nail-salon-bay-area/,200,PASS
+329,Hopyard Nails,https://axel-slid.github.io/bay-area-final-1000-websites/hopyard-nails-pleasanton/,200,PASS
+330,Shear Cuts,https://axel-slid.github.io/bay-area-final-1000-websites/shear-cuts-pleasanton/,200,PASS
+331,The Jelly Donut,https://axel-slid.github.io/bay-area-final-1000-websites/the-jelly-donut-pleasanton/,200,PASS
+332,Pho Lovers,https://axel-slid.github.io/bay-area-final-1000-websites/pho-lovers-dublin/,200,PASS
+333,Monaco Hair And Nails,https://axel-slid.github.io/bay-area-final-1000-websites/monaco-hair-and-nails-bay-area/,200,PASS
+334,Athens Burgers,https://axel-slid.github.io/bay-area-final-1000-websites/athens-burgers-bay-area/,200,PASS
+335,Tri-Valley Mufflers,https://axel-slid.github.io/bay-area-final-1000-websites/tri-valley-mufflers-dublin/,200,PASS
+336,Zorba Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/zorba-automotive-dublin/,200,PASS
+337,Beauty Hair and Nails,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-hair-and-nails-dublin/,200,PASS
+338,Mad for Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/mad-for-sushi-bay-area/,200,PASS
+339,Sodam,https://axel-slid.github.io/bay-area-final-1000-websites/sodam-dublin/,200,PASS
+340,Bagel Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/bagel-bakery-bay-area/,200,PASS
+341,Tofu House,https://axel-slid.github.io/bay-area-final-1000-websites/tofu-house-bay-area/,200,PASS
+342,"G-Jen Hsu, DDS",https://axel-slid.github.io/bay-area-final-1000-websites/g-jen-hsu-dds-bay-area/,200,PASS
+343,Banseok Korean BBQ,https://axel-slid.github.io/bay-area-final-1000-websites/banseok-korean-bbq-bay-area/,200,PASS
+344,Famous Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/famous-hair-nails-bay-area/,200,PASS
+345,Corwood Car Wash,https://axel-slid.github.io/bay-area-final-1000-websites/corwood-car-wash-dublin/,200,PASS
+346,Falafel Village,https://axel-slid.github.io/bay-area-final-1000-websites/falafel-village-bay-area/,200,PASS
+347,Country Faire Dental Group,https://axel-slid.github.io/bay-area-final-1000-websites/country-faire-dental-group-bay-area/,200,PASS
+348,Dr. Charity Duncan Kachalia,https://axel-slid.github.io/bay-area-final-1000-websites/dr-charity-duncan-kachalia-san-ramon/,200,PASS
+349,Notorious Buns,https://axel-slid.github.io/bay-area-final-1000-websites/notorious-buns-bay-area/,200,PASS
+350,W Salon,https://axel-slid.github.io/bay-area-final-1000-websites/w-salon-bay-area/,200,PASS
+351,Angel Staging Partners,https://axel-slid.github.io/bay-area-final-1000-websites/angel-staging-partners-san-ramon/,200,PASS
+352,Hunan Yuan,https://axel-slid.github.io/bay-area-final-1000-websites/hunan-yuan-oakland/,200,PASS
+353,Napoleon's,https://axel-slid.github.io/bay-area-final-1000-websites/napoleons-oakland/,200,PASS
+354,The Cutting Place,https://axel-slid.github.io/bay-area-final-1000-websites/the-cutting-place-bay-area/,200,PASS
+355,Taqueria el Cruzero,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-el-cruzero-bay-area/,200,PASS
+356,Dumpling Hours,https://axel-slid.github.io/bay-area-final-1000-websites/dumpling-hours-bay-area/,200,PASS
+357,Young's Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/youngs-automotive-bay-area/,200,PASS
+358,Better Cuts Salon,https://axel-slid.github.io/bay-area-final-1000-websites/better-cuts-salon-bay-area/,200,PASS
+359,Siamese Dream,https://axel-slid.github.io/bay-area-final-1000-websites/siamese-dream-bay-area/,200,PASS
+360,Organic Greens,https://axel-slid.github.io/bay-area-final-1000-websites/organic-greens-bay-area/,200,PASS
+361,Frank's Tailoring,https://axel-slid.github.io/bay-area-final-1000-websites/franks-tailoring-bay-area/,200,PASS
+362,Ashby Nails,https://axel-slid.github.io/bay-area-final-1000-websites/ashby-nails-bay-area/,200,PASS
+363,European Tailor,https://axel-slid.github.io/bay-area-final-1000-websites/european-tailor-berkeley/,200,PASS
+364,Berkeley Auto Repair Center,https://axel-slid.github.io/bay-area-final-1000-websites/berkeley-auto-repair-center-berkeley/,200,PASS
+365,Royal Ground Coffee,https://axel-slid.github.io/bay-area-final-1000-websites/royal-ground-coffee-berkeley/,200,PASS
+366,眷湘 Easterly,https://axel-slid.github.io/bay-area-final-1000-websites/easterly-berkeley/,200,PASS
+367,Paul's Shoe Repair,https://axel-slid.github.io/bay-area-final-1000-websites/pauls-shoe-repair-berkeley/,200,PASS
+368,K's Coffee House,https://axel-slid.github.io/bay-area-final-1000-websites/ks-coffee-house-berkeley/,200,PASS
+369,Saigon Express,https://axel-slid.github.io/bay-area-final-1000-websites/saigon-express-berkeley/,200,PASS
+370,Kala salon,https://axel-slid.github.io/bay-area-final-1000-websites/kala-salon-berkeley/,200,PASS
+371,My-O-My,https://axel-slid.github.io/bay-area-final-1000-websites/my-o-my-berkeley/,200,PASS
+372,Polished Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/polished-nail-salon-bay-area/,200,PASS
+373,Cha Thai Tea,https://axel-slid.github.io/bay-area-final-1000-websites/cha-thai-tea-berkeley/,200,PASS
+374,Max And Company,https://axel-slid.github.io/bay-area-final-1000-websites/max-and-company-berkeley/,200,PASS
+375,Himalayan Flavors,https://axel-slid.github.io/bay-area-final-1000-websites/himalayan-flavors-berkeley/,200,PASS
+376,Eat @ Thai,https://axel-slid.github.io/bay-area-final-1000-websites/eat-thai-berkeley/,200,PASS
+377,Marlon Car Repair,https://axel-slid.github.io/bay-area-final-1000-websites/marlon-car-repair-berkeley/,200,PASS
+378,Seabreeze,https://axel-slid.github.io/bay-area-final-1000-websites/seabreeze-berkeley/,200,PASS
+379,Quince Cafe & Grill,https://axel-slid.github.io/bay-area-final-1000-websites/quince-cafe-grill-berkeley/,200,PASS
+380,Panel craft,https://axel-slid.github.io/bay-area-final-1000-websites/panel-craft-bay-area/,200,PASS
+381,Pizza Amigos,https://axel-slid.github.io/bay-area-final-1000-websites/pizza-amigos-oakland/,200,PASS
+382,Chef Yu Chinese Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/chef-yu-chinese-restaurant-oakland/,200,PASS
+383,Temescal Wash & Dry,https://axel-slid.github.io/bay-area-final-1000-websites/temescal-wash-dry-oakland/,200,PASS
+384,Town Essentials,https://axel-slid.github.io/bay-area-final-1000-websites/town-essentials-oakland/,200,PASS
+385,Timothy D. Lee,https://axel-slid.github.io/bay-area-final-1000-websites/timothy-d-lee-oakland/,200,PASS
+386,Webster Cheap Auto Insurance Oakland,https://axel-slid.github.io/bay-area-final-1000-websites/webster-cheap-auto-insurance-oakland-oakland/,200,PASS
+387,Gum Kuo,https://axel-slid.github.io/bay-area-final-1000-websites/gum-kuo-bay-area/,200,PASS
+388,Mac Khai,https://axel-slid.github.io/bay-area-final-1000-websites/mac-khai-bay-area/,200,PASS
+389,Yao Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/yao-auto-repair-oakland/,200,PASS
+390,Pacific Lighthouse Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/pacific-lighthouse-restaurant-bay-area/,200,PASS
+391,Spritzers Coffee House,https://axel-slid.github.io/bay-area-final-1000-websites/spritzers-coffee-house-alameda/,200,PASS
+392,Polished,https://axel-slid.github.io/bay-area-final-1000-websites/polished-alameda/,200,PASS
+393,Elegant Nails in Alameda,https://axel-slid.github.io/bay-area-final-1000-websites/elegant-nails-in-alameda-alameda/,200,PASS
+394,Carol L Chan Lamps,https://axel-slid.github.io/bay-area-final-1000-websites/carol-l-chan-lamps-alameda/,200,PASS
+395,Hi Tech Nails,https://axel-slid.github.io/bay-area-final-1000-websites/hi-tech-nails-alameda/,200,PASS
+396,Ohgane Alameda x Vons Chicken,https://axel-slid.github.io/bay-area-final-1000-websites/ohgane-alameda-x-vons-chicken-alameda/,200,PASS
+397,Eyebrow Station,https://axel-slid.github.io/bay-area-final-1000-websites/eyebrow-station-alameda/,200,PASS
+398,Best Alteration,https://axel-slid.github.io/bay-area-final-1000-websites/best-alteration-alameda/,200,PASS
+399,iSalon,https://axel-slid.github.io/bay-area-final-1000-websites/isalon-alameda/,200,PASS
+400,BB Bowl,https://axel-slid.github.io/bay-area-final-1000-websites/bb-bowl-alameda/,200,PASS
+401,Peña's Bakery II,https://axel-slid.github.io/bay-area-final-1000-websites/penas-bakery-ii-oakland/,200,PASS
+402,Hogar Latino,https://axel-slid.github.io/bay-area-final-1000-websites/hogar-latino-bay-area/,200,PASS
+403,Elvia's Bridal & Tuxedo,https://axel-slid.github.io/bay-area-final-1000-websites/elvias-bridal-tuxedo-oakland/,200,PASS
+404,Pasteleria La Favorita,https://axel-slid.github.io/bay-area-final-1000-websites/pasteleria-la-favorita-oakland/,200,PASS
+405,Mi Grullense Taco Truck,https://axel-slid.github.io/bay-area-final-1000-websites/mi-grullense-taco-truck-oakland/,200,PASS
+406,Los Mexicanos Panaderia,https://axel-slid.github.io/bay-area-final-1000-websites/los-mexicanos-panaderia-oakland/,200,PASS
+407,Fruitvale Collision Center,https://axel-slid.github.io/bay-area-final-1000-websites/fruitvale-collision-center-oakland/,200,PASS
+408,Peña's Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/penas-bakery-bay-area/,200,PASS
+409,VN. Auto Service Center,https://axel-slid.github.io/bay-area-final-1000-websites/vn-auto-service-center-oakland/,200,PASS
+410,El Torito Auto Body,https://axel-slid.github.io/bay-area-final-1000-websites/el-torito-auto-body-oakland/,200,PASS
+411,K&7 Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/k7-auto-repair-oakland/,200,PASS
+412,Bodylines,https://axel-slid.github.io/bay-area-final-1000-websites/bodylines-oakland/,200,PASS
+413,CocoBreeze,https://axel-slid.github.io/bay-area-final-1000-websites/cocobreeze-bay-area/,200,PASS
+414,Old Weang Ping Village,https://axel-slid.github.io/bay-area-final-1000-websites/old-weang-ping-village-bay-area/,200,PASS
+415,Just Kids Pediatric Dentistry & Orthodontics - San Leandro,https://axel-slid.github.io/bay-area-final-1000-websites/just-kids-pediatric-dentistry-orthodontics-san-leandro-san-leandro/,200,PASS
+416,Emil Villa's Hickory Pit,https://axel-slid.github.io/bay-area-final-1000-websites/emil-villas-hickory-pit-san-leandro/,200,PASS
+417,Z Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/z-nail-spa-san-leandro/,200,PASS
+418,Stylist Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/stylist-hair-salon-san-leandro/,200,PASS
+419,Amaazing Hair and Nail,https://axel-slid.github.io/bay-area-final-1000-websites/amaazing-hair-and-nail-san-leandro/,200,PASS
+420,Beauty Club,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-club-san-leandro/,200,PASS
+421,BlendMasters,https://axel-slid.github.io/bay-area-final-1000-websites/blendmasters-san-leandro/,200,PASS
+422,Beauty Source,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-source-san-leandro/,200,PASS
+423,Tiptop Hair & Nails,https://axel-slid.github.io/bay-area-final-1000-websites/tiptop-hair-nails-san-leandro/,200,PASS
+424,Ming's Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/mings-donuts-san-leandro/,200,PASS
+425,Beijing Bowl,https://axel-slid.github.io/bay-area-final-1000-websites/beijing-bowl-bay-area/,200,PASS
+426,Dumpling Kitchen Express,https://axel-slid.github.io/bay-area-final-1000-websites/dumpling-kitchen-express-castro-valley/,200,PASS
+427,Pistons Car Care Center,https://axel-slid.github.io/bay-area-final-1000-websites/pistons-car-care-center-bay-area/,200,PASS
+428,Sivan's Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/sivans-cafe-hayward/,200,PASS
+429,Kennedy Snack Shop,https://axel-slid.github.io/bay-area-final-1000-websites/kennedy-snack-shop-bay-area/,200,PASS
+430,Bamboo Steamer,https://axel-slid.github.io/bay-area-final-1000-websites/bamboo-steamer-hayward/,200,PASS
+431,pho ty II,https://axel-slid.github.io/bay-area-final-1000-websites/pho-ty-ii-hayward/,200,PASS
+432,Blue Ginger Indian Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/blue-ginger-indian-restaurant-hayward/,200,PASS
+433,Tacos Uruapan,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-uruapan-hayward/,200,PASS
+434,Gerry's Grill and Bar,https://axel-slid.github.io/bay-area-final-1000-websites/gerrys-grill-and-bar-union-city/,200,PASS
+435,Ocean Bar,https://axel-slid.github.io/bay-area-final-1000-websites/ocean-bar-union-city/,200,PASS
+436,The Une Sandwich Factory,https://axel-slid.github.io/bay-area-final-1000-websites/the-une-sandwich-factory-union-city/,200,PASS
+437,Macs By Icky,https://axel-slid.github.io/bay-area-final-1000-websites/macs-by-icky-union-city/,200,PASS
+438,Zeny's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/zenys-hair-salon-union-city/,200,PASS
+439,Maneki Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/maneki-sushi-fremont/,200,PASS
+440,Raja Sweets & Indian Cuisine,https://axel-slid.github.io/bay-area-final-1000-websites/raja-sweets-indian-cuisine-union-city/,200,PASS
+441,Phở Pasteur,https://axel-slid.github.io/bay-area-final-1000-websites/pho-pasteur-union-city/,200,PASS
+442,Dragon House,https://axel-slid.github.io/bay-area-final-1000-websites/dragon-house-union-city/,200,PASS
+443,Lechon Manila,https://axel-slid.github.io/bay-area-final-1000-websites/lechon-manila-union-city/,200,PASS
+444,New York Pizza & Kabob,https://axel-slid.github.io/bay-area-final-1000-websites/new-york-pizza-kabob-union-city/,200,PASS
+445,Cấm Hương Sandwiches,https://axel-slid.github.io/bay-area-final-1000-websites/cam-huong-sandwiches-union-city/,200,PASS
+446,King Calamari,https://axel-slid.github.io/bay-area-final-1000-websites/king-calamari-union-city/,200,PASS
+447,"Family Dental Care - Romeo S. Bautista, D.M.D.",https://axel-slid.github.io/bay-area-final-1000-websites/family-dental-care-romeo-s-bautista-dmd-union-city/,200,PASS
+448,B & B Salon,https://axel-slid.github.io/bay-area-final-1000-websites/b-b-salon-union-city/,200,PASS
+449,Imagine Hair Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/imagine-hair-beauty-salon-union-city/,200,PASS
+450,Che Lo,https://axel-slid.github.io/bay-area-final-1000-websites/che-lo-union-city/,200,PASS
+451,Pinky's Nails and Spa,https://axel-slid.github.io/bay-area-final-1000-websites/pinkys-nails-and-spa-union-city/,200,PASS
+452,Family Dentistry - Dr. Tran & Associates,https://axel-slid.github.io/bay-area-final-1000-websites/family-dentistry-dr-tran-associates-union-city/,200,PASS
+453,Parilya,https://axel-slid.github.io/bay-area-final-1000-websites/parilya-union-city/,200,PASS
+454,Bar Bay Grill,https://axel-slid.github.io/bay-area-final-1000-websites/bar-bay-grill-union-city/,200,PASS
+455,Kim's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/kims-hair-salon-bay-area/,200,PASS
+456,Mai's Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/mais-kitchen-union-city/,200,PASS
+457,Desi Cuts and Color Plus,https://axel-slid.github.io/bay-area-final-1000-websites/desi-cuts-and-color-plus-bay-area/,200,PASS
+458,Dino's,https://axel-slid.github.io/bay-area-final-1000-websites/dinos-fremont/,200,PASS
+459,Delicious Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/delicious-donuts-newark/,200,PASS
+460,Los Gallos Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/los-gallos-taqueria-newark/,200,PASS
+461,Chopsticks Pho & Grill,https://axel-slid.github.io/bay-area-final-1000-websites/chopsticks-pho-grill-newark/,200,PASS
+462,Jade Palace Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/jade-palace-restaurant-newark/,200,PASS
+463,Tucker Method,https://axel-slid.github.io/bay-area-final-1000-websites/tucker-method-fremont/,200,PASS
+464,Peach Garden,https://axel-slid.github.io/bay-area-final-1000-websites/peach-garden-newark/,200,PASS
+465,Balentine Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/balentine-beauty-salon-newark/,200,PASS
+466,Vahl's Restaurant & cocktail,https://axel-slid.github.io/bay-area-final-1000-websites/vahls-restaurant-cocktail-alviso/,200,PASS
+467,Mina's Korean BBQ,https://axel-slid.github.io/bay-area-final-1000-websites/minas-korean-bbq-san-jose/,200,PASS
+468,Easterly Hunan Cuisine,https://axel-slid.github.io/bay-area-final-1000-websites/easterly-hunan-cuisine-santa-clara/,200,PASS
+469,New Camau,https://axel-slid.github.io/bay-area-final-1000-websites/new-camau-bay-area/,200,PASS
+470,Amakai,https://axel-slid.github.io/bay-area-final-1000-websites/amakai-bay-area/,200,PASS
+471,Hi Nail Salon & Eyelash,https://axel-slid.github.io/bay-area-final-1000-websites/hi-nail-salon-eyelash-sunnyvale/,200,PASS
+472,HR Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/hr-beauty-salon-sunnyvale/,200,PASS
+473,Hunan Mifen Chinese Rice Noodles,https://axel-slid.github.io/bay-area-final-1000-websites/hunan-mifen-chinese-rice-noodles-bay-area/,200,PASS
+474,Lakewood Dental Care,https://axel-slid.github.io/bay-area-final-1000-websites/lakewood-dental-care-bay-area/,200,PASS
+475,Amazing Cuts,https://axel-slid.github.io/bay-area-final-1000-websites/amazing-cuts-sunnyvale/,200,PASS
+476,Bagel Street Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/bagel-street-cafe-bay-area/,200,PASS
+477,Alpha Barbershop,https://axel-slid.github.io/bay-area-final-1000-websites/alpha-barbershop-sunnyvale/,200,PASS
+478,Roger's DELI & DONUTS,https://axel-slid.github.io/bay-area-final-1000-websites/rogers-deli-donuts-mountain-view/,200,PASS
+479,Salon Finesse,https://axel-slid.github.io/bay-area-final-1000-websites/salon-finesse-bay-area/,200,PASS
+480,Center Tailoring & Alterations,https://axel-slid.github.io/bay-area-final-1000-websites/center-tailoring-alterations-bay-area/,200,PASS
+481,Taqueria Los Charros,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-los-charros-bay-area/,200,PASS
+482,Mervyn's Lounge,https://axel-slid.github.io/bay-area-final-1000-websites/mervyns-lounge-mountain-view/,200,PASS
+483,Phở Tô Châu,https://axel-slid.github.io/bay-area-final-1000-websites/pho-to-chau-bay-area/,200,PASS
+484,Imagine Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/imagine-hair-salon-mountain-view/,200,PASS
+485,Hong Kong Bakery and Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/hong-kong-bakery-and-cafe-mountain-view/,200,PASS
+486,Ramen Izakaya Yu-Gen,https://axel-slid.github.io/bay-area-final-1000-websites/ramen-izakaya-yu-gen-mountain-view/,200,PASS
+487,Dr. Yvette Tan Antonio Family Dentistry,https://axel-slid.github.io/bay-area-final-1000-websites/dr-yvette-tan-antonio-family-dentistry-bay-area/,200,PASS
+488,Bailey Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/bailey-beauty-salon-mountain-view/,200,PASS
+489,Sushi Jin,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-jin-mountain-view/,200,PASS
+490,Star Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/star-nail-spa-mountain-view/,200,PASS
+491,Beauty Salon Haircut,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-salon-haircut-mountain-view/,200,PASS
+492,Mercedes Benz Repair,https://axel-slid.github.io/bay-area-final-1000-websites/mercedes-benz-repair-bay-area/,200,PASS
+493,Royal Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/royal-beauty-salon-mountain-view/,200,PASS
+494,Nail Touch Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/nail-touch-beauty-salon-bay-area/,200,PASS
+495,Blades Styling,https://axel-slid.github.io/bay-area-final-1000-websites/blades-styling-palo-alto/,200,PASS
+496,Yardbird Equipment,https://axel-slid.github.io/bay-area-final-1000-websites/yardbird-equipment-mountain-view/,200,PASS
+497,D'Cache Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/dcache-beauty-salon-bay-area/,200,PASS
+498,Emergency Animal Care,https://axel-slid.github.io/bay-area-final-1000-websites/emergency-animal-care-mountain-view/,200,PASS
+499,Esther's German Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/esthers-german-restaurant-los-altos/,200,PASS
+500,A Good Morning,https://axel-slid.github.io/bay-area-final-1000-websites/a-good-morning-bay-area/,200,PASS
+501,The Lux Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/the-lux-beauty-mountain-view/,200,PASS
+502,Amici,https://axel-slid.github.io/bay-area-final-1000-websites/amici-bay-area/,200,PASS
+503,The Sea by Alexander's Steakhouse,https://axel-slid.github.io/bay-area-final-1000-websites/the-sea-by-alexanders-steakhouse-palo-alto/,200,PASS
+504,Palo Alto Advanced Dentists,https://axel-slid.github.io/bay-area-final-1000-websites/palo-alto-advanced-dentists-bay-area/,200,PASS
+505,Sushi Tomo,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-tomo-palo-alto/,200,PASS
+506,Hong Kong Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/hong-kong-restaurant-palo-alto/,200,PASS
+507,Smog 4 Less,https://axel-slid.github.io/bay-area-final-1000-websites/smog-4-less-palo-alto/,200,PASS
+508,Wilmer Hale,https://axel-slid.github.io/bay-area-final-1000-websites/wilmer-hale-palo-alto/,200,PASS
+509,Hairshaper's Club,https://axel-slid.github.io/bay-area-final-1000-websites/hairshapers-club-palo-alto/,200,PASS
+510,Salon 454,https://axel-slid.github.io/bay-area-final-1000-websites/salon-454-palo-alto/,200,PASS
+511,Palo Alto Sol,https://axel-slid.github.io/bay-area-final-1000-websites/palo-alto-sol-palo-alto/,200,PASS
+512,Daigo,https://axel-slid.github.io/bay-area-final-1000-websites/daigo-palo-alto/,200,PASS
+513,Hair Studio,https://axel-slid.github.io/bay-area-final-1000-websites/hair-studio-palo-alto/,200,PASS
+514,Pho Banh Mi,https://axel-slid.github.io/bay-area-final-1000-websites/pho-banh-mi-palo-alto/,200,PASS
+515,Simply Be Beautiful,https://axel-slid.github.io/bay-area-final-1000-websites/simply-be-beautiful-palo-alto/,200,PASS
+516,Menlo Park Smog,https://axel-slid.github.io/bay-area-final-1000-websites/menlo-park-smog-bay-area/,200,PASS
+517,Ochoas Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/ochoas-beauty-salon-bay-area/,200,PASS
+518,New Generation Nails,https://axel-slid.github.io/bay-area-final-1000-websites/new-generation-nails-bay-area/,200,PASS
+519,Tony's Pizza,https://axel-slid.github.io/bay-area-final-1000-websites/tonys-pizza-bay-area/,200,PASS
+520,Markstyle,https://axel-slid.github.io/bay-area-final-1000-websites/markstyle-bay-area/,200,PASS
+521,Nina's Nails & Hair,https://axel-slid.github.io/bay-area-final-1000-websites/ninas-nails-hair-bay-area/,200,PASS
+522,Mi Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/mi-taqueria-bay-area/,200,PASS
+523,J&J Hawaiian Barbeque,https://axel-slid.github.io/bay-area-final-1000-websites/jj-hawaiian-barbeque-bay-area/,200,PASS
+524,Simpson's Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/simpsons-barber-shop-bay-area/,200,PASS
+525,Park Avenue Salon and Spa,https://axel-slid.github.io/bay-area-final-1000-websites/park-avenue-salon-and-spa-menlo-park/,200,PASS
+526,LaMigliore Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lamigliore-salon-menlo-park/,200,PASS
+527,Sky Nails,https://axel-slid.github.io/bay-area-final-1000-websites/sky-nails-menlo-park/,200,PASS
+528,Las Parrillas,https://axel-slid.github.io/bay-area-final-1000-websites/las-parrillas-bay-area/,200,PASS
+529,Tere's Boutique,https://axel-slid.github.io/bay-area-final-1000-websites/teres-boutique-bay-area/,200,PASS
+530,Rocio Alvizar,https://axel-slid.github.io/bay-area-final-1000-websites/rocio-alvizar-bay-area/,200,PASS
+531,Vico's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/vicos-beauty-salon-bay-area/,200,PASS
+532,Amparo's Shoe Repair,https://axel-slid.github.io/bay-area-final-1000-websites/amparos-shoe-repair-bay-area/,200,PASS
+533,Turfside Grille,https://axel-slid.github.io/bay-area-final-1000-websites/turfside-grille-bay-area/,200,PASS
+534,Zessy's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/zessys-beauty-salon-bay-area/,200,PASS
+535,Hometown Noodles,https://axel-slid.github.io/bay-area-final-1000-websites/hometown-noodles-bay-area/,200,PASS
+536,United,https://axel-slid.github.io/bay-area-final-1000-websites/united-bay-area/,200,PASS
+537,Taqueria Gonzales,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-gonzales-bay-area/,200,PASS
+538,Villa Latina,https://axel-slid.github.io/bay-area-final-1000-websites/villa-latina-bay-area/,200,PASS
+539,Irma's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/irmas-beauty-salon-bay-area/,200,PASS
+540,Hair and Nails by Nancy,https://axel-slid.github.io/bay-area-final-1000-websites/hair-and-nails-by-nancy-bay-area/,200,PASS
+541,Glamerous Looks Salon,https://axel-slid.github.io/bay-area-final-1000-websites/glamerous-looks-salon-bay-area/,200,PASS
+542,Joyeria 3RRR,https://axel-slid.github.io/bay-area-final-1000-websites/joyeria-3rrr-bay-area/,200,PASS
+543,Samantha's Salon,https://axel-slid.github.io/bay-area-final-1000-websites/samanthas-salon-bay-area/,200,PASS
+544,San Luis Auto Glass,https://axel-slid.github.io/bay-area-final-1000-websites/san-luis-auto-glass-bay-area/,200,PASS
+545,L&M Transmissions,https://axel-slid.github.io/bay-area-final-1000-websites/lm-transmissions-bay-area/,200,PASS
+546,Joe's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/joes-auto-repair-bay-area/,200,PASS
+547,Tzintzun Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/tzintzun-auto-repair-bay-area/,200,PASS
+548,H&H Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/hh-automotive-bay-area/,200,PASS
+549,Uruapan,https://axel-slid.github.io/bay-area-final-1000-websites/uruapan-bay-area/,200,PASS
+550,Osuna Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/osuna-auto-repair-bay-area/,200,PASS
+551,A&S Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/as-automotive-bay-area/,200,PASS
+552,Redwood City Transmission,https://axel-slid.github.io/bay-area-final-1000-websites/redwood-city-transmission-bay-area/,200,PASS
+553,Estraella Smog Check,https://axel-slid.github.io/bay-area-final-1000-websites/estraella-smog-check-bay-area/,200,PASS
+554,La Chapina,https://axel-slid.github.io/bay-area-final-1000-websites/la-chapina-redwood-city/,200,PASS
+555,Liebe's Auto Body,https://axel-slid.github.io/bay-area-final-1000-websites/liebes-auto-body-redwood-city/,200,PASS
+556,La Tres Marias,https://axel-slid.github.io/bay-area-final-1000-websites/la-tres-marias-redwood-city/,200,PASS
+557,MsKouture,https://axel-slid.github.io/bay-area-final-1000-websites/mskouture-bay-area/,200,PASS
+558,SeeU Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/seeu-cafe-foster-city/,200,PASS
+559,Belmont Dental,https://axel-slid.github.io/bay-area-final-1000-websites/belmont-dental-masonic-way/,200,PASS
+560,Michele's Hair Care,https://axel-slid.github.io/bay-area-final-1000-websites/micheles-hair-care-bay-area/,200,PASS
+561,Pilgrim Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/pilgrim-kitchen-belmont/,200,PASS
+562,Java Blue (Patio Coffee Shop),https://axel-slid.github.io/bay-area-final-1000-websites/java-blue-patio-coffee-shop-bay-area/,200,PASS
+563,Sunesy Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/sunesy-hair-design-bay-area/,200,PASS
+564,The Pantry,https://axel-slid.github.io/bay-area-final-1000-websites/the-pantry-san-mateo/,200,PASS
+565,Bucky’s Cocktail Lounge,https://axel-slid.github.io/bay-area-final-1000-websites/buckys-cocktail-lounge-san-mateo/,200,PASS
+566,Spiedo Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/spiedo-restaurant-bay-area/,200,PASS
+567,Izakaya Mai,https://axel-slid.github.io/bay-area-final-1000-websites/izakaya-mai-bay-area/,200,PASS
+568,Gosch Bros Auto Pros,https://axel-slid.github.io/bay-area-final-1000-websites/gosch-bros-auto-pros-san-mateo/,200,PASS
+569,L'Vian Boutique,https://axel-slid.github.io/bay-area-final-1000-websites/lvian-boutique-burlingame/,200,PASS
+570,V&V Nails,https://axel-slid.github.io/bay-area-final-1000-websites/vv-nails-bay-area/,200,PASS
+571,De Design,https://axel-slid.github.io/bay-area-final-1000-websites/de-design-bay-area/,200,PASS
+572,The Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/the-kitchen-milbrae/,200,PASS
+573,San Bruno Transmission & Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/san-bruno-transmission-auto-repair-bay-area/,200,PASS
+574,Fil-Am Cuisine 2,https://axel-slid.github.io/bay-area-final-1000-websites/fil-am-cuisine-2-south-san-francisco/,200,PASS
+575,South City Hair,https://axel-slid.github.io/bay-area-final-1000-websites/south-city-hair-south-san-francisco/,200,PASS
+576,Melissa's Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/melissas-taqueria-brisbane/,200,PASS
+577,Round N Round Pot,https://axel-slid.github.io/bay-area-final-1000-websites/round-n-round-pot-brisbane/,200,PASS
+578,Pupuseria El Golazo,https://axel-slid.github.io/bay-area-final-1000-websites/pupuseria-el-golazo-bay-area/,200,PASS
+579,Tikal,https://axel-slid.github.io/bay-area-final-1000-websites/tikal-san-francisco/,200,PASS
+580,Western Donuts,https://axel-slid.github.io/bay-area-final-1000-websites/western-donuts-san-francisco/,200,PASS
+581,Ray Oliver Caoili D.D.S.,https://axel-slid.github.io/bay-area-final-1000-websites/ray-oliver-caoili-dds-san-francisco/,200,PASS
+582,J&J Hardware Store,https://axel-slid.github.io/bay-area-final-1000-websites/jj-hardware-store-san-francisco/,200,PASS
+583,Taqueria La Iguana Azul,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-la-iguana-azul-san-francisco/,200,PASS
+584,Taqueria Mi Sazon,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-mi-sazon-san-francisco/,200,PASS
+585,Hayden Auto Care,https://axel-slid.github.io/bay-area-final-1000-websites/hayden-auto-care-san-francisco/,200,PASS
+586,Excelsior Auto Care,https://axel-slid.github.io/bay-area-final-1000-websites/excelsior-auto-care-san-francisco/,200,PASS
+587,BeeFadezz,https://axel-slid.github.io/bay-area-final-1000-websites/beefadezz-daly-city/,200,PASS
+588,Da Pan,https://axel-slid.github.io/bay-area-final-1000-websites/da-pan-bay-area/,200,PASS
+589,Emmy's Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/emmys-restaurant-san-francisco/,200,PASS
+590,Mahogany House of Styles,https://axel-slid.github.io/bay-area-final-1000-websites/mahogany-house-of-styles-bay-area/,200,PASS
+591,Java on Ocean Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/java-on-ocean-cafe-san-francisco/,200,PASS
+592,Jolie Elegance Spa,https://axel-slid.github.io/bay-area-final-1000-websites/jolie-elegance-spa-bay-area/,200,PASS
+593,Sakesan Sushi & Robata,https://axel-slid.github.io/bay-area-final-1000-websites/sakesan-sushi-robata-san-francisco/,200,PASS
+594,Go Go 7,https://axel-slid.github.io/bay-area-final-1000-websites/go-go-7-san-francisco/,200,PASS
+595,TS cafe,https://axel-slid.github.io/bay-area-final-1000-websites/ts-cafe-bay-area/,200,PASS
+596,Unique Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/unique-automotive-san-francisco/,200,PASS
+597,Los Planes de Renderos,https://axel-slid.github.io/bay-area-final-1000-websites/los-planes-de-renderos-san-francisco/,200,PASS
+598,Pacitas Salvadorean Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/pacitas-salvadorean-bakery-san-francisco/,200,PASS
+599,Tanjessy Gifts Jewelry & Accessories,https://axel-slid.github.io/bay-area-final-1000-websites/tanjessy-gifts-jewelry-accessories-bay-area/,200,PASS
+600,Oscar Laundromat,https://axel-slid.github.io/bay-area-final-1000-websites/oscar-laundromat-bay-area/,200,PASS
+601,Double Shot Coffee,https://axel-slid.github.io/bay-area-final-1000-websites/double-shot-coffee-san-francisco/,200,PASS
+602,Tasty Coffee,https://axel-slid.github.io/bay-area-final-1000-websites/tasty-coffee-san-francisco/,200,PASS
+603,Cafe Bello,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-bello-san-francisco/,200,PASS
+604,Higher Grounds Coffee House and Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/higher-grounds-coffee-house-and-restaurant-san-francisco/,200,PASS
+605,Ming Hui Dim Sum,https://axel-slid.github.io/bay-area-final-1000-websites/ming-hui-dim-sum-bay-area/,200,PASS
+606,Taqueria Gonzalez,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-gonzalez-bay-area/,200,PASS
+607,2546 Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/2546-cafe-bay-area/,200,PASS
+608,Ming Hing Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/ming-hing-restaurant-bay-area/,200,PASS
+609,Golden City,https://axel-slid.github.io/bay-area-final-1000-websites/golden-city-bay-area/,200,PASS
+610,Yan Li,https://axel-slid.github.io/bay-area-final-1000-websites/yan-li-bay-area/,200,PASS
+611,Generation Nails,https://axel-slid.github.io/bay-area-final-1000-websites/generation-nails-bay-area/,200,PASS
+612,3R Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/3r-automotive-bay-area/,200,PASS
+613,Tacos Los Altos,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-los-altos-bay-area/,200,PASS
+614,Moonlight Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/moonlight-cafe-bay-area/,200,PASS
+615,Four Seasons Nails and Spa,https://axel-slid.github.io/bay-area-final-1000-websites/four-seasons-nails-and-spa-bay-area/,200,PASS
+616,Bernal Heights Nail Care,https://axel-slid.github.io/bay-area-final-1000-websites/bernal-heights-nail-care-bay-area/,200,PASS
+617,Progressive Grounds,https://axel-slid.github.io/bay-area-final-1000-websites/progressive-grounds-bay-area/,200,PASS
+618,LP Decorative Plumbing,https://axel-slid.github.io/bay-area-final-1000-websites/lp-decorative-plumbing-bay-area/,200,PASS
+619,Brown Bear Realty,https://axel-slid.github.io/bay-area-final-1000-websites/brown-bear-realty-bay-area/,200,PASS
+620,Royal Cuckoo,https://axel-slid.github.io/bay-area-final-1000-websites/royal-cuckoo-san-francisco/,200,PASS
+621,Taqueria Can-Cún,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-can-cun-san-francisco/,200,PASS
+622,Healthy Nails,https://axel-slid.github.io/bay-area-final-1000-websites/healthy-nails-san-francisco/,200,PASS
+623,Eco Jewelers,https://axel-slid.github.io/bay-area-final-1000-websites/eco-jewelers-bay-area/,200,PASS
+624,Las Brisas de Acapulco,https://axel-slid.github.io/bay-area-final-1000-websites/las-brisas-de-acapulco-san-francisco/,200,PASS
+625,El Honduras,https://axel-slid.github.io/bay-area-final-1000-websites/el-honduras-bay-area/,200,PASS
+626,Pepe’s Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/pepes-auto-repair-bay-area/,200,PASS
+627,The Phone Booth,https://axel-slid.github.io/bay-area-final-1000-websites/the-phone-booth-san-francisco/,200,PASS
+628,Hollywood Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/hollywood-beauty-salon-bay-area/,200,PASS
+629,Ariel’s Breakfast Mi Yucatan,https://axel-slid.github.io/bay-area-final-1000-websites/ariels-breakfast-mi-yucatan-san-francisco/,200,PASS
+630,Lian Nails,https://axel-slid.github.io/bay-area-final-1000-websites/lian-nails-bay-area/,200,PASS
+631,Eddy's Tax and Accounting,https://axel-slid.github.io/bay-area-final-1000-websites/eddys-tax-and-accounting-san-francisco/,200,PASS
+632,El Rinconcito Nicaraguense,https://axel-slid.github.io/bay-area-final-1000-websites/el-rinconcito-nicaraguense-san-francisco/,200,PASS
+633,Pacific Collision Care,https://axel-slid.github.io/bay-area-final-1000-websites/pacific-collision-care-bay-area/,200,PASS
+634,Big Mouth Burgers & Beers,https://axel-slid.github.io/bay-area-final-1000-websites/big-mouth-burgers-beers-san-francisco/,200,PASS
+635,Ezzo Rotisserie,https://axel-slid.github.io/bay-area-final-1000-websites/ezzo-rotisserie-san-francisco/,200,PASS
+636,Primera Insurance Agency,https://axel-slid.github.io/bay-area-final-1000-websites/primera-insurance-agency-bay-area/,200,PASS
+637,Vanessa's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/vanessas-beauty-salon-bay-area/,200,PASS
+638,Las Palmeras,https://axel-slid.github.io/bay-area-final-1000-websites/las-palmeras-san-francisco/,200,PASS
+639,J. J. Jewelers,https://axel-slid.github.io/bay-area-final-1000-websites/j-j-jewelers-bay-area/,200,PASS
+640,The Jelly Donut,https://axel-slid.github.io/bay-area-final-1000-websites/the-jelly-donut-san-francisco/,200,PASS
+641,Jose R. Sanchez Diamond Setter,https://axel-slid.github.io/bay-area-final-1000-websites/jose-r-sanchez-diamond-setter-san-francisco/,200,PASS
+642,Cholo Soy,https://axel-slid.github.io/bay-area-final-1000-websites/cholo-soy-bay-area/,200,PASS
+643,Center Nails,https://axel-slid.github.io/bay-area-final-1000-websites/center-nails-bay-area/,200,PASS
+644,Géminis Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/geminis-barber-shop-bay-area/,200,PASS
+645,Ambaro Salon & Barbet,https://axel-slid.github.io/bay-area-final-1000-websites/ambaro-salon-barbet-bay-area/,200,PASS
+646,Ana's Dreams,https://axel-slid.github.io/bay-area-final-1000-websites/anas-dreams-bay-area/,200,PASS
+647,Laura's Beauty and Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/lauras-beauty-and-barber-shop-bay-area/,200,PASS
+648,Homestead,https://axel-slid.github.io/bay-area-final-1000-websites/homestead-bay-area/,200,PASS
+649,El Tepa,https://axel-slid.github.io/bay-area-final-1000-websites/el-tepa-bay-area/,200,PASS
+650,La Barberhood,https://axel-slid.github.io/bay-area-final-1000-websites/la-barberhood-bay-area/,200,PASS
+651,Clean Cut,https://axel-slid.github.io/bay-area-final-1000-websites/clean-cut-bay-area/,200,PASS
+652,District Tea,https://axel-slid.github.io/bay-area-final-1000-websites/district-tea-san-francisco/,200,PASS
+653,De Angelis,https://axel-slid.github.io/bay-area-final-1000-websites/de-angelis-bay-area/,200,PASS
+654,Alhamra,https://axel-slid.github.io/bay-area-final-1000-websites/alhamra-bay-area/,200,PASS
+655,Ramen Izakaya Goku,https://axel-slid.github.io/bay-area-final-1000-websites/ramen-izakaya-goku-san-francisco/,200,PASS
+656,500 Club,https://axel-slid.github.io/bay-area-final-1000-websites/500-club-san-francisco/,200,PASS
+657,Java Supreme,https://axel-slid.github.io/bay-area-final-1000-websites/java-supreme-san-francisco/,200,PASS
+658,Angelica's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/angelicas-hair-salon-san-francisco/,200,PASS
+659,Little Kite Asian Fusion,https://axel-slid.github.io/bay-area-final-1000-websites/little-kite-asian-fusion-bay-area/,200,PASS
+660,Ambaro,https://axel-slid.github.io/bay-area-final-1000-websites/ambaro-bay-area/,200,PASS
+661,Fiesta Laundromat,https://axel-slid.github.io/bay-area-final-1000-websites/fiesta-laundromat-bay-area/,200,PASS
+662,Pan Lido Salvadoreno,https://axel-slid.github.io/bay-area-final-1000-websites/pan-lido-salvadoreno-san-francisco/,200,PASS
+663,El Trebol,https://axel-slid.github.io/bay-area-final-1000-websites/el-trebol-san-francisco/,200,PASS
+664,Eyebrow Star,https://axel-slid.github.io/bay-area-final-1000-websites/eyebrow-star-bay-area/,200,PASS
+665,Esperpento,https://axel-slid.github.io/bay-area-final-1000-websites/esperpento-san-francisco/,200,PASS
+666,Hillside Laundromat,https://axel-slid.github.io/bay-area-final-1000-websites/hillside-laundromat-bay-area/,200,PASS
+667,Dumpling Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/dumpling-kitchen-san-francisco/,200,PASS
+668,Noe Bagels,https://axel-slid.github.io/bay-area-final-1000-websites/noe-bagels-san-francisco/,200,PASS
+669,Of Barbers and Bears,https://axel-slid.github.io/bay-area-final-1000-websites/of-barbers-and-bears-san-francisco/,200,PASS
+670,Choice Yakiniku,https://axel-slid.github.io/bay-area-final-1000-websites/choice-yakiniku-san-francisco/,200,PASS
+671,Jenny's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/jennys-hair-salon-bay-area/,200,PASS
+672,Be Salon,https://axel-slid.github.io/bay-area-final-1000-websites/be-salon-san-francisco/,200,PASS
+673,SF Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/sf-nail-spa-san-francisco/,200,PASS
+674,Noodle Stop,https://axel-slid.github.io/bay-area-final-1000-websites/noodle-stop-san-francisco/,200,PASS
+675,Thái Nghiệp Ký Mì Gia,https://axel-slid.github.io/bay-area-final-1000-websites/thai-nghiep-ky-mi-gia-bay-area/,200,PASS
+676,Neon Shade,https://axel-slid.github.io/bay-area-final-1000-websites/neon-shade-bay-area/,200,PASS
+677,Top Design Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/top-design-beauty-salon-san-francisco/,200,PASS
+678,C & W Tailoring,https://axel-slid.github.io/bay-area-final-1000-websites/c-w-tailoring-bay-area/,200,PASS
+679,Top Design Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/top-design-beauty-salon-bay-area/,200,PASS
+680,All Bay Properties,https://axel-slid.github.io/bay-area-final-1000-websites/all-bay-properties-bay-area/,200,PASS
+681,City Cuts,https://axel-slid.github.io/bay-area-final-1000-websites/city-cuts-san-francisco/,200,PASS
+682,Sunny WheatField Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/sunny-wheatfield-cafe-san-francisco/,200,PASS
+683,Happy Bakery / Dim Sum To Go,https://axel-slid.github.io/bay-area-final-1000-websites/happy-bakery-dim-sum-to-go-san-francisco/,200,PASS
+684,Bon Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/bon-beauty-salon-san-francisco/,200,PASS
+685,Steam Rice Roll King,https://axel-slid.github.io/bay-area-final-1000-websites/steam-rice-roll-king-san-francisco/,200,PASS
+686,Guangdong Barbecue Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/guangdong-barbecue-restaurant-san-francisco/,200,PASS
+687,Quê Huong Vietnamese Deli,https://axel-slid.github.io/bay-area-final-1000-websites/que-huong-vietnamese-deli-san-francisco/,200,PASS
+688,Salon de Hong Kong,https://axel-slid.github.io/bay-area-final-1000-websites/salon-de-hong-kong-san-francisco/,200,PASS
+689,Modern Design Salon,https://axel-slid.github.io/bay-area-final-1000-websites/modern-design-salon-san-francisco/,200,PASS
+690,Salon 828,https://axel-slid.github.io/bay-area-final-1000-websites/salon-828-san-francisco/,200,PASS
+691,"Randall W. Tom, DDS",https://axel-slid.github.io/bay-area-final-1000-websites/randall-w-tom-dds-san-francisco/,200,PASS
+692,PPQ (Phở Phú Quốc) Beef Noodle House,https://axel-slid.github.io/bay-area-final-1000-websites/ppq-pho-phu-quoc-beef-noodle-house-san-francisco/,200,PASS
+693,TopCuts,https://axel-slid.github.io/bay-area-final-1000-websites/topcuts-san-francisco/,200,PASS
+694,T T Nail Spa Waxing,https://axel-slid.github.io/bay-area-final-1000-websites/t-t-nail-spa-waxing-san-francisco/,200,PASS
+695,Unique Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/unique-beauty-san-francisco/,200,PASS
+696,Lola Milo Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lola-milo-salon-san-francisco/,200,PASS
+697,Carol Yee Insurance Agency,https://axel-slid.github.io/bay-area-final-1000-websites/carol-yee-insurance-agency-san-francisco/,200,PASS
+698,Yoma Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/yoma-cafe-san-francisco/,200,PASS
+699,Friendly Cuts,https://axel-slid.github.io/bay-area-final-1000-websites/friendly-cuts-san-francisco/,200,PASS
+700,Mai Ling Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/mai-ling-hair-design-san-francisco/,200,PASS
+701,Irving Subs and Cheese Shop,https://axel-slid.github.io/bay-area-final-1000-websites/irving-subs-and-cheese-shop-san-francisco/,200,PASS
+702,Ben Salon,https://axel-slid.github.io/bay-area-final-1000-websites/ben-salon-san-francisco/,200,PASS
+703,Yummy Yummy,https://axel-slid.github.io/bay-area-final-1000-websites/yummy-yummy-san-francisco/,200,PASS
+704,Social Cleaning Laundromat,https://axel-slid.github.io/bay-area-final-1000-websites/social-cleaning-laundromat-san-francisco/,200,PASS
+705,High Touch Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/high-touch-nail-salon-san-francisco/,200,PASS
+706,Avenue Dental,https://axel-slid.github.io/bay-area-final-1000-websites/avenue-dental-san-francisco/,200,PASS
+707,Accent on Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/accent-on-beauty-san-francisco/,200,PASS
+708,New Eritrean Restaurant & Bar,https://axel-slid.github.io/bay-area-final-1000-websites/new-eritrean-restaurant-bar-san-francisco/,200,PASS
+709,Qing Shu,https://axel-slid.github.io/bay-area-final-1000-websites/qing-shu-san-francisco/,200,PASS
+710,Yancy's Saloon,https://axel-slid.github.io/bay-area-final-1000-websites/yancys-saloon-san-francisco/,200,PASS
+711,Street Taco,https://axel-slid.github.io/bay-area-final-1000-websites/street-taco-san-francisco/,200,PASS
+712,Pasquale's,https://axel-slid.github.io/bay-area-final-1000-websites/pasquales-san-francisco/,200,PASS
+713,Banh Mi Crunch,https://axel-slid.github.io/bay-area-final-1000-websites/banh-mi-crunch-bay-area/,200,PASS
+714,Salon J,https://axel-slid.github.io/bay-area-final-1000-websites/salon-j-san-francisco/,200,PASS
+715,May Lee's Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/may-lees-restaurant-san-francisco/,200,PASS
+716,Lisa's Lash,https://axel-slid.github.io/bay-area-final-1000-websites/lisas-lash-bay-area/,200,PASS
+717,Daily Beauty Supply & Salon,https://axel-slid.github.io/bay-area-final-1000-websites/daily-beauty-supply-salon-san-francisco/,200,PASS
+718,Mike's Union Auto Service,https://axel-slid.github.io/bay-area-final-1000-websites/mikes-union-auto-service-san-francisco/,200,PASS
+719,Gentle Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/gentle-nail-salon-bay-area/,200,PASS
+720,Green Spa & Nail,https://axel-slid.github.io/bay-area-final-1000-websites/green-spa-nail-bay-area/,200,PASS
+721,Hing Wang Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/hing-wang-bakery-san-francisco/,200,PASS
+722,Sensi Nails,https://axel-slid.github.io/bay-area-final-1000-websites/sensi-nails-bay-area/,200,PASS
+723,Tun Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/tun-beauty-salon-san-francisco/,200,PASS
+724,The Yellow Submarine,https://axel-slid.github.io/bay-area-final-1000-websites/the-yellow-submarine-san-francisco/,200,PASS
+725,Hugo Street Launderette,https://axel-slid.github.io/bay-area-final-1000-websites/hugo-street-launderette-san-francisco/,200,PASS
+726,Cole Valley Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/cole-valley-nail-salon-san-francisco/,200,PASS
+727,Barrera's Cocina Mexicana,https://axel-slid.github.io/bay-area-final-1000-websites/barreras-cocina-mexicana-san-francisco/,200,PASS
+728,Deluxe Lavender Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/deluxe-lavender-nail-spa-san-francisco/,200,PASS
+729,Four Seasons Nails & Tanning,https://axel-slid.github.io/bay-area-final-1000-websites/four-seasons-nails-tanning-san-francisco/,200,PASS
+730,The Coffee Lama,https://axel-slid.github.io/bay-area-final-1000-websites/the-coffee-lama-san-francisco/,200,PASS
+731,Lisa Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/lisa-hair-design-bay-area/,200,PASS
+732,Citizen Clothing,https://axel-slid.github.io/bay-area-final-1000-websites/citizen-clothing-bay-area/,200,PASS
+733,Dumpling Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/dumpling-kitchen-san-francisco-2/,200,PASS
+734,Bruno Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/bruno-hair-design-bay-area/,200,PASS
+735,Eiji,https://axel-slid.github.io/bay-area-final-1000-websites/eiji-san-francisco/,200,PASS
+736,Warakubune Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/warakubune-sushi-bay-area/,200,PASS
+737,People Hair & Nails Spa,https://axel-slid.github.io/bay-area-final-1000-websites/people-hair-nails-spa-san-francisco/,200,PASS
+738,Willkommen,https://axel-slid.github.io/bay-area-final-1000-websites/willkommen-san-francisco/,200,PASS
+739,Shanghai Dumpling King,https://axel-slid.github.io/bay-area-final-1000-websites/shanghai-dumpling-king-bay-area/,200,PASS
+740,Di Ciccio,https://axel-slid.github.io/bay-area-final-1000-websites/di-ciccio-bay-area/,200,PASS
+741,Taquería Estrella,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-estrella-bay-area/,200,PASS
+742,Zip Zap Hair,https://axel-slid.github.io/bay-area-final-1000-websites/zip-zap-hair-san-francisco/,200,PASS
+743,Nail Art iSF,https://axel-slid.github.io/bay-area-final-1000-websites/nail-art-isf-san-francisco/,200,PASS
+744,Martuni's,https://axel-slid.github.io/bay-area-final-1000-websites/martunis-san-francisco/,200,PASS
+745,Pete's Launderette & Cleaners,https://axel-slid.github.io/bay-area-final-1000-websites/petes-launderette-cleaners-san-francisco/,200,PASS
+746,Tsubasa Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/tsubasa-sushi-san-francisco/,200,PASS
+747,All Star Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/all-star-cafe-bay-area/,200,PASS
+748,Shanghai China Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/shanghai-china-restaurant-bay-area/,200,PASS
+749,Doña Mago,https://axel-slid.github.io/bay-area-final-1000-websites/dona-mago-bay-area/,200,PASS
+750,El Yucateco Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/el-yucateco-bakery-bay-area/,200,PASS
+751,Irma's Pampagna Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/irmas-pampagna-restaurant-bay-area/,200,PASS
+752,Yamato Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/yamato-auto-repair-bay-area/,200,PASS
+753,Hello Bahn Mi,https://axel-slid.github.io/bay-area-final-1000-websites/hello-bahn-mi-bay-area/,200,PASS
+754,U & I Auto Safety Center,https://axel-slid.github.io/bay-area-final-1000-websites/u-i-auto-safety-center-san-francisco/,200,PASS
+755,The Sandwich Boss at EPC,https://axel-slid.github.io/bay-area-final-1000-websites/the-sandwich-boss-at-epc-san-francisco/,200,PASS
+756,Bahn Mi King,https://axel-slid.github.io/bay-area-final-1000-websites/bahn-mi-king-san-francisco/,200,PASS
+757,Ozzy's  Cafe & Grill,https://axel-slid.github.io/bay-area-final-1000-websites/ozzys-cafe-grill-san-francisco/,200,PASS
+758,Lucky Nails,https://axel-slid.github.io/bay-area-final-1000-websites/lucky-nails-bay-area/,200,PASS
+759,Il Canto Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/il-canto-cafe-bay-area/,200,PASS
+760,Oolong Noodles,https://axel-slid.github.io/bay-area-final-1000-websites/oolong-noodles-san-francisco/,200,PASS
+761,Ravi,https://axel-slid.github.io/bay-area-final-1000-websites/ravi-san-francisco/,200,PASS
+762,Yee Hing Clothing Store,https://axel-slid.github.io/bay-area-final-1000-websites/yee-hing-clothing-store-san-francisco/,200,PASS
+763,Yummy Bakery & Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/yummy-bakery-cafe-san-francisco/,200,PASS
+764,Brioche Bakery & Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/brioche-bakery-cafe-san-francisco/,200,PASS
+765,"Oriental Shopping Center, Inc",https://axel-slid.github.io/bay-area-final-1000-websites/oriental-shopping-center-inc-san-francisco/,200,PASS
+766,Yummy Yummy,https://axel-slid.github.io/bay-area-final-1000-websites/yummy-yummy-bay-area/,200,PASS
+767,Little Paris,https://axel-slid.github.io/bay-area-final-1000-websites/little-paris-san-francisco/,200,PASS
+768,Wa Li Bakery & Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/wa-li-bakery-cafe-san-francisco/,200,PASS
+769,Yummy BBQ Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/yummy-bbq-kitchen-bay-area/,200,PASS
+770,V.I.P Coffee & Cake Shop,https://axel-slid.github.io/bay-area-final-1000-websites/vip-coffee-cake-shop-bay-area/,200,PASS
+771,Café Broadway,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-broadway-bay-area/,200,PASS
+772,V & J Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/v-j-cafe-bay-area/,200,PASS
+773,Maggie McGarrys,https://axel-slid.github.io/bay-area-final-1000-websites/maggie-mcgarrys-bay-area/,200,PASS
+774,Ann's For Hair,https://axel-slid.github.io/bay-area-final-1000-websites/anns-for-hair-columbus-avenue/,200,PASS
+775,Water Lily Cleaners,https://axel-slid.github.io/bay-area-final-1000-websites/water-lily-cleaners-san-francisco/,200,PASS
+776,DeLise Dessert cafe,https://axel-slid.github.io/bay-area-final-1000-websites/delise-dessert-cafe-san-francisco/,200,PASS
+777,Swiss Louis,https://axel-slid.github.io/bay-area-final-1000-websites/swiss-louis-san-francisco/,200,PASS
+778,The Chowder Hut Grill,https://axel-slid.github.io/bay-area-final-1000-websites/the-chowder-hut-grill-san-francisco/,200,PASS
+779,Tanguito,https://axel-slid.github.io/bay-area-final-1000-websites/tanguito-san-francisco/,200,PASS
+780,Little Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/little-kitchen-san-francisco/,200,PASS
+781,Ramen Sho Ryu,https://axel-slid.github.io/bay-area-final-1000-websites/ramen-sho-ryu-san-francisco/,200,PASS
+782,Pearly Nails,https://axel-slid.github.io/bay-area-final-1000-websites/pearly-nails-bay-area/,200,PASS
+783,Union Nails,https://axel-slid.github.io/bay-area-final-1000-websites/union-nails-bay-area/,200,PASS
+784,West Coast Nails,https://axel-slid.github.io/bay-area-final-1000-websites/west-coast-nails-san-francisco/,200,PASS
+785,Tong's Cleaners,https://axel-slid.github.io/bay-area-final-1000-websites/tongs-cleaners-san-francisco/,200,PASS
+786,Nadya,https://axel-slid.github.io/bay-area-final-1000-websites/nadya-taylor-street/,200,PASS
+787,Faces Plus,https://axel-slid.github.io/bay-area-final-1000-websites/faces-plus-san-francisco/,200,PASS
+788,Yong Chang Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/yong-chang-hair-design-san-francisco/,200,PASS
+789,A&A Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/aa-hair-design-san-francisco/,200,PASS
+790,Jason's Salon,https://axel-slid.github.io/bay-area-final-1000-websites/jasons-salon-san-francisco/,200,PASS
+791,Comprehensive Dental Care,https://axel-slid.github.io/bay-area-final-1000-websites/comprehensive-dental-care-bay-area/,200,PASS
+792,Lana Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lana-beauty-salon-san-francisco/,200,PASS
+793,Happy Chinese Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/happy-chinese-restaurant-san-francisco/,200,PASS
+794,Powell Florist,https://axel-slid.github.io/bay-area-final-1000-websites/powell-florist-san-francisco/,200,PASS
+795,Fang Yi Fashion,https://axel-slid.github.io/bay-area-final-1000-websites/fang-yi-fashion-san-francisco/,200,PASS
+796,Yan Yang Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/yan-yang-beauty-salon-san-francisco/,200,PASS
+797,Ha Tea,https://axel-slid.github.io/bay-area-final-1000-websites/ha-tea-san-francisco/,200,PASS
+798,Jenny Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/jenny-hair-salon-san-francisco/,200,PASS
+799,A Salon,https://axel-slid.github.io/bay-area-final-1000-websites/a-salon-san-francisco/,200,PASS
+800,Joy's Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/joys-hair-salon-bay-area/,200,PASS
+801,Lucky Creation,https://axel-slid.github.io/bay-area-final-1000-websites/lucky-creation-san-francisco/,200,PASS
+802,Sweetheart Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/sweetheart-cafe-san-francisco/,200,PASS
+803,Golden Star Vietnamese Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/golden-star-vietnamese-restaurant-bay-area/,200,PASS
+804,Golden King Vietnamese Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/golden-king-vietnamese-restaurant-bay-area/,200,PASS
+805,Zhen Mei Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/zhen-mei-hair-salon-bay-area/,200,PASS
+806,Artist Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/artist-hair-design-bay-area/,200,PASS
+807,Kay Beauty & Skin Care,https://axel-slid.github.io/bay-area-final-1000-websites/kay-beauty-skin-care-san-francisco/,200,PASS
+808,Jinshan Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/jinshan-cafe-bay-area/,200,PASS
+809,Sushi Boat Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/sushi-boat-restaurant-bay-area/,200,PASS
+810,L.D Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/ld-jewelry-bay-area/,200,PASS
+811,Sutter Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/sutter-cafe-san-francisco/,200,PASS
+812,Richard's Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/richards-hair-design-san-francisco/,200,PASS
+813,BLOOMING ALLEY,https://axel-slid.github.io/bay-area-final-1000-websites/blooming-alley-san-francisco/,200,PASS
+814,Tailored Salon,https://axel-slid.github.io/bay-area-final-1000-websites/tailored-salon-san-francisco/,200,PASS
+815,HB Alterations,https://axel-slid.github.io/bay-area-final-1000-websites/hb-alterations-bay-area/,200,PASS
+816,Boydstun & Klingner CPA's,https://axel-slid.github.io/bay-area-final-1000-websites/boydstun-klingner-cpas-san-francisco/,200,PASS
+817,Caffè Bianco,https://axel-slid.github.io/bay-area-final-1000-websites/caffe-bianco-san-francisco/,200,PASS
+818,Caramba,https://axel-slid.github.io/bay-area-final-1000-websites/caramba-bay-area/,200,PASS
+819,St. John,https://axel-slid.github.io/bay-area-final-1000-websites/st-john-san-francisco/,200,PASS
+820,Cable Car Coffee,https://axel-slid.github.io/bay-area-final-1000-websites/cable-car-coffee-bay-area/,200,PASS
+821,Taquerria Castillo B2,https://axel-slid.github.io/bay-area-final-1000-websites/taquerria-castillo-b2-san-francisco/,200,PASS
+822,Ady Barber & Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/ady-barber-beauty-bay-area/,200,PASS
+823,Mộng Thu,https://axel-slid.github.io/bay-area-final-1000-websites/mong-thu-bay-area/,200,PASS
+824,Larkin Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/larkin-restaurant-san-francisco/,200,PASS
+825,Cafe 450 Eurest Dining,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-450-eurest-dining-san-francisco/,200,PASS
+826,Pronto Pizza & Espresso,https://axel-slid.github.io/bay-area-final-1000-websites/pronto-pizza-espresso-san-francisco/,200,PASS
+827,Jarin Thia Cuisine,https://axel-slid.github.io/bay-area-final-1000-websites/jarin-thia-cuisine-bay-area/,200,PASS
+828,Sam's Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/sams-bakery-san-francisco/,200,PASS
+829,Wok Shop Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/wok-shop-cafe-san-francisco/,200,PASS
+830,Fingertips,https://axel-slid.github.io/bay-area-final-1000-websites/fingertips-san-francisco/,200,PASS
+831,Village Pizzeria,https://axel-slid.github.io/bay-area-final-1000-websites/village-pizzeria-san-francisco/,200,PASS
+832,Piroo,https://axel-slid.github.io/bay-area-final-1000-websites/piroo-san-francisco/,200,PASS
+833,Wen's Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/wens-kitchen-san-francisco/,200,PASS
+834,Armando for Hair,https://axel-slid.github.io/bay-area-final-1000-websites/armando-for-hair-bay-area/,200,PASS
+835,Ling's Salon,https://axel-slid.github.io/bay-area-final-1000-websites/lings-salon-bay-area/,200,PASS
+836,Ling Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/ling-beauty-salon-bay-area/,200,PASS
+837,Mayfair Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/mayfair-beauty-salon-bay-area/,200,PASS
+838,Mom Banh Mi,https://axel-slid.github.io/bay-area-final-1000-websites/mom-banh-mi-san-francisco/,200,PASS
+839,Cafecito,https://axel-slid.github.io/bay-area-final-1000-websites/cafecito-san-francisco/,200,PASS
+840,Pho Tan Hoa,https://axel-slid.github.io/bay-area-final-1000-websites/pho-tan-hoa-bay-area/,200,PASS
+841,El Rincon Yucateco,https://axel-slid.github.io/bay-area-final-1000-websites/el-rincon-yucateco-san-francisco/,200,PASS
+842,Marcela's Taqueria,https://axel-slid.github.io/bay-area-final-1000-websites/marcelas-taqueria-san-francisco/,200,PASS
+843,Crystal Spa,https://axel-slid.github.io/bay-area-final-1000-websites/crystal-spa-san-francisco/,200,PASS
+844,Sugarcoat Salon,https://axel-slid.github.io/bay-area-final-1000-websites/sugarcoat-salon-san-francisco/,200,PASS
+845,Ton Ton Japanese Ramen House,https://axel-slid.github.io/bay-area-final-1000-websites/ton-ton-japanese-ramen-house-san-francisco/,200,PASS
+846,Nave Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/nave-cafe-bay-area/,200,PASS
+847,Noori Stitch,https://axel-slid.github.io/bay-area-final-1000-websites/noori-stitch-bay-area/,200,PASS
+848,Maru Sushi,https://axel-slid.github.io/bay-area-final-1000-websites/maru-sushi-san-francisco/,200,PASS
+849,Beanstalk Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/beanstalk-cafe-bay-area/,200,PASS
+850,Fresh Brew Coffee,https://axel-slid.github.io/bay-area-final-1000-websites/fresh-brew-coffee-bay-area/,200,PASS
+851,Tina's Salon,https://axel-slid.github.io/bay-area-final-1000-websites/tinas-salon-san-francisco/,200,PASS
+852,Metropolitan,https://axel-slid.github.io/bay-area-final-1000-websites/metropolitan-bay-area/,200,PASS
+853,Morning Fix Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/morning-fix-cafe-san-francisco/,200,PASS
+854,Cafe Bean,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-bean-bay-area/,200,PASS
+855,Cup of Joy,https://axel-slid.github.io/bay-area-final-1000-websites/cup-of-joy-bay-area/,200,PASS
+856,The Floral Designer,https://axel-slid.github.io/bay-area-final-1000-websites/the-floral-designer-bay-area/,200,PASS
+857,Hair on Hyde,https://axel-slid.github.io/bay-area-final-1000-websites/hair-on-hyde-bay-area/,200,PASS
+858,Costa Del Sol Tanning,https://axel-slid.github.io/bay-area-final-1000-websites/costa-del-sol-tanning-san-francisco/,200,PASS
+859,Lady Goldfingers,https://axel-slid.github.io/bay-area-final-1000-websites/lady-goldfingers-bay-area/,200,PASS
+860,Hair Future,https://axel-slid.github.io/bay-area-final-1000-websites/hair-future-bay-area/,200,PASS
+861,CC Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/cc-nail-spa-san-francisco/,200,PASS
+862,Zee Continental Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/zee-continental-jewelry-bay-area/,200,PASS
+863,Lan's Formal Wear,https://axel-slid.github.io/bay-area-final-1000-websites/lans-formal-wear-bay-area/,200,PASS
+864,Cordon Bleu,https://axel-slid.github.io/bay-area-final-1000-websites/cordon-bleu-san-francisco/,200,PASS
+865,Victor's Pizzeria & Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/victors-pizzeria-restaurant-san-francisco/,200,PASS
+866,Aicha,https://axel-slid.github.io/bay-area-final-1000-websites/aicha-san-francisco/,200,PASS
+867,Sammy's Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/sammys-cafe-san-francisco/,200,PASS
+868,La Fina Estampa,https://axel-slid.github.io/bay-area-final-1000-websites/la-fina-estampa-san-francisco/,200,PASS
+869,Route 101,https://axel-slid.github.io/bay-area-final-1000-websites/route-101-san-francisco/,200,PASS
+870,Wayo,https://axel-slid.github.io/bay-area-final-1000-websites/wayo-san-francisco/,200,PASS
+871,9 Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/9-nail-spa-bay-area/,200,PASS
+872,San Francisco Animal Medical Center,https://axel-slid.github.io/bay-area-final-1000-websites/san-francisco-animal-medical-center-bay-area/,200,PASS
+873,Elite Fine Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/elite-fine-jewelry-bay-area/,200,PASS
+874,Trio Nails,https://axel-slid.github.io/bay-area-final-1000-websites/trio-nails-bay-area/,200,PASS
+875,Osakaya,https://axel-slid.github.io/bay-area-final-1000-websites/osakaya-bay-area/,200,PASS
+876,Asian American Medical Center,https://axel-slid.github.io/bay-area-final-1000-websites/asian-american-medical-center-bay-area/,200,PASS
+877,Geomantic Salon,https://axel-slid.github.io/bay-area-final-1000-websites/geomantic-salon-bay-area/,200,PASS
+878,Sung's Automotive,https://axel-slid.github.io/bay-area-final-1000-websites/sungs-automotive-bay-area/,200,PASS
+879,NewBills Barbershop & Salon,https://axel-slid.github.io/bay-area-final-1000-websites/newbills-barbershop-salon-bay-area/,200,PASS
+880,Katsuo+Kombu,https://axel-slid.github.io/bay-area-final-1000-websites/katsuokombu-bay-area/,200,PASS
+881,Club Waziema,https://axel-slid.github.io/bay-area-final-1000-websites/club-waziema-san-francisco/,200,PASS
+882,Sohn & Song Accountancy Corp.,https://axel-slid.github.io/bay-area-final-1000-websites/sohn-song-accountancy-corp-bay-area/,200,PASS
+883,"Yan Kalika D.M.D., M.S.",https://axel-slid.github.io/bay-area-final-1000-websites/yan-kalika-dmd-ms-bay-area/,200,PASS
+884,Hair Touch,https://axel-slid.github.io/bay-area-final-1000-websites/hair-touch-bay-area/,200,PASS
+885,O'Keeffe's,https://axel-slid.github.io/bay-area-final-1000-websites/okeeffes-san-francisco/,200,PASS
+886,Muguboka,https://axel-slid.github.io/bay-area-final-1000-websites/muguboka-san-francisco/,200,PASS
+887,Luxury Spa,https://axel-slid.github.io/bay-area-final-1000-websites/luxury-spa-bay-area/,200,PASS
+888,Xiao Yu's Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/xiao-yus-kitchen-bay-area/,200,PASS
+889,The Richmond,https://axel-slid.github.io/bay-area-final-1000-websites/the-richmond-san-francisco/,200,PASS
+890,Celandine Day Spa,https://axel-slid.github.io/bay-area-final-1000-websites/celandine-day-spa-bay-area/,200,PASS
+891,Muu Kara Thai Charcoal BBQ,https://axel-slid.github.io/bay-area-final-1000-websites/muu-kara-thai-charcoal-bbq-san-francisco/,200,PASS
+892,"Donald S. Lim, D.D.S",https://axel-slid.github.io/bay-area-final-1000-websites/donald-s-lim-dds-bay-area/,200,PASS
+893,LH Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/lh-restaurant-san-francisco/,200,PASS
+894,D & A Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/d-a-cafe-bay-area/,200,PASS
+895,Chocococo,https://axel-slid.github.io/bay-area-final-1000-websites/chocococo-bay-area/,200,PASS
+896,Wing Lee B.B.Q. Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/wing-lee-bbq-restaurant-bay-area/,200,PASS
+897,Wing Lee Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/wing-lee-bakery-bay-area/,200,PASS
+898,Golden Phoenix Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/golden-phoenix-hair-salon-bay-area/,200,PASS
+899,Fame Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/fame-hair-design-bay-area/,200,PASS
+900,Red A Bakery,https://axel-slid.github.io/bay-area-final-1000-websites/red-a-bakery-bay-area/,200,PASS
+901,Xiao Long Bao Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/xiao-long-bao-restaurant-bay-area/,200,PASS
+902,Clement BBQ,https://axel-slid.github.io/bay-area-final-1000-websites/clement-bbq-bay-area/,200,PASS
+903,Moku Yakitori,https://axel-slid.github.io/bay-area-final-1000-websites/moku-yakitori-san-francisco/,200,PASS
+904,SF Smiles Dental,https://axel-slid.github.io/bay-area-final-1000-websites/sf-smiles-dental-bay-area/,200,PASS
+905,May's Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/mays-hair-design-san-francisco/,200,PASS
+906,Sewa,https://axel-slid.github.io/bay-area-final-1000-websites/sewa-san-francisco/,200,PASS
+907,Chongqing Hot Pot,https://axel-slid.github.io/bay-area-final-1000-websites/chongqing-hot-pot-bay-area/,200,PASS
+908,Lime Tree,https://axel-slid.github.io/bay-area-final-1000-websites/lime-tree-bay-area/,200,PASS
+909,Beam Properties,https://axel-slid.github.io/bay-area-final-1000-websites/beam-properties-bay-area/,200,PASS
+910,Korean Village Wooden Charcoal,https://axel-slid.github.io/bay-area-final-1000-websites/korean-village-wooden-charcoal-bay-area/,200,PASS
+911,Express Pupuseria,https://axel-slid.github.io/bay-area-final-1000-websites/express-pupuseria-bay-area/,200,PASS
+912,"Randolph Yip, DDS",https://axel-slid.github.io/bay-area-final-1000-websites/randolph-yip-dds-bay-area/,200,PASS
+913,Sagarmatha Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/sagarmatha-kitchen-bay-area/,200,PASS
+914,amphawa,https://axel-slid.github.io/bay-area-final-1000-websites/amphawa-bay-area/,200,PASS
+915,Sweet Mango,https://axel-slid.github.io/bay-area-final-1000-websites/sweet-mango-bay-area/,200,PASS
+916,Buffalo Burgers,https://axel-slid.github.io/bay-area-final-1000-websites/buffalo-burgers-san-francisco/,200,PASS
+917,Fairy Lake Aquarium,https://axel-slid.github.io/bay-area-final-1000-websites/fairy-lake-aquarium-bay-area/,200,PASS
+918,Mai's Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/mais-beauty-salon-bay-area/,200,PASS
+919,Balboa Bubbles,https://axel-slid.github.io/bay-area-final-1000-websites/balboa-bubbles-bay-area/,200,PASS
+920,Aquatica Nails,https://axel-slid.github.io/bay-area-final-1000-websites/aquatica-nails-bay-area/,200,PASS
+921,Pho Huong Viet,https://axel-slid.github.io/bay-area-final-1000-websites/pho-huong-viet-bay-area/,200,PASS
+922,Nail Care by Theresa,https://axel-slid.github.io/bay-area-final-1000-websites/nail-care-by-theresa-bay-area/,200,PASS
+923,An Chi,https://axel-slid.github.io/bay-area-final-1000-websites/an-chi-san-francisco/,200,PASS
+924,Qué Chulada,https://axel-slid.github.io/bay-area-final-1000-websites/que-chulada-bay-area/,200,PASS
+925,George Jee Insurance Services,https://axel-slid.github.io/bay-area-final-1000-websites/george-jee-insurance-services-bay-area/,200,PASS
+926,Izakaya Mayumi,https://axel-slid.github.io/bay-area-final-1000-websites/izakaya-mayumi-bay-area/,200,PASS
+927,Kayo Hair,https://axel-slid.github.io/bay-area-final-1000-websites/kayo-hair-bay-area/,200,PASS
+928,Thanh Thanh Café,https://axel-slid.github.io/bay-area-final-1000-websites/thanh-thanh-cafe-bay-area/,200,PASS
+929,Fuku Ramen,https://axel-slid.github.io/bay-area-final-1000-websites/fuku-ramen-bay-area/,200,PASS
+930,Little Sushi Bar,https://axel-slid.github.io/bay-area-final-1000-websites/little-sushi-bar-bay-area/,200,PASS
+931,Blossom Beauty Salon & Spa,https://axel-slid.github.io/bay-area-final-1000-websites/blossom-beauty-salon-spa-bay-area/,200,PASS
+932,Chef Xiong Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/chef-xiong-kitchen-san-francisco/,200,PASS
+933,Indian Clay Oven,https://axel-slid.github.io/bay-area-final-1000-websites/indian-clay-oven-bay-area/,200,PASS
+934,Ruby's Cut,https://axel-slid.github.io/bay-area-final-1000-websites/rubys-cut-bay-area/,200,PASS
+935,Star East,https://axel-slid.github.io/bay-area-final-1000-websites/star-east-bay-area/,200,PASS
+936,Geary Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/geary-cafe-bay-area/,200,PASS
+937,Sugarcane SF,https://axel-slid.github.io/bay-area-final-1000-websites/sugarcane-sf-bay-area/,200,PASS
+938,Kufu-Ya,https://axel-slid.github.io/bay-area-final-1000-websites/kufu-ya-san-francisco/,200,PASS
+939,Chino's,https://axel-slid.github.io/bay-area-final-1000-websites/chinos-bay-area/,200,PASS
+940,Jessica Liu Insurance Services Inc.,https://axel-slid.github.io/bay-area-final-1000-websites/jessica-liu-insurance-services-inc-bay-area/,200,PASS
+941,Cielito Lindo,https://axel-slid.github.io/bay-area-final-1000-websites/cielito-lindo-bay-area/,200,PASS
+942,Taste of Fusion Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/taste-of-fusion-kitchen-bay-area/,200,PASS
+943,Plato Hair Design,https://axel-slid.github.io/bay-area-final-1000-websites/plato-hair-design-bay-area/,200,PASS
+944,Superior Palace,https://axel-slid.github.io/bay-area-final-1000-websites/superior-palace-bay-area/,200,PASS
+945,Little Henry's,https://axel-slid.github.io/bay-area-final-1000-websites/little-henrys-bay-area/,200,PASS
+946,Julie Nail Spa,https://axel-slid.github.io/bay-area-final-1000-websites/julie-nail-spa-bay-area/,200,PASS
+947,Fuwa Dumpling,https://axel-slid.github.io/bay-area-final-1000-websites/fuwa-dumpling-bay-area/,200,PASS
+948,Kim Son,https://axel-slid.github.io/bay-area-final-1000-websites/kim-son-bay-area/,200,PASS
+949,Mr. Báhn Mì,https://axel-slid.github.io/bay-area-final-1000-websites/mr-bahn-mi-bay-area/,200,PASS
+950,Crown Hardware,https://axel-slid.github.io/bay-area-final-1000-websites/crown-hardware-bay-area/,200,PASS
+951,Shanghai House,https://axel-slid.github.io/bay-area-final-1000-websites/shanghai-house-bay-area/,200,PASS
+952,H&Q Beauty Salon,https://axel-slid.github.io/bay-area-final-1000-websites/hq-beauty-salon-bay-area/,200,PASS
+953,The Pot's,https://axel-slid.github.io/bay-area-final-1000-websites/the-pots-bay-area/,200,PASS
+954,I D Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/i-d-hair-salon-san-francisco/,200,PASS
+955,The Clean Cycle Laundromat,https://axel-slid.github.io/bay-area-final-1000-websites/the-clean-cycle-laundromat-san-francisco/,200,PASS
+956,J J Cosmetology Health Spa,https://axel-slid.github.io/bay-area-final-1000-websites/j-j-cosmetology-health-spa-san-francisco/,200,PASS
+957,Law Office Of Kurt D. Huysentruyt,https://axel-slid.github.io/bay-area-final-1000-websites/law-office-of-kurt-d-huysentruyt-bay-area/,200,PASS
+958,JT’s Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/jts-auto-repair-bay-area/,200,PASS
+959,Sunset Hardware,https://axel-slid.github.io/bay-area-final-1000-websites/sunset-hardware-san-francisco/,200,PASS
+960,Kaili Beauty Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/kaili-beauty-nail-salon-bay-area/,200,PASS
+961,Duke's Hardware,https://axel-slid.github.io/bay-area-final-1000-websites/dukes-hardware-san-francisco/,200,PASS
+962,Oriental Seafood Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/oriental-seafood-restaurant-bay-area/,200,PASS
+963,Bright N' Clean Laundry Center,https://axel-slid.github.io/bay-area-final-1000-websites/bright-n-clean-laundry-center-bay-area/,200,PASS
+964,Dumpling Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/dumpling-kitchen-san-francisco-3/,200,PASS
+965,T-28 Bakery & Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/t-28-bakery-cafe-san-francisco/,200,PASS
+966,"Beverly Presley-Nelson, DDS General Dentistry",https://axel-slid.github.io/bay-area-final-1000-websites/beverly-presley-nelson-dds-general-dentistry-bay-area/,200,PASS
+967,Taraval Okazu Ya,https://axel-slid.github.io/bay-area-final-1000-websites/taraval-okazu-ya-bay-area/,200,PASS
+968,Parkside Day Spa,https://axel-slid.github.io/bay-area-final-1000-websites/parkside-day-spa-san-francisco/,200,PASS
+969,"United Associates Inv., Inc.",https://axel-slid.github.io/bay-area-final-1000-websites/united-associates-inv-inc-bay-area/,200,PASS
+970,Flora Permanent Beauty Center,https://axel-slid.github.io/bay-area-final-1000-websites/flora-permanent-beauty-center-bay-area/,200,PASS
+971,Lou's Cafe,https://axel-slid.github.io/bay-area-final-1000-websites/lous-cafe-san-francisco/,200,PASS
+972,123 Wash & Dry,https://axel-slid.github.io/bay-area-final-1000-websites/123-wash-dry-san-francisco/,200,PASS
+973,Dragon Lounge,https://axel-slid.github.io/bay-area-final-1000-websites/dragon-lounge-san-francisco/,200,PASS
+974,Banhwich,https://axel-slid.github.io/bay-area-final-1000-websites/banhwich-san-francisco/,200,PASS
+975,Made in China,https://axel-slid.github.io/bay-area-final-1000-websites/made-in-china-san-francisco/,200,PASS
+976,Just Won Ton,https://axel-slid.github.io/bay-area-final-1000-websites/just-won-ton-san-francisco/,200,PASS
+977,Riverside Seafood Restaurant,https://axel-slid.github.io/bay-area-final-1000-websites/riverside-seafood-restaurant-san-francisco/,200,PASS
+978,My Cup of Tea (Cool Tea Bar),https://axel-slid.github.io/bay-area-final-1000-websites/my-cup-of-tea-cool-tea-bar-san-francisco/,200,PASS
+979,Hall of Flame,https://axel-slid.github.io/bay-area-final-1000-websites/hall-of-flame-bay-area/,200,PASS
+980,Elite Hair Salon Hair Nail,https://axel-slid.github.io/bay-area-final-1000-websites/elite-hair-salon-hair-nail-daly-city/,200,PASS
+981,Coastside Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/coastside-barber-shop-pacifica/,200,PASS
+982,Redeye Grill,https://axel-slid.github.io/bay-area-final-1000-websites/redeye-grill-pacifica/,200,PASS
+983,New York Nails 2,https://axel-slid.github.io/bay-area-final-1000-websites/new-york-nails-2-pacifica/,200,PASS
+984,Seaview Tire and Brake Center,https://axel-slid.github.io/bay-area-final-1000-websites/seaview-tire-and-brake-center-pacifica/,200,PASS
+985,Simon’s Auto Werks,https://axel-slid.github.io/bay-area-final-1000-websites/simons-auto-werks-pacifica/,200,PASS
+986,Buona Italia Caffe,https://axel-slid.github.io/bay-area-final-1000-websites/buona-italia-caffe-pacifica/,200,PASS
+987,Loco Burger,https://axel-slid.github.io/bay-area-final-1000-websites/loco-burger-pacifica/,200,PASS
+988,Taqueria Pacifica,https://axel-slid.github.io/bay-area-final-1000-websites/taqueria-pacifica-pacifica/,200,PASS
+989,Kitten & Pinky,https://axel-slid.github.io/bay-area-final-1000-websites/kitten-pinky-pacifica/,200,PASS
+990,The Tan Line,https://axel-slid.github.io/bay-area-final-1000-websites/the-tan-line-pacifica/,200,PASS
+991,Cafe Pacifica,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-pacifica-pacifica/,200,PASS
+992,Chit Chat Cafe At the Pier,https://axel-slid.github.io/bay-area-final-1000-websites/chit-chat-cafe-at-the-pier-pacifica/,200,PASS
+993,Reflections Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/reflections-hair-salon-pacifica/,200,PASS
+994,Johnny’s Barber Shop,https://axel-slid.github.io/bay-area-final-1000-websites/johnnys-barber-shop-pacifica/,200,PASS
+995,Asian King's Kitchen,https://axel-slid.github.io/bay-area-final-1000-websites/asian-kings-kitchen-half-moon-bay/,200,PASS
+996,La Di Da,https://axel-slid.github.io/bay-area-final-1000-websites/la-di-da-bay-area/,200,PASS
+997,Cafe Capistrano,https://axel-slid.github.io/bay-area-final-1000-websites/cafe-capistrano-half-moon-bay/,200,PASS
+998,Downtown Local,https://axel-slid.github.io/bay-area-final-1000-websites/downtown-local-pescadero/,200,PASS
+999,Mercado & Taqueria De Amigos,https://axel-slid.github.io/bay-area-final-1000-websites/mercado-taqueria-de-amigos-pescadero/,200,PASS
+1000,Pine Tent,https://axel-slid.github.io/bay-area-final-1000-websites/pine-tent-rossi-road/,200,PASS

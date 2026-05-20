@@ -8,20 +8,29 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#173b2f;--surface:#fff8ed;--accent:#d1532f;--ink:#172016">
-    <header class="hero">
-      <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+    <header class="hero hero--studio" data-hero-pattern="studio-split-hero">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">DY</span>Dr. Yvette Tan Antonio Family Dentistry</span>
         <a href="tel:6509615424">(650) 961-5424</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">dentist</p>
-        <h1>Dr. Yvette Tan Antonio Family Dentistry</h1>
-        <p>A direct local landing page for customers searching before they call.</p>
-        <div class="actions">
-          <a class="button" href="tel:6509615424">Call (650) 961-5424</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Dr.%20Yvette%20Tan%20Antonio%20Family%20Dentistry%20327C%20Moffett%20Boulevard">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/antonio-yvette-tan-dds-mountain-view">See profile photos</a>
+      <div class="hero__studio-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">dentist</p>
+          <h1 class="motion-item">Dr. Yvette Tan Antonio Family Dentistry</h1>
+          <p class="hero__lead motion-item">A direct local landing page for customers searching before they call.</p>
+          <p class="hero__focus motion-item">Patient-friendly appointment context with a clinical visual tone.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:6509615424">Book by phone</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Dr.%20Yvette%20Tan%20Antonio%20Family%20Dentistry%20327C%20Moffett%20Boulevard">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/antonio-yvette-tan-dds-mountain-view">See profile photos</a></div>
+        </div>
+        <div class="hero-portrait motion-panel">
+          <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1800&q=80" alt="" class="hero-portrait__image">
+          <div class="hero-portrait__caption">
+            <span>dentist</span>
+            <span>327C Moffett Boulevard</span>
+          </div>
         </div>
       </div>
     </header>
@@ -73,5 +82,19 @@
       <span>Dr. Yvette Tan Antonio Family Dentistry</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

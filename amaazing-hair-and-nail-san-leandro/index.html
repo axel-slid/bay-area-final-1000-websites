@@ -8,20 +8,29 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#4b1f36;--surface:#fff7fb;--accent:#c2687f;--ink:#1d1418">
-    <header class="hero">
-      <img src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+    <header class="hero hero--studio" data-hero-pattern="studio-split-hero">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">AH</span>Amaazing Hair and Nail</span>
         <a href="tel:5103434982">(510) 343-4982</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">beauty</p>
-        <h1>Amaazing Hair and Nail</h1>
-        <p>A polished appointment path for style, care, and repeat clients in San Leandro.</p>
-        <div class="actions">
-          <a class="button" href="tel:5103434982">Call (510) 343-4982</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Amaazing%20Hair%20and%20Nail%20187%20Pelton%20Center%20Way%2C%20San%20Leandro%2C%20CA%2C%2094577">Open map</a>
-          
+      <div class="hero__studio-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">beauty</p>
+          <h1 class="motion-item">Amaazing Hair and Nail</h1>
+          <p class="hero__lead motion-item">A polished appointment path for style, care, and repeat clients in San Leandro.</p>
+          <p class="hero__focus motion-item">A polished appointment page with service-first confidence.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:5103434982">Book by phone</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Amaazing%20Hair%20and%20Nail%20187%20Pelton%20Center%20Way%2C%20San%20Leandro%2C%20CA%2C%2094577">Open map</a>
+          </div>
+        </div>
+        <div class="hero-portrait motion-panel">
+          <img src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1800&q=80" alt="" class="hero-portrait__image">
+          <div class="hero-portrait__caption">
+            <span>beauty</span>
+            <span>187 Pelton Center Way, San Leandro, CA, 94577</span>
+          </div>
         </div>
       </div>
     </header>
@@ -73,5 +82,19 @@
       <span>Amaazing Hair and Nail</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

@@ -8,21 +8,28 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#14213d;--surface:#f5f7fb;--accent:#fca311;--ink:#111827">
-    <header class="hero">
+    <header class="hero hero--console" data-hero-pattern="trust-console-hero">
       <img src="https://images.unsplash.com/photo-1625047509168-a7026f36de04?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">K7</span>K&amp;7 Auto Repair</span>
         <a href="tel:5104366138">(510) 436-6138</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">car repair</p>
-        <h1>K&amp;7 Auto Repair</h1>
-        <p>Clear repair intake, hours, and trust cues for drivers in Oakland.</p>
-        <div class="actions">
-          <a class="button" href="tel:5104366138">Call (510) 436-6138</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=K%267%20Auto%20Repair%203755%20Foothill%20Boulevard%2C%20Oakland%2C%2094601">Open map</a>
-          
+      <div class="hero__console-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">car repair</p>
+          <h1 class="motion-item">K&amp;7 Auto Repair</h1>
+          <p class="hero__lead motion-item">Clear repair intake, hours, and trust cues for drivers in Oakland.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:5104366138">Request service</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=K%267%20Auto%20Repair%203755%20Foothill%20Boulevard%2C%20Oakland%2C%2094601">Open map</a>
+          </div>
         </div>
+        <aside class="hero-console motion-panel">
+          <span class="hero-console__label">Local intake</span>
+          <p>Repair trust cues, drop-off details, and direct phone intake.</p>
+          <div class="hero-console__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>419</span></span><span class="hero-stat motion-item"><span>Category</span><span>car repair</span></span><span class="hero-stat motion-item"><span>Area</span><span>Oakland</span></span></div>
+        </aside>
       </div>
     </header>
     <main>
@@ -73,5 +80,19 @@
       <span>K&amp;7 Auto Repair</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

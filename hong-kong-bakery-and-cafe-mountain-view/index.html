@@ -8,21 +8,23 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#6d3b1f;--surface:#fff7eb;--accent:#c87b36;--ink:#2b1b12">
-    <header class="hero">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero">
       <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">HK</span>Hong Kong Bakery and Cafe</span>
         <a href="tel:6509693153">(650) 969-3153</a>
       </nav>
       <div class="hero__content">
-        <p class="eyebrow">bakery</p>
-        <h1>Hong Kong Bakery and Cafe</h1>
-        <p>A direct local landing page for customers searching before they call in Mountain View.</p>
+        <p class="eyebrow motion-item">bakery</p>
+        <h1 class="motion-item">Hong Kong Bakery and Cafe</h1>
+        <p class="hero__lead motion-item">A direct local landing page for customers searching before they call in Mountain View.</p>
+        <p class="hero__focus motion-item">Fresh-order cues and morning pickup clarity for Mountain View.</p>
         <div class="actions">
-          <a class="button" href="tel:6509693153">Call (650) 969-3153</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Hong%20Kong%20Bakery%20and%20Cafe%20210%20Castro%20Street%2C%20Mountain%20View%2C%20CA">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/hong-kong-bakery-and-cafe-mountain-view">See profile photos</a>
-        </div>
+          <a class="button motion-item" href="tel:6509693153">Call for menu</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Hong%20Kong%20Bakery%20and%20Cafe%20210%20Castro%20Street%2C%20Mountain%20View%2C%20CA">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/hong-kong-bakery-and-cafe-mountain-view">See profile photos</a></div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>493</span></span><span class="hero-stat motion-item"><span>Category</span><span>bakery</span></span><span class="hero-stat motion-item"><span>Area</span><span>Mountain View</span></span></div>
       </div>
     </header>
     <main>
@@ -73,5 +75,19 @@
       <span>Hong Kong Bakery and Cafe</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

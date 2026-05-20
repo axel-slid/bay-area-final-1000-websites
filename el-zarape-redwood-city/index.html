@@ -8,21 +8,23 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#173b2f;--surface:#fff8ed;--accent:#d1532f;--ink:#172016">
-    <header class="hero">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero">
       <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">EZ</span>El Zarape</span>
         <a href="tel:6503631397">(650) 363-1397</a>
       </nav>
       <div class="hero__content">
-        <p class="eyebrow">restaurant</p>
-        <h1>El Zarape</h1>
-        <p>Menu-first local dining in Redwood City, built for quick calls and pickup decisions.</p>
+        <p class="eyebrow motion-item">restaurant</p>
+        <h1 class="motion-item">El Zarape</h1>
+        <p class="hero__lead motion-item">Menu-first local dining in Redwood City, built for quick calls and pickup decisions.</p>
+        <p class="hero__focus motion-item">Food-first storytelling with a clear route to call or visit.</p>
         <div class="actions">
-          <a class="button" href="tel:6503631397">Call (650) 363-1397</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=El%20Zarape%201808%20El%20Camino%20Real%2C%20Redwood%20City%2C%2094063">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/el-zarape-bar-and-grill-redwood-city">See profile photos</a>
-        </div>
+          <a class="button motion-item" href="tel:6503631397">Call for menu</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=El%20Zarape%201808%20El%20Camino%20Real%2C%20Redwood%20City%2C%2094063">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/el-zarape-bar-and-grill-redwood-city">See profile photos</a></div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>24</span></span><span class="hero-stat motion-item"><span>Category</span><span>restaurant</span></span><span class="hero-stat motion-item"><span>Area</span><span>Redwood City</span></span></div>
       </div>
     </header>
     <main>
@@ -73,5 +75,19 @@
       <span>El Zarape</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

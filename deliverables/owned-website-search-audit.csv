@@ -154,8 +154,8 @@ Route stop,Business,Address,Phone,Category,Owned website search status,Raw owned
 153,Thanh Sơn,"990 Story Road, San Jose, CA, 95122",(408) 975-0135,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 154,Saigon Kitchen,"1111 Story Road, San Jose, CA, 95122",(408) 297-1107,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 155,Nina Hair & Nails,"1199 South King Road, San Jose, CA, 95122",(408) 770-2147,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
-156,Bella Imagen,"2235 Story Road, San Jose, CA, 95122",(408) 729-1408,beauty,MANUAL REVIEW - no owned website found,,"Manual refill review: exact-name/address web search found directory/listing pages only, no owned website."
-157,Styling Salon,"2290 Story Road, San Jose, 95122",(408) 708-4705,beauty,MANUAL REVIEW - no owned website found,,"Manual refill review: exact-name/address web search found directory/listing pages only, no owned website."
+156,Bella Imagen,"2235 Story Road, San Jose, CA, 95122",(408) 729-1408,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+157,Styling Salon,"2290 Story Road, San Jose, 95122",(408) 708-4705,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 158,Valencia's Auto Service,"75 South Capitol Avenue, San Jose, CA, 95127",(408) 929-2960,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 159,Fruitas Regionales Magui,"41 South Jackson Avenue, San Jose, CA, 95116",(408) 417-1072,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 160,Lucky Hair & Nails,"33 South Jackson Avenue, San Jose, CA, 95116",(408) 791-6289,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
@@ -352,11 +352,11 @@ Route stop,Business,Address,Phone,Category,Owned website search status,Raw owned
 351,Notorious Buns,500 Bollinger Canyon Way,(925) 905-9008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 352,W Salon,"2005 Crow Canyon Place, San Ramon, California, 94583 (reverse-geocoded approximate)",(925) 790-0000,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 353,Angel Staging Partners,"38 Beta Court, San Ramon, CA, 94583",(925) 855-1100,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
-354,"Dr. Mary R. Johnson, DDS",75 Oak Court,(925) 837-2754,dentist,MANUAL REVIEW - no owned website found,,"Manual refill review: exact-name/address web search found directory/listing pages only, no owned website."
-355,CPA Accountant Tax Group,100 Diablo Road,(877) 750-5480,accountant,MANUAL REVIEW - no owned website found,,Manual refill review: exact-name/address web search found no owned website.
-356,Salon 7,7 Front Street,(925) 683-5105,hairdresser,MANUAL REVIEW - no owned website found,,Manual refill review: exact-name/address web search found no owned website.
-357,Hair Graphics,210 East Linda Mesa Avenue,(925) 837-3214,hairdresser,MANUAL REVIEW - no owned website found,,Manual refill review: exact-name/address web search found no owned website.
-358,Sally Ann's Salon,80 Railroad Avenue,(925) 831-9023,hairdresser,MANUAL REVIEW - no owned website found,,"Manual refill review: exact-name web search found directory/listing pages only, no owned website."
+354,"Dr. Mary R. Johnson, DDS",75 Oak Court,(925) 837-2754,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+355,CPA Accountant Tax Group,100 Diablo Road,(877) 750-5480,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+356,Salon 7,7 Front Street,(925) 683-5105,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+357,Hair Graphics,210 East Linda Mesa Avenue,(925) 837-3214,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+358,Sally Ann's Salon,80 Railroad Avenue,(925) 831-9023,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 359,Hunan Yuan,"4100 Redwood Road, Oakland, CA, 94619",(510) 531-1415,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 360,Napoleon's,"3427 Fruitvale Avenue, Oakland, CA, 94602",(510) 479-3487,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 361,The Cutting Place,"Park Boulevard, Oakland, California, 94602 (reverse-geocoded approximate)",(510) 530-8087,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
@@ -376,7 +376,7 @@ Route stop,Business,Address,Phone,Category,Owned website search status,Raw owned
 375,Himalayan Flavors,"1585;1587;1589 University Avenue, Berkeley, California, 94702 (reverse-geocoded approximate)",(510) 704-0174,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 376,Eat @ Thai,"1181 University Avenue, Berkeley, CA",(510) 548-3278,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 377,Marlon Car Repair,"1043 Hearst Avenue, Berkeley",(510) 860-2060,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
-378,Peles Muffler Works,"1085 Eastshore Freeway, 94710",(510) 526-5003,car_repair,MANUAL REVIEW - no owned website found,,"Manual refill review: exact-name web search found only directory/listing pages, no owned website."
+378,Peles Muffler Works,"1085 Eastshore Freeway, 94710",(510) 526-5003,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 379,Seabreeze,"598 University Avenue, Berkeley, CA",(510) 486-8119,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 380,Quince Cafe & Grill,"2228 San Pablo Avenue, Berkeley, CA, 94702",(510) 666-0094,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
 381,Panel craft,"2828 San Pablo Avenue, Berkeley, California, 94702 (reverse-geocoded approximate)",(510) 548-0815,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search

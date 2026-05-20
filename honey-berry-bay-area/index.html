@@ -8,21 +8,23 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#263238;--surface:#f6f0e8;--accent:#b7794f;--ink:#111a1d">
-    <header class="hero">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero">
       <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">HB</span>Honey Berry</span>
         <a href="tel:4089859555">(408) 985-9555</a>
       </nav>
       <div class="hero__content">
-        <p class="eyebrow">cafe</p>
-        <h1>Honey Berry</h1>
-        <p>A direct local landing page for customers searching before they call.</p>
+        <p class="eyebrow motion-item">cafe</p>
+        <h1 class="motion-item">Honey Berry</h1>
+        <p class="hero__lead motion-item">A direct local landing page for customers searching before they call.</p>
+        <p class="hero__focus motion-item">Coffee-shop warmth with fast answers for nearby customers.</p>
         <div class="actions">
-          <a class="button" href="tel:4089859555">Call (408) 985-9555</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Honey%20Berry%203488%20El%20Camino%20Real">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/honeyberry-santa-clara">See profile photos</a>
-        </div>
+          <a class="button motion-item" href="tel:4089859555">Call for menu</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Honey%20Berry%203488%20El%20Camino%20Real">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/honeyberry-santa-clara">See profile photos</a></div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>246</span></span><span class="hero-stat motion-item"><span>Category</span><span>cafe</span></span><span class="hero-stat motion-item"><span>Area</span><span>Bay Area</span></span></div>
       </div>
     </header>
     <main>
@@ -73,5 +75,19 @@
       <span>Honey Berry</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

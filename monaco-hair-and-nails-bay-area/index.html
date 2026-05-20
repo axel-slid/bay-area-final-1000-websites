@@ -8,20 +8,29 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#173b2f;--surface:#fff8ed;--accent:#d1532f;--ink:#172016">
-    <header class="hero">
-      <img src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+    <header class="hero hero--studio" data-hero-pattern="studio-split-hero">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">MH</span>Monaco Hair And Nails</span>
         <a href="tel:9254790999">(925) 479-0999</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">beauty</p>
-        <h1>Monaco Hair And Nails</h1>
-        <p>A polished appointment path for style, care, and repeat clients in Dublin Boulevard.</p>
-        <div class="actions">
-          <a class="button" href="tel:9254790999">Call (925) 479-0999</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Monaco%20Hair%20And%20Nails%2037.7056541%2C-121.8916072">Open map</a>
-          
+      <div class="hero__studio-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">beauty</p>
+          <h1 class="motion-item">Monaco Hair And Nails</h1>
+          <p class="hero__lead motion-item">A polished appointment path for style, care, and repeat clients in Dublin Boulevard.</p>
+          <p class="hero__focus motion-item">A polished appointment page with service-first confidence.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:9254790999">Book by phone</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Monaco%20Hair%20And%20Nails%2037.7056541%2C-121.8916072">Open map</a>
+          </div>
+        </div>
+        <div class="hero-portrait motion-panel">
+          <img src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1800&q=80" alt="" class="hero-portrait__image">
+          <div class="hero-portrait__caption">
+            <span>beauty</span>
+            <span>Dublin Boulevard, Dublin, California, 94588 (reverse-geocoded approximate)</span>
+          </div>
         </div>
       </div>
     </header>
@@ -73,5 +82,19 @@
       <span>Monaco Hair And Nails</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

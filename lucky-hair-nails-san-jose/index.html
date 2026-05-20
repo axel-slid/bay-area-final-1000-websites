@@ -8,20 +8,29 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#181818;--surface:#f4efe6;--accent:#b6854d;--ink:#111111">
-    <header class="hero">
-      <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+    <header class="hero hero--studio" data-hero-pattern="studio-split-hero">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">LH</span>Lucky Hair &amp; Nails</span>
         <a href="tel:4087916289">(408) 791-6289</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">hairdresser</p>
-        <h1>Lucky Hair &amp; Nails</h1>
-        <p>A polished appointment path for style, care, and repeat clients in San Jose.</p>
-        <div class="actions">
-          <a class="button" href="tel:4087916289">Call (408) 791-6289</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Lucky%20Hair%20%26%20Nails%2033%20South%20Jackson%20Avenue%2C%20San%20Jose%2C%20CA%2C%2095116">Open map</a>
-          
+      <div class="hero__studio-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">hairdresser</p>
+          <h1 class="motion-item">Lucky Hair &amp; Nails</h1>
+          <p class="hero__lead motion-item">A polished appointment path for style, care, and repeat clients in San Jose.</p>
+          <p class="hero__focus motion-item">Style-forward appointment flow for repeat neighborhood clients.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:4087916289">Book by phone</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Lucky%20Hair%20%26%20Nails%2033%20South%20Jackson%20Avenue%2C%20San%20Jose%2C%20CA%2C%2095116">Open map</a>
+          </div>
+        </div>
+        <div class="hero-portrait motion-panel">
+          <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1800&q=80" alt="" class="hero-portrait__image">
+          <div class="hero-portrait__caption">
+            <span>hairdresser</span>
+            <span>33 South Jackson Avenue, San Jose, CA, 95116</span>
+          </div>
         </div>
       </div>
     </header>
@@ -73,5 +82,19 @@
       <span>Lucky Hair &amp; Nails</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

@@ -8,21 +8,23 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#21151f;--surface:#fbf3e7;--accent:#c64832;--ink:#140d12">
-    <header class="hero">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero">
       <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">VR</span>Villa Roma Cocktail Lounge</span>
         <a href="tel:6503655060">(650) 365-5060</a>
       </nav>
       <div class="hero__content">
-        <p class="eyebrow">bar</p>
-        <h1>Villa Roma Cocktail Lounge</h1>
-        <p>A direct local landing page for customers searching before they call in Redwood City.</p>
+        <p class="eyebrow motion-item">bar</p>
+        <h1 class="motion-item">Villa Roma Cocktail Lounge</h1>
+        <p class="hero__lead motion-item">A direct local landing page for customers searching before they call in Redwood City.</p>
+        <p class="hero__focus motion-item">Evening-ready presence with calls, maps, and local atmosphere.</p>
         <div class="actions">
-          <a class="button" href="tel:6503655060">Call (650) 365-5060</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Villa%20Roma%20Cocktail%20Lounge%20593%20Woodside%20Road%2C%20Redwood%20City%2C%2094061">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/the-villa-roma-cocktail-lounge-redwood-city">See profile photos</a>
-        </div>
+          <a class="button motion-item" href="tel:6503655060">Call tonight</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Villa%20Roma%20Cocktail%20Lounge%20593%20Woodside%20Road%2C%20Redwood%20City%2C%2094061">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/the-villa-roma-cocktail-lounge-redwood-city">See profile photos</a></div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>49</span></span><span class="hero-stat motion-item"><span>Category</span><span>bar</span></span><span class="hero-stat motion-item"><span>Area</span><span>Redwood City</span></span></div>
       </div>
     </header>
     <main>
@@ -73,5 +75,19 @@
       <span>Villa Roma Cocktail Lounge</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

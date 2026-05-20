@@ -8,21 +8,28 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#263238;--surface:#f3f6f5;--accent:#3f8f8b;--ink:#111a1d">
-    <header class="hero">
+    <header class="hero hero--console" data-hero-pattern="trust-console-hero">
       <img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">SC</span>Spritzers Coffee House</span>
         <a href="tel:5109958644">(510) 995-8644</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">coffee</p>
-        <h1>Spritzers Coffee House</h1>
-        <p>A direct local landing page for customers searching before they call in Alameda.</p>
-        <div class="actions">
-          <a class="button" href="tel:5109958644">Call (510) 995-8644</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Spritzers%20Coffee%20House%20734%20Central%20Avenue%2C%20Alameda%2C%20CA%2C%2094501">Open map</a>
-          
+      <div class="hero__console-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">coffee</p>
+          <h1 class="motion-item">Spritzers Coffee House</h1>
+          <p class="hero__lead motion-item">A direct local landing page for customers searching before they call in Alameda.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:5109958644">Call now</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Spritzers%20Coffee%20House%20734%20Central%20Avenue%2C%20Alameda%2C%20CA%2C%2094501">Open map</a>
+          </div>
         </div>
+        <aside class="hero-console motion-panel">
+          <span class="hero-console__label">Local intake</span>
+          <p>A sharper local web presence for customers in Alameda.</p>
+          <div class="hero-console__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>399</span></span><span class="hero-stat motion-item"><span>Category</span><span>coffee</span></span><span class="hero-stat motion-item"><span>Area</span><span>Alameda</span></span></div>
+        </aside>
       </div>
     </header>
     <main>
@@ -73,5 +80,19 @@
       <span>Spritzers Coffee House</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

@@ -8,21 +8,28 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#263238;--surface:#f3f6f5;--accent:#3f8f8b;--ink:#111a1d">
-    <header class="hero">
+    <header class="hero hero--console" data-hero-pattern="trust-console-hero">
       <img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">PH</span>Prolago Hand Car Wash</span>
         <a href="tel:4082719766">(408) 271-9766</a>
       </nav>
-      <div class="hero__content">
-        <p class="eyebrow">car wash</p>
-        <h1>Prolago Hand Car Wash</h1>
-        <p>A direct local landing page for customers searching before they call in San Jose.</p>
-        <div class="actions">
-          <a class="button" href="tel:4082719766">Call (408) 271-9766</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Prolago%20Hand%20Car%20Wash%2037.3665563%2C-121.900002">Open map</a>
-          <a class="button button--ghost" href="https://www.facebook.com/prolagocarwash/">See profile photos</a>
+      <div class="hero__console-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">car wash</p>
+          <h1 class="motion-item">Prolago Hand Car Wash</h1>
+          <p class="hero__lead motion-item">A direct local landing page for customers searching before they call in San Jose.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:4082719766">Request service</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Prolago%20Hand%20Car%20Wash%2037.3665563%2C-121.900002">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.facebook.com/prolagocarwash/">See profile photos</a></div>
         </div>
+        <aside class="hero-console motion-panel">
+          <span class="hero-console__label">Local intake</span>
+          <p>A sharper local web presence for customers in San Jose.</p>
+          <div class="hero-console__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>209</span></span><span class="hero-stat motion-item"><span>Category</span><span>car wash</span></span><span class="hero-stat motion-item"><span>Area</span><span>San Jose</span></span></div>
+        </aside>
       </div>
     </header>
     <main>
@@ -73,5 +80,19 @@
       <span>Prolago Hand Car Wash</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

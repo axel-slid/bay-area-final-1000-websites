@@ -8,21 +8,23 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body style="--primary:#173b2f;--surface:#fff8ed;--accent:#d1532f;--ink:#172016">
-    <header class="hero">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero">
       <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
-      <nav class="nav">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
         <span class="brand"><span class="brand-mark">MS</span>Maru Sushi</span>
         <a href="tel:4153939911">(415) 393-9911</a>
       </nav>
       <div class="hero__content">
-        <p class="eyebrow">restaurant</p>
-        <h1>Maru Sushi</h1>
-        <p>Menu-first local dining in San Francisco, built for quick calls and pickup decisions.</p>
+        <p class="eyebrow motion-item">restaurant</p>
+        <h1 class="motion-item">Maru Sushi</h1>
+        <p class="hero__lead motion-item">Menu-first local dining in San Francisco, built for quick calls and pickup decisions.</p>
+        <p class="hero__focus motion-item">Food-first storytelling with a clear route to call or visit.</p>
         <div class="actions">
-          <a class="button" href="tel:4153939911">Call (415) 393-9911</a>
-          <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&amp;query=Maru%20Sushi%20529%20Powell%20Street%2C%20San%20Francisco%2C%20CA%2C%2094108">Open map</a>
-          <a class="button button--ghost" href="https://www.yelp.com/biz/maru-sushi-san-francisco">See profile photos</a>
-        </div>
+          <a class="button motion-item" href="tel:4153939911">Call for menu</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Maru%20Sushi%20529%20Powell%20Street%2C%20San%20Francisco%2C%20CA%2C%2094108">Open map</a>
+          <a class="button button--ghost motion-item" href="https://www.yelp.com/biz/maru-sushi-san-francisco">See profile photos</a></div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>818</span></span><span class="hero-stat motion-item"><span>Category</span><span>restaurant</span></span><span class="hero-stat motion-item"><span>Area</span><span>San Francisco</span></span></div>
       </div>
     </header>
     <main>
@@ -73,5 +75,19 @@
       <span>Maru Sushi</span>
       <span>Draft local website generated from public lead data.</span>
     </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
   </body>
 </html>

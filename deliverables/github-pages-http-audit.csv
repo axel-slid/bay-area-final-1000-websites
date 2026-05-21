@@ -30,14 +30,11 @@ Route stop,Business,GitHub Pages link,HTTP status,Audit status
 29,Tammy's Joyeria y Paqueteria,https://axel-slid.github.io/bay-area-final-1000-websites/tammys-joyeria-y-paqueteria-redwood-city/,200,PASS
 30,Chu's Florist & Birds,https://axel-slid.github.io/bay-area-final-1000-websites/chus-florist-birds-redwood-city/,200,PASS
 31,Ray's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/rays-auto-repair-redwood-city/,200,PASS
-32,Stuttgart Motors,https://axel-slid.github.io/bay-area-final-1000-websites/stuttgart-motors-redwood-city/,200,PASS
 33,Castillo's Auto Electric,https://axel-slid.github.io/bay-area-final-1000-websites/castillos-auto-electric-redwood-city/,200,PASS
-34,HK Smog,https://axel-slid.github.io/bay-area-final-1000-websites/hk-smog-redwood-city/,200,PASS
 35,Padilla's Auto Repair,https://axel-slid.github.io/bay-area-final-1000-websites/padillas-auto-repair-redwood-city/,200,PASS
 36,El Camino Auto Body,https://axel-slid.github.io/bay-area-final-1000-websites/el-camino-auto-body-redwood-city/,200,PASS
 37,Beauty Touch Salon,https://axel-slid.github.io/bay-area-final-1000-websites/beauty-touch-salon-redwood-city/,200,PASS
 38,Laluces Dental,https://axel-slid.github.io/bay-area-final-1000-websites/laluces-dental-redwood-city/,200,PASS
-39,US Chinese Food,https://axel-slid.github.io/bay-area-final-1000-websites/us-chinese-food-redwood-city/,200,PASS
 40,Nor Cal Collision,https://axel-slid.github.io/bay-area-final-1000-websites/nor-cal-collision-redwood-city/,200,PASS
 41,Capelli Beauty,https://axel-slid.github.io/bay-area-final-1000-websites/capelli-beauty-redwood-city/,200,PASS
 42,Tacos El Camino,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-el-camino-redwood-city/,200,PASS
@@ -67,7 +64,6 @@ Route stop,Business,GitHub Pages link,HTTP status,Audit status
 66,Nancy's Tailor,https://axel-slid.github.io/bay-area-final-1000-websites/nancys-tailor-los-altos/,200,PASS
 67,The Pho Cabin,https://axel-slid.github.io/bay-area-final-1000-websites/the-pho-cabin-bay-area/,200,PASS
 68,Harold's Jewelry,https://axel-slid.github.io/bay-area-final-1000-websites/harolds-jewelry-los-altos/,200,PASS
-69,Mikado,https://axel-slid.github.io/bay-area-final-1000-websites/mikado-los-altos/,200,PASS
 70,Tacos Al Vapor,https://axel-slid.github.io/bay-area-final-1000-websites/tacos-al-vapor-los-altos/,200,PASS
 71,Ann's Nails,https://axel-slid.github.io/bay-area-final-1000-websites/anns-nails-los-altos/,200,PASS
 72,NAR,https://axel-slid.github.io/bay-area-final-1000-websites/nar-bay-area/,200,PASS
@@ -122,7 +118,6 @@ Route stop,Business,GitHub Pages link,HTTP status,Audit status
 121,La Superior Panadería y Taquería,https://axel-slid.github.io/bay-area-final-1000-websites/la-superior-panaderia-y-taqueria-san-jose/,200,PASS
 122,Straight Edge,https://axel-slid.github.io/bay-area-final-1000-websites/straight-edge-campbell/,200,PASS
 123,T Lashes LLC,https://axel-slid.github.io/bay-area-final-1000-websites/t-lashes-llc-campbell/,200,PASS
-124,Hollywood Nails,https://axel-slid.github.io/bay-area-final-1000-websites/hollywood-nails-bay-area/,200,PASS
 125,Patricia S. Nakamura Electrolysis,https://axel-slid.github.io/bay-area-final-1000-websites/patricia-s-nakamura-electrolysis-bay-area/,200,PASS
 126,the garret,https://axel-slid.github.io/bay-area-final-1000-websites/the-garret-bay-area/,200,PASS
 127,Serendipity Hair Salon,https://axel-slid.github.io/bay-area-final-1000-websites/serendipity-hair-salon-campbell/,200,PASS
@@ -133,7 +128,6 @@ Route stop,Business,GitHub Pages link,HTTP status,Audit status
 132,Spa City,https://axel-slid.github.io/bay-area-final-1000-websites/spa-city-campbell/,200,PASS
 133,Excel Cuts & Nailcare,https://axel-slid.github.io/bay-area-final-1000-websites/excel-cuts-nailcare-san-jose/,200,PASS
 134,Quality Car Care,https://axel-slid.github.io/bay-area-final-1000-websites/quality-car-care-san-jose/,200,PASS
-135,BYLT,https://axel-slid.github.io/bay-area-final-1000-websites/bylt-san-jose/,200,PASS
 136,D&J Auto Center,https://axel-slid.github.io/bay-area-final-1000-websites/dj-auto-center-san-jose/,200,PASS
 137,Venice Nail Salon,https://axel-slid.github.io/bay-area-final-1000-websites/venice-nail-salon-san-jose/,200,PASS
 138,Spartan Autobody Shop,https://axel-slid.github.io/bay-area-final-1000-websites/spartan-autobody-shop-san-jose/,200,PASS

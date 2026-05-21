@@ -30,14 +30,11 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 29,Tammy's Joyeria y Paqueteria,https://bay-area-final-1000-websites.vercel.app/tammys-joyeria-y-paqueteria-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 30,Chu's Florist & Birds,https://bay-area-final-1000-websites.vercel.app/chus-florist-birds-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 31,Ray's Auto Repair,https://bay-area-final-1000-websites.vercel.app/rays-auto-repair-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-32,Stuttgart Motors,https://bay-area-final-1000-websites.vercel.app/stuttgart-motors-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 33,Castillo's Auto Electric,https://bay-area-final-1000-websites.vercel.app/castillos-auto-electric-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-34,HK Smog,https://bay-area-final-1000-websites.vercel.app/hk-smog-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 35,Padilla's Auto Repair,https://bay-area-final-1000-websites.vercel.app/padillas-auto-repair-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 36,El Camino Auto Body,https://bay-area-final-1000-websites.vercel.app/el-camino-auto-body-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 37,Beauty Touch Salon,https://bay-area-final-1000-websites.vercel.app/beauty-touch-salon-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 38,Laluces Dental,https://bay-area-final-1000-websites.vercel.app/laluces-dental-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-39,US Chinese Food,https://bay-area-final-1000-websites.vercel.app/us-chinese-food-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 40,Nor Cal Collision,https://bay-area-final-1000-websites.vercel.app/nor-cal-collision-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 41,Capelli Beauty,https://bay-area-final-1000-websites.vercel.app/capelli-beauty-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 42,Tacos El Camino,https://bay-area-final-1000-websites.vercel.app/tacos-el-camino-redwood-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -67,7 +64,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 66,Nancy's Tailor,https://bay-area-final-1000-websites.vercel.app/nancys-tailor-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 67,The Pho Cabin,https://bay-area-final-1000-websites.vercel.app/the-pho-cabin-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 68,Harold's Jewelry,https://bay-area-final-1000-websites.vercel.app/harolds-jewelry-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-69,Mikado,https://bay-area-final-1000-websites.vercel.app/mikado-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 70,Tacos Al Vapor,https://bay-area-final-1000-websites.vercel.app/tacos-al-vapor-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 71,Ann's Nails,https://bay-area-final-1000-websites.vercel.app/anns-nails-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 72,NAR,https://bay-area-final-1000-websites.vercel.app/nar-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -122,7 +118,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 121,La Superior Panadería y Taquería,https://bay-area-final-1000-websites.vercel.app/la-superior-panaderia-y-taqueria-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 122,Straight Edge,https://bay-area-final-1000-websites.vercel.app/straight-edge-campbell/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 123,T Lashes LLC,https://bay-area-final-1000-websites.vercel.app/t-lashes-llc-campbell/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-124,Hollywood Nails,https://bay-area-final-1000-websites.vercel.app/hollywood-nails-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 125,Patricia S. Nakamura Electrolysis,https://bay-area-final-1000-websites.vercel.app/patricia-s-nakamura-electrolysis-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 126,the garret,https://bay-area-final-1000-websites.vercel.app/the-garret-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 127,Serendipity Hair Salon,https://bay-area-final-1000-websites.vercel.app/serendipity-hair-salon-campbell/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -133,7 +128,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 132,Spa City,https://bay-area-final-1000-websites.vercel.app/spa-city-campbell/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 133,Excel Cuts & Nailcare,https://bay-area-final-1000-websites.vercel.app/excel-cuts-nailcare-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 134,Quality Car Care,https://bay-area-final-1000-websites.vercel.app/quality-car-care-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-135,BYLT,https://bay-area-final-1000-websites.vercel.app/bylt-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 136,D&J Auto Center,https://bay-area-final-1000-websites.vercel.app/dj-auto-center-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 137,Venice Nail Salon,https://bay-area-final-1000-websites.vercel.app/venice-nail-salon-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 138,Spartan Autobody Shop,https://bay-area-final-1000-websites.vercel.app/spartan-autobody-shop-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -182,8 +176,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 181,VK Hair Creations,https://bay-area-final-1000-websites.vercel.app/vk-hair-creations-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 182,The Jelly Donut,https://bay-area-final-1000-websites.vercel.app/the-jelly-donut-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 183,Kristin's Hair Design,https://bay-area-final-1000-websites.vercel.app/kristins-hair-design-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-184,WOW Dental,https://bay-area-final-1000-websites.vercel.app/wow-dental-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-185,Lalas Dental,https://bay-area-final-1000-websites.vercel.app/lalas-dental-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 186,Greathair,https://bay-area-final-1000-websites.vercel.app/greathair-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 187,Jessica’s Beauty Salon,https://bay-area-final-1000-websites.vercel.app/jessicas-beauty-salon-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 188,His 'n Hers Hair,https://bay-area-final-1000-websites.vercel.app/his-n-hers-hair-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -191,9 +183,7 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 190,Chef P's at Seafood City,https://bay-area-final-1000-websites.vercel.app/chef-ps-at-seafood-city-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 191,Arté Boutique,https://bay-area-final-1000-websites.vercel.app/arte-boutique-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 192,Pho Saigon,https://bay-area-final-1000-websites.vercel.app/pho-saigon-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-193,Forever Beauty Hair And Nails,https://bay-area-final-1000-websites.vercel.app/forever-beauty-hair-and-nails-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 194,J&J Luxury Hair And Nails,https://bay-area-final-1000-websites.vercel.app/jj-luxury-hair-and-nails-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-195,Advanced Verterinary Medical Center,https://bay-area-final-1000-websites.vercel.app/advanced-verterinary-medical-center-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 196,M Beauty Salon,https://bay-area-final-1000-websites.vercel.app/m-beauty-salon-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 197,Mama Lupita's,https://bay-area-final-1000-websites.vercel.app/mama-lupitas-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 198,#1 Eyelash & Skin,https://bay-area-final-1000-websites.vercel.app/1-eyelash-skin-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -202,7 +192,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 201,Kim Tar B.B.Q.,https://bay-area-final-1000-websites.vercel.app/kim-tar-bbq-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 202,Ma’s Restaurant,https://bay-area-final-1000-websites.vercel.app/mas-restaurant-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 203,Tiger Tea & Juice,https://bay-area-final-1000-websites.vercel.app/tiger-tea-juice-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-204,Sushi Pro,https://bay-area-final-1000-websites.vercel.app/sushi-pro-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 205,Personalized Vans & Trucks,https://bay-area-final-1000-websites.vercel.app/personalized-vans-trucks-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 206,Mì Quảng Cô Thảo,https://bay-area-final-1000-websites.vercel.app/mi-quang-co-thao-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 207,Diamond Mitsubishi Fuso,https://bay-area-final-1000-websites.vercel.app/diamond-mitsubishi-fuso-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -215,7 +204,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 214,Tire Merchants,https://bay-area-final-1000-websites.vercel.app/tire-merchants-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 215,Maria Asela Caces-Tiamson Inc.,https://bay-area-final-1000-websites.vercel.app/maria-asela-caces-tiamson-inc-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 216,AKW Auto Body & Paint,https://bay-area-final-1000-websites.vercel.app/akw-auto-body-paint-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-217,Taquería “El Caminito”,https://bay-area-final-1000-websites.vercel.app/taqueria-el-caminito-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 218,Tony’s Pool Hall,https://bay-area-final-1000-websites.vercel.app/tonys-pool-hall-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 219,Mikee’s Auto Repair,https://bay-area-final-1000-websites.vercel.app/mikees-auto-repair-san-jose/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 220,LTM Smog & Repair,https://bay-area-final-1000-websites.vercel.app/ltm-smog-repair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -247,7 +235,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 246,Honey Berry,https://bay-area-final-1000-websites.vercel.app/honey-berry-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 247,미주부동산,https://bay-area-final-1000-websites.vercel.app/santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 248,Ga-In Beauty Salon,https://bay-area-final-1000-websites.vercel.app/ga-in-beauty-salon-santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-249,Santa Clara Tint Wrap & Carpet Coloring,https://bay-area-final-1000-websites.vercel.app/santa-clara-tint-wrap-carpet-coloring-santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 250,Jeff's Garage,https://bay-area-final-1000-websites.vercel.app/jeffs-garage-santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 251,Nu-Way Tool Supply,https://bay-area-final-1000-websites.vercel.app/nu-way-tool-supply-santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 252,Sassy Nail,https://bay-area-final-1000-websites.vercel.app/sassy-nail-santa-clara/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -273,7 +260,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 272,Sonam House Of Indian Fashion,https://bay-area-final-1000-websites.vercel.app/sonam-house-of-indian-fashion-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 273,Bleu de Beaute,https://bay-area-final-1000-websites.vercel.app/bleu-de-beaute-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 274,Taste Good Beijing Duck,https://bay-area-final-1000-websites.vercel.app/taste-good-beijing-duck-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-275,Sen Dai Sushi,https://bay-area-final-1000-websites.vercel.app/sen-dai-sushi-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 276,Donut Basket,https://bay-area-final-1000-websites.vercel.app/donut-basket-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 277,Taiwan Cafe,https://bay-area-final-1000-websites.vercel.app/taiwan-cafe-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 278,Jeanne's Nail Spa,https://bay-area-final-1000-websites.vercel.app/jeannes-nail-spa-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -285,17 +271,13 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 284,Tina's Hair Design,https://bay-area-final-1000-websites.vercel.app/tinas-hair-design-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 285,Calaveras Family Dentistry,https://bay-area-final-1000-websites.vercel.app/calaveras-family-dentistry-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 286,BBH Noodle,https://bay-area-final-1000-websites.vercel.app/bbh-noodle-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-287,Be My Nails,https://bay-area-final-1000-websites.vercel.app/be-my-nails-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 288,Christy's Donuts,https://bay-area-final-1000-websites.vercel.app/christys-donuts-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 289,Victoria Hair & Nails,https://bay-area-final-1000-websites.vercel.app/victoria-hair-nails-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 290,Chez Christina,https://bay-area-final-1000-websites.vercel.app/chez-christina-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 291,The Pizza Box,https://bay-area-final-1000-websites.vercel.app/the-pizza-box-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-292,MM Barbershop,https://bay-area-final-1000-websites.vercel.app/mm-barbershop-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 293,I Nails,https://bay-area-final-1000-websites.vercel.app/i-nails-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-294,Loved And Lashed,https://bay-area-final-1000-websites.vercel.app/loved-and-lashed-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 295,Allianace Dental Center,https://bay-area-final-1000-websites.vercel.app/allianace-dental-center-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 296,Bliss Beauty & Spa,https://bay-area-final-1000-websites.vercel.app/bliss-beauty-spa-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-297,Chick & Tea,https://bay-area-final-1000-websites.vercel.app/chick-tea-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 298,Gao's Kabob & Crab,https://bay-area-final-1000-websites.vercel.app/gaos-kabob-crab-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 299,Shing's Hair Studio,https://bay-area-final-1000-websites.vercel.app/shings-hair-studio-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 300,Beauty Touch,https://bay-area-final-1000-websites.vercel.app/beauty-touch-milpitas/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -317,7 +299,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 316,Top Hair Cut & Salon,https://bay-area-final-1000-websites.vercel.app/top-hair-cut-salon-fremont/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 317,"Amy B. Wong, D.D.S.",https://bay-area-final-1000-websites.vercel.app/amy-b-wong-dds-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 318,Doan's Hair & Spa,https://bay-area-final-1000-websites.vercel.app/doans-hair-spa-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-319,Sushi Ken,https://bay-area-final-1000-websites.vercel.app/sushi-ken-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 320,Sleek Salon,https://bay-area-final-1000-websites.vercel.app/sleek-salon-fremont/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 321,Stela's Hair Salon,https://bay-area-final-1000-websites.vercel.app/stelas-hair-salon-fremont/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 322,Mary’s Barbershop,https://bay-area-final-1000-websites.vercel.app/marys-barbershop-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -338,7 +319,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 337,Tri-Valley Mufflers,https://bay-area-final-1000-websites.vercel.app/tri-valley-mufflers-dublin/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 338,Zorba Automotive,https://bay-area-final-1000-websites.vercel.app/zorba-automotive-dublin/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 339,Beauty Hair and Nails,https://bay-area-final-1000-websites.vercel.app/beauty-hair-and-nails-dublin/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-340,Mad for Sushi,https://bay-area-final-1000-websites.vercel.app/mad-for-sushi-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 341,Sodam,https://bay-area-final-1000-websites.vercel.app/sodam-dublin/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 342,Bagel Bakery,https://bay-area-final-1000-websites.vercel.app/bagel-bakery-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 343,Tofu House,https://bay-area-final-1000-websites.vercel.app/tofu-house-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -365,7 +345,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 364,Young's Automotive,https://bay-area-final-1000-websites.vercel.app/youngs-automotive-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 365,Better Cuts Salon,https://bay-area-final-1000-websites.vercel.app/better-cuts-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 366,Siamese Dream,https://bay-area-final-1000-websites.vercel.app/siamese-dream-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-367,Organic Greens,https://bay-area-final-1000-websites.vercel.app/organic-greens-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 368,Frank's Tailoring,https://bay-area-final-1000-websites.vercel.app/franks-tailoring-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 369,My-O-My,https://bay-area-final-1000-websites.vercel.app/my-o-my-berkeley/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 370,Polished Nail Salon,https://bay-area-final-1000-websites.vercel.app/polished-nail-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -450,7 +429,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 449,Phở Pasteur,https://bay-area-final-1000-websites.vercel.app/pho-pasteur-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 450,Dragon House,https://bay-area-final-1000-websites.vercel.app/dragon-house-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 451,Lechon Manila,https://bay-area-final-1000-websites.vercel.app/lechon-manila-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-452,New York Pizza & Kabob,https://bay-area-final-1000-websites.vercel.app/new-york-pizza-kabob-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 453,Cấm Hương Sandwiches,https://bay-area-final-1000-websites.vercel.app/cam-huong-sandwiches-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 454,King Calamari,https://bay-area-final-1000-websites.vercel.app/king-calamari-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 455,"Family Dental Care - Romeo S. Bautista, D.M.D.",https://bay-area-final-1000-websites.vercel.app/family-dental-care-romeo-s-bautista-dmd-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -458,7 +436,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 457,Imagine Hair Beauty Salon,https://bay-area-final-1000-websites.vercel.app/imagine-hair-beauty-salon-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 458,Che Lo,https://bay-area-final-1000-websites.vercel.app/che-lo-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 459,Pinky's Nails and Spa,https://bay-area-final-1000-websites.vercel.app/pinkys-nails-and-spa-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-460,Family Dentistry - Dr. Tran & Associates,https://bay-area-final-1000-websites.vercel.app/family-dentistry-dr-tran-associates-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 461,Parilya,https://bay-area-final-1000-websites.vercel.app/parilya-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 462,Bar Bay Grill,https://bay-area-final-1000-websites.vercel.app/bar-bay-grill-union-city/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 463,Kim's Hair Salon,https://bay-area-final-1000-websites.vercel.app/kims-hair-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -482,7 +459,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 481,Hunan Mifen Chinese Rice Noodles,https://bay-area-final-1000-websites.vercel.app/hunan-mifen-chinese-rice-noodles-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 482,Lakewood Dental Care,https://bay-area-final-1000-websites.vercel.app/lakewood-dental-care-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 483,Amazing Cuts,https://bay-area-final-1000-websites.vercel.app/amazing-cuts-sunnyvale/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-484,Bagel Street Cafe,https://bay-area-final-1000-websites.vercel.app/bagel-street-cafe-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 485,Alpha Barbershop,https://bay-area-final-1000-websites.vercel.app/alpha-barbershop-sunnyvale/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 486,Roger's DELI & DONUTS,https://bay-area-final-1000-websites.vercel.app/rogers-deli-donuts-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 487,Salon Finesse,https://bay-area-final-1000-websites.vercel.app/salon-finesse-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -495,7 +471,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 494,Ramen Izakaya Yu-Gen,https://bay-area-final-1000-websites.vercel.app/ramen-izakaya-yu-gen-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 495,Dr. Yvette Tan Antonio Family Dentistry,https://bay-area-final-1000-websites.vercel.app/dr-yvette-tan-antonio-family-dentistry-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 496,Bailey Beauty Salon,https://bay-area-final-1000-websites.vercel.app/bailey-beauty-salon-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-497,Sushi Jin,https://bay-area-final-1000-websites.vercel.app/sushi-jin-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 498,Star Nail Spa,https://bay-area-final-1000-websites.vercel.app/star-nail-spa-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 499,Beauty Salon Haircut,https://bay-area-final-1000-websites.vercel.app/beauty-salon-haircut-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 500,Mercedes Benz Repair,https://bay-area-final-1000-websites.vercel.app/mercedes-benz-repair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -506,8 +481,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 505,D'Cache Beauty Salon,https://bay-area-final-1000-websites.vercel.app/dcache-beauty-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 506,Emergency Animal Care,https://bay-area-final-1000-websites.vercel.app/emergency-animal-care-mountain-view/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 507,Esther's German Restaurant,https://bay-area-final-1000-websites.vercel.app/esthers-german-restaurant-los-altos/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-508,A Good Morning,https://bay-area-final-1000-websites.vercel.app/a-good-morning-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-509,Amici,https://bay-area-final-1000-websites.vercel.app/amici-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 510,The Sea by Alexander's Steakhouse,https://bay-area-final-1000-websites.vercel.app/the-sea-by-alexanders-steakhouse-palo-alto/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 511,Palo Alto Advanced Dentists,https://bay-area-final-1000-websites.vercel.app/palo-alto-advanced-dentists-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 512,Sushi Tomo,https://bay-area-final-1000-websites.vercel.app/sushi-tomo-palo-alto/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -572,7 +545,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 571,The Pantry,https://bay-area-final-1000-websites.vercel.app/the-pantry-san-mateo/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 572,Bucky’s Cocktail Lounge,https://bay-area-final-1000-websites.vercel.app/buckys-cocktail-lounge-san-mateo/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 573,Spiedo Restaurant,https://bay-area-final-1000-websites.vercel.app/spiedo-restaurant-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-574,Izakaya Mai,https://bay-area-final-1000-websites.vercel.app/izakaya-mai-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 575,Gosch Bros Auto Pros,https://bay-area-final-1000-websites.vercel.app/gosch-bros-auto-pros-san-mateo/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 576,L'Vian Boutique,https://bay-area-final-1000-websites.vercel.app/lvian-boutique-burlingame/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 577,V&V Nails,https://bay-area-final-1000-websites.vercel.app/vv-nails-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -581,7 +553,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 580,San Bruno Transmission & Auto Repair,https://bay-area-final-1000-websites.vercel.app/san-bruno-transmission-auto-repair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 581,Fil-Am Cuisine 2,https://bay-area-final-1000-websites.vercel.app/fil-am-cuisine-2-south-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 582,South City Hair,https://bay-area-final-1000-websites.vercel.app/south-city-hair-south-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-583,Melissa's Taqueria,https://bay-area-final-1000-websites.vercel.app/melissas-taqueria-brisbane/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 584,Round N Round Pot,https://bay-area-final-1000-websites.vercel.app/round-n-round-pot-brisbane/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 585,Pupuseria El Golazo,https://bay-area-final-1000-websites.vercel.app/pupuseria-el-golazo-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 586,Tikal,https://bay-area-final-1000-websites.vercel.app/tikal-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -613,7 +584,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 612,Choice Yakiniku,https://bay-area-final-1000-websites.vercel.app/choice-yakiniku-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 613,Of Barbers and Bears,https://bay-area-final-1000-websites.vercel.app/of-barbers-and-bears-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 614,Noe Bagels,https://bay-area-final-1000-websites.vercel.app/noe-bagels-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-615,Dumpling Kitchen,https://bay-area-final-1000-websites.vercel.app/dumpling-kitchen-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 616,Hillside Laundromat,https://bay-area-final-1000-websites.vercel.app/hillside-laundromat-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 617,Esperpento,https://bay-area-final-1000-websites.vercel.app/esperpento-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 618,Ezzo Rotisserie,https://bay-area-final-1000-websites.vercel.app/ezzo-rotisserie-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -622,7 +592,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 621,El Rinconcito Nicaraguense,https://bay-area-final-1000-websites.vercel.app/el-rinconcito-nicaraguense-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 622,Eddy's Tax and Accounting,https://bay-area-final-1000-websites.vercel.app/eddys-tax-and-accounting-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 623,Lian Nails,https://bay-area-final-1000-websites.vercel.app/lian-nails-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-624,Ariel’s Breakfast Mi Yucatan,https://bay-area-final-1000-websites.vercel.app/ariels-breakfast-mi-yucatan-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 625,Hollywood Beauty Salon,https://bay-area-final-1000-websites.vercel.app/hollywood-beauty-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 626,The Phone Booth,https://bay-area-final-1000-websites.vercel.app/the-phone-booth-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 627,Pepe’s Auto Repair,https://bay-area-final-1000-websites.vercel.app/pepes-auto-repair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -630,7 +599,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 629,Las Brisas de Acapulco,https://bay-area-final-1000-websites.vercel.app/las-brisas-de-acapulco-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 630,Eco Jewelers,https://bay-area-final-1000-websites.vercel.app/eco-jewelers-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 631,Healthy Nails,https://bay-area-final-1000-websites.vercel.app/healthy-nails-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-632,Taqueria Can-Cún,https://bay-area-final-1000-websites.vercel.app/taqueria-can-cun-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 633,Royal Cuckoo,https://bay-area-final-1000-websites.vercel.app/royal-cuckoo-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 634,Brown Bear Realty,https://bay-area-final-1000-websites.vercel.app/brown-bear-realty-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 635,LP Decorative Plumbing,https://bay-area-final-1000-websites.vercel.app/lp-decorative-plumbing-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -684,7 +652,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 683,Pete's Launderette & Cleaners,https://bay-area-final-1000-websites.vercel.app/petes-launderette-cleaners-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 684,Martuni's,https://bay-area-final-1000-websites.vercel.app/martunis-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 685,Nail Art iSF,https://bay-area-final-1000-websites.vercel.app/nail-art-isf-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-686,Zip Zap Hair,https://bay-area-final-1000-websites.vercel.app/zip-zap-hair-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 687,Taquería Estrella,https://bay-area-final-1000-websites.vercel.app/taqueria-estrella-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 688,Di Ciccio,https://bay-area-final-1000-websites.vercel.app/di-ciccio-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 689,Shanghai Dumpling King,https://bay-area-final-1000-websites.vercel.app/shanghai-dumpling-king-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -703,7 +670,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 702,Cole Valley Nail Salon,https://bay-area-final-1000-websites.vercel.app/cole-valley-nail-salon-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 703,Hugo Street Launderette,https://bay-area-final-1000-websites.vercel.app/hugo-street-launderette-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 704,The Yellow Submarine,https://bay-area-final-1000-websites.vercel.app/the-yellow-submarine-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-705,May Lee's Restaurant,https://bay-area-final-1000-websites.vercel.app/may-lees-restaurant-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 706,Lisa's Lash,https://bay-area-final-1000-websites.vercel.app/lisas-lash-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 707,Banh Mi Crunch,https://bay-area-final-1000-websites.vercel.app/banh-mi-crunch-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 708,Salon J,https://bay-area-final-1000-websites.vercel.app/salon-j-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -715,7 +681,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 714,Green Spa & Nail,https://bay-area-final-1000-websites.vercel.app/green-spa-nail-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 715,Gentle Nail Salon,https://bay-area-final-1000-websites.vercel.app/gentle-nail-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 716,Pasquale's,https://bay-area-final-1000-websites.vercel.app/pasquales-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-717,Street Taco,https://bay-area-final-1000-websites.vercel.app/street-taco-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 718,Yancy's Saloon,https://bay-area-final-1000-websites.vercel.app/yancys-saloon-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 719,Qing Shu,https://bay-area-final-1000-websites.vercel.app/qing-shu-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 720,New Eritrean Restaurant & Bar,https://bay-area-final-1000-websites.vercel.app/new-eritrean-restaurant-bar-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -776,7 +741,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 775,Hair Touch,https://bay-area-final-1000-websites.vercel.app/hair-touch-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 776,"Yan Kalika D.M.D., M.S.",https://bay-area-final-1000-websites.vercel.app/yan-kalika-dmd-ms-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 777,Sohn & Song Accountancy Corp.,https://bay-area-final-1000-websites.vercel.app/sohn-song-accountancy-corp-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-778,Club Waziema,https://bay-area-final-1000-websites.vercel.app/club-waziema-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 779,Katsuo+Kombu,https://bay-area-final-1000-websites.vercel.app/katsuokombu-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 780,NewBills Barbershop & Salon,https://bay-area-final-1000-websites.vercel.app/newbills-barbershop-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 781,Sung's Automotive,https://bay-area-final-1000-websites.vercel.app/sungs-automotive-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -792,8 +756,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 791,La Fina Estampa,https://bay-area-final-1000-websites.vercel.app/la-fina-estampa-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 792,Route 101,https://bay-area-final-1000-websites.vercel.app/route-101-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 793,Fingertips,https://bay-area-final-1000-websites.vercel.app/fingertips-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-794,Village Pizzeria,https://bay-area-final-1000-websites.vercel.app/village-pizzeria-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-795,Wok Shop Cafe,https://bay-area-final-1000-websites.vercel.app/wok-shop-cafe-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 796,Piroo,https://bay-area-final-1000-websites.vercel.app/piroo-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 797,Wen's Kitchen,https://bay-area-final-1000-websites.vercel.app/wens-kitchen-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 798,Armando for Hair,https://bay-area-final-1000-websites.vercel.app/armando-for-hair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -829,7 +791,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 828,Costa Del Sol Tanning,https://bay-area-final-1000-websites.vercel.app/costa-del-sol-tanning-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 829,Lady Goldfingers,https://bay-area-final-1000-websites.vercel.app/lady-goldfingers-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 830,Hair Future,https://bay-area-final-1000-websites.vercel.app/hair-future-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-831,CC Nail Spa,https://bay-area-final-1000-websites.vercel.app/cc-nail-spa-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 832,Cordon Bleu,https://bay-area-final-1000-websites.vercel.app/cordon-bleu-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 833,Lan's Formal Wear,https://bay-area-final-1000-websites.vercel.app/lans-formal-wear-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 834,Zee Continental Jewelry,https://bay-area-final-1000-websites.vercel.app/zee-continental-jewelry-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -849,7 +810,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 848,Yan Yang Beauty Salon,https://bay-area-final-1000-websites.vercel.app/yan-yang-beauty-salon-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 849,Ha Tea,https://bay-area-final-1000-websites.vercel.app/ha-tea-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 850,Jenny Hair Salon,https://bay-area-final-1000-websites.vercel.app/jenny-hair-salon-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-851,A Salon,https://bay-area-final-1000-websites.vercel.app/a-salon-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 852,Joy's Hair Salon,https://bay-area-final-1000-websites.vercel.app/joys-hair-salon-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 853,Lucky Creation,https://bay-area-final-1000-websites.vercel.app/lucky-creation-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 854,Sweetheart Cafe,https://bay-area-final-1000-websites.vercel.app/sweetheart-cafe-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -884,7 +844,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 883,Ravi,https://bay-area-final-1000-websites.vercel.app/ravi-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 884,Yee Hing Clothing Store,https://bay-area-final-1000-websites.vercel.app/yee-hing-clothing-store-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 885,Yummy Bakery & Cafe,https://bay-area-final-1000-websites.vercel.app/yummy-bakery-cafe-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-886,Brioche Bakery & Cafe,https://bay-area-final-1000-websites.vercel.app/brioche-bakery-cafe-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 887,"Oriental Shopping Center, Inc",https://bay-area-final-1000-websites.vercel.app/oriental-shopping-center-inc-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 888,Yummy Yummy,https://bay-area-final-1000-websites.vercel.app/yummy-yummy-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 889,Little Paris,https://bay-area-final-1000-websites.vercel.app/little-paris-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -896,7 +855,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 895,Ann's For Hair,https://bay-area-final-1000-websites.vercel.app/anns-for-hair-columbus-avenue/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 896,Water Lily Cleaners,https://bay-area-final-1000-websites.vercel.app/water-lily-cleaners-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 897,DeLise Dessert cafe,https://bay-area-final-1000-websites.vercel.app/delise-dessert-cafe-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-898,Swiss Louis,https://bay-area-final-1000-websites.vercel.app/swiss-louis-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 899,The Chowder Hut Grill,https://bay-area-final-1000-websites.vercel.app/the-chowder-hut-grill-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 900,Tanguito,https://bay-area-final-1000-websites.vercel.app/tanguito-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 901,Little Kitchen,https://bay-area-final-1000-websites.vercel.app/little-kitchen-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -916,7 +874,6 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 915,Moku Yakitori,https://bay-area-final-1000-websites.vercel.app/moku-yakitori-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 916,SF Smiles Dental,https://bay-area-final-1000-websites.vercel.app/sf-smiles-dental-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 917,May's Hair Design,https://bay-area-final-1000-websites.vercel.app/mays-hair-design-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-918,Sewa,https://bay-area-final-1000-websites.vercel.app/sewa-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 919,Chongqing Hot Pot,https://bay-area-final-1000-websites.vercel.app/chongqing-hot-pot-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 920,Lime Tree,https://bay-area-final-1000-websites.vercel.app/lime-tree-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 921,Fairy Lake Aquarium,https://bay-area-final-1000-websites.vercel.app/fairy-lake-aquarium-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
@@ -925,13 +882,11 @@ Route stop,Business,Vercel link,HTTP status,Audit status,Notes
 924,Pho Huong Viet,https://bay-area-final-1000-websites.vercel.app/pho-huong-viet-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 925,Nail Care by Theresa,https://bay-area-final-1000-websites.vercel.app/nail-care-by-theresa-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 926,An Chi,https://bay-area-final-1000-websites.vercel.app/an-chi-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-927,Qué Chulada,https://bay-area-final-1000-websites.vercel.app/que-chulada-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 928,Izakaya Mayumi,https://bay-area-final-1000-websites.vercel.app/izakaya-mayumi-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 929,Kayo Hair,https://bay-area-final-1000-websites.vercel.app/kayo-hair-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 930,Fuku Ramen,https://bay-area-final-1000-websites.vercel.app/fuku-ramen-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 931,Little Sushi Bar,https://bay-area-final-1000-websites.vercel.app/little-sushi-bar-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 932,Blossom Beauty Salon & Spa,https://bay-area-final-1000-websites.vercel.app/blossom-beauty-salon-spa-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
-933,Chef Xiong Kitchen,https://bay-area-final-1000-websites.vercel.app/chef-xiong-kitchen-san-francisco/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 934,Ruby's Cut,https://bay-area-final-1000-websites.vercel.app/rubys-cut-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 935,Star East,https://bay-area-final-1000-websites.vercel.app/star-east-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.
 936,Geary Cafe,https://bay-area-final-1000-websites.vercel.app/geary-cafe-bay-area/,PENDING DEPLOY RECHECK,PENDING,URL regenerated; live HTTP check should run after deployment.

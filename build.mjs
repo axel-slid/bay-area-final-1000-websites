@@ -84,15 +84,15 @@ fs.writeFileSync(
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bay Area Final 1000 Websites</title>
+  <title>Bay Area Filtered Websites</title>
   <style>
     *{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f8fafc;color:#111827;line-height:1.5;font-weight:400}header{padding:48px clamp(20px,5vw,72px);background:#111827;color:white}h1{margin:0;font-size:clamp(36px,5vw,72px);line-height:.95;letter-spacing:0}header p{max-width:760px;font-size:18px;color:#d1d5db}main{padding:32px clamp(20px,5vw,72px)}ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}a{display:block;min-height:88px;padding:16px;background:white;border:1px solid #e5e7eb;color:#111827;text-decoration:none}a:hover{border-color:#111827}span{display:block}.business-name{font-size:16px;color:#111827}a span+span{margin-top:8px;color:#64748b;font-size:14px}
   </style>
 </head>
 <body>
   <header>
-    <h1>Bay Area Final 1000 Websites</h1>
-    <p>Static bundle of 1000 generated local-business websites from verified no-owned-website leads within the San Carlos driving region.</p>
+    <h1>Bay Area Filtered Websites</h1>
+    <p>Static bundle of ${rows.length} generated local-business websites after removing Google-audited existing-website matches.</p>
   </header>
   <main><ul>${cards}</ul></main>
 </body>

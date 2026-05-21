@@ -1,0 +1,1001 @@
+Route stop,Business,Address,Phone,Category,Owned website search status,Raw owned-site candidate,Raw hit review note
+1,Plantation Coffee Roastery,784 Laurel Street,(650) 592-3710,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+2,Elegant Hair & Nail Salon,"1344 El Camino Real, San Carlos, CA, 94070",(650) 593-5936,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+3,Hair Pro,"912 Whipple Avenue, Redwood City, CA, 94063",(650) 367-8010,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+4,Estampas Peruanas,"715 El Camino Real, Redwood City",(650) 368-9340,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+5,Fabulous Hair & Nails,"2740 Broadway, Redwood City",(650) 556-9993,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+6,Shiny Nails,"2649 Broadway, Redwood City, 94063",(650) 366-1077,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+7,Naranjo's Taqueria,"2647 Broadway, Redwood City, 94063",(650) 369-9196,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+8,Peninsula Uniforms & Equipment,"2626 Broadway, Redwood City, 94063",(650) 701-0911,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+9,Kemuri Japanese Barú,"2616 Broadway, Redwood City, 94063",(650) 298-0015,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+10,Bluefin Sushi & Teriyaki Grill,"2327 Broadway, Redwood City, 94063",(650) 361-1160,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+11,Découpage Hair,"2317 Broadway, Redwood City, 94063",(415) 730-7843,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+12,Memole & Company,"2317 Broadway Street, Redwood City, 94063",(650) 367-7128,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+13,Perfect 10 Nails,"1049 El Camino Real, Redwood City, 94063",(650) 216-7266,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+14,Happy Donuts,"1330 El Camino Real, Redwood City, 94063",(650) 365-6585,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+15,Perfectly Cut,"1408 El Camino Real, Redwood City, 94063",(650) 839-0130,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+16,Muffler Express,"1414 El Camino Real, Redwood City, 94063",(650) 369-1076,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+17,Lynn Auto Machine,"1428 El Camino Real, Redwood City, 94063",(650) 369-7200,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+18,Nails Trix Salon,"1540 El Camino Real, Redwood City, 94063",(650) 365-3822,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+19,Primo Auto Service,"1612 El Camino Real, Redwood City, 94063",(510) 827-0346,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+20,Wash & Dry Coin Laundry,"1708 El Camino Real, Redwood City, 94063",(650) 369-8397,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+21,Faby's Jewelers,"1710 El Camino Real, Redwood City, 94063",(650) 368-4449,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+22,Los Temos Taqueria,"1714 El Camino Real, Redwood City, 94063",(650) 780-0979,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+23,Languren's Beauty Salon,"1752 El Camino Real, Redwood City, 94063",(650) 366-0980,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+24,El Zarape,"1808 El Camino Real, Redwood City, 94063",(650) 363-1397,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+25,Elio's Jewelry,"411b Lathrop Street, Redwood City, 94063",(650) 701-1060,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+26,Ben's Auto Tech,"413 Lathrop Street, Redwood City, 94063",(650) 369-3022,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+27,Family Wash and Fold,"1906 El Camino Real, Redwood City, 94063",(650) 299-9511,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+28,F.C. Painting,"45 Hazel Avenue, Redwood City, 94061",(650) 592-8531,painter,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+29,Tammy's Joyeria y Paqueteria,"2315 El Camino Real, Redwood City, 94063",(650) 366-8420,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+30,Chu's Florist & Birds,"2325 El Camino Real, Redwood City, 94063",(650) 368-1613,florist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+31,Ray's Auto Repair,"2333 El Camino Real, Redwood City, 94063",(650) 367-8218,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+32,Stuttgart Motors,"2315 El Camino Real, Redwood City, 94063",(650) 364-2989,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+33,Castillo's Auto Electric,"24 Willow Street, Redwood City, 94063",(650) 361-8705,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+34,HK Smog,"24 Willow Street, Redwood City, 94063",(650) 216-0051,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+35,Padilla's Auto Repair,"24 Willow Street, Redwood City, 94063",(650) 364-2930,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+36,El Camino Auto Body,"51 Charter Street, Redwood City, 94063",(650) 364-7039,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+37,Beauty Touch Salon,"2460 El Camino Real, Redwood City, 94063",(650) 368-8194,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+38,Laluces Dental,"2480 El Camino Real, Redwood City, 94063",(650) 216-8488,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+39,US Chinese Food,"2490 El Camino Real, Redwood City, 94063",(650) 364-7782,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+40,Nor Cal Collision,"2504B El Camino Real, Redwood City, 94061",(650) 369-3368,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+41,Capelli Beauty,"2567 El Camino Real, Redwood City, 94061",(650) 363-8966,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+42,Tacos El Camino,"2627 El Camino Real, Redwood City, 94061",(650) 366-3630,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+43,KY's Auto Repair,"2633 El Camino Real, Redwood City, 94061",(650) 364-7766,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+44,La Costa,"2761 El Camino Real, Redwood City, 94061",(650) 261-0590,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+45,New Age Hair & Nail Spa,"2773 El Camino Real, Redwood City, 94061",(650) 261-1278,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+46,Karlita's Taco Place,"512 Woodside Road, Redwood City, 94061",(650) 364-8612,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+47,Men Haircuts by Lilian,"593 Woodside Road, Redwood City, 94061",(650) 365-3563,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+48,Diner Japonica,"593 Woodside Road, Redwood City, 94061",(650) 364-4649,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+49,Villa Roma Cocktail Lounge,"593 Woodside Road, Redwood City, 94061",(650) 365-5060,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+50,Family Hair Salon,"736 Woodside Road, Redwood City, 94061",(650) 368-3870,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+51,Nancy's Nails,"738 Woodside Road, Redwood City, 94061",(650) 369-4386,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+52,Clean Wash,"742 Woodside Road, Redwood City, 94061",(650) 369-5204,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+53,Pho Truong Long,"756 Woodside Road, Redwood City, 94061",(650) 369-3767,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+54,Precious Nails,"760 Woodside Road, Redwood City, 94061",(650) 368-1488,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+55,Reflections Hair Design,"830 Woodside Road, Redwood City, 94061",(650) 568-3370,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+56,One on One Fiteness,"830 Woodside Road, Redwood City, 94061",(650) 364-4873,fitness_centre,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+57,King's Court Barber Salon,"842 Woodside Road, Redwood City, 94061",(650) 365-4247,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+58,Bravo! Taqueria,"980 Woodside Road, Redwood City, 94061",(650) 364-3511,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+59,Diane's Salon,"3130 Alpine Road, Portola Valley, 94028",(650) 854-6544,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+60,KJ's Cafe,"12345 El Monte Road, Los Altos Hills, CA, 94022",(650) 949-7727,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+61,Tammy Salon,387,(650) 949-4675,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+62,Paris Tailor,"353 Main Street, Los Altos, CA, 94022",(650) 941-6604,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+63,La Venus,"363 Main Street, Los Altos, CA, 94022",(650) 947-1336,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+64,Cambric Ltd,197,(650) 941-2106,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+65,"Curtis Miyahara, DMD","129 2nd Street, Los Altos, 94022",(650) 948-1183,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+66,Nancy's Tailor,"220 State Street, Los Altos, CA, 94022",(650) 917-1648,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+67,The Pho Cabin,200,(650) 917-1328,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+68,Harold's Jewelry,"164 Main Street, Los Altos, CA, 94022",(650) 948-9395,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+69,Mikado,"161 Main Street, Los Altos",(650) 917-8388,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+70,Tacos Al Vapor,"131 Main Street, Los Altos, ca, 94022",(650) 619-9431,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+71,Ann's Nails,"105 Main Street, Los Altos, CA, 94022",(650) 949-2446,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+72,NAR,286 West El Camino Real,(650) 226-7900,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+73,ICON Wintow Tint,"101 East El Camino Real, Mountain View, CA, 94040",(650) 669-7722,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+74,"Liem Tran, DDS",805 East El Camino Real,(650) 254-1436,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+75,Sunny Beauty Salon & Nails,"1173 West El Camino Real, Sunnyvale, CA, 94087",(408) 732-6218,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+76,Lozano's Brushless Car Wash,"610 Grape Avenue, Sunnyvale, CA, 94087",(408) 245-7737,car_wash,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+77,TC Accounting,"510 South Mathilda Avenue, Sunnyvale, CA",(408) 736-0777,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+78,Noodle Talk,150 West El Camino Real,(408) 530-0156,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+79,Hendy Auto Services,111 North Sunnyvale Avenue,(408) 738-1916,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+80,TJ Automotive,"135 North Wolfe Road, Sunnyvale, CA, 94086",(408) 773-0710,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+81,Famous Food Restaurant,872 Old San Francisco Road,(408) 738-3388,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+82,Taqueria Patzcuaro,"603 Old San Francisco Road, Sunnyvale, CA, 94086",(408) 469-1228,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+83,Pearly Bright Dental,"1110 Sunnyvale-Saratoga Road, Sunnyvale, California, 94087 (reverse-geocoded approximate)",(408) 736-6688,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+84,Thai pepper cuisine,"103 East Fremont Avenue, Sunnyvale, 94087",(408) 739-7717,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+85,Super Burrito,"1671 Hollenbeck Avenue, Sunnyvale, 94087",(408) 737-7791,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+86,Bento Express,"1677 Hollenbeck Avenue, 94087",(408) 720-0072,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+87,Tasty Pizza,"21000 Stevens Creek Boulevard, Cupertino, CA, 95014",(408) 816-8800,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+88,The X-Pot,"20950 Stevens Creek Boulevard, Cupertino, 95014-2122",(408) 703-3247,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+89,Hummingbird Day Spa,"10601 South De Anza Boulevard, Cupertino, CA, 95014-4451",(408) 320-1558,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+90,"John K. S. Tong, D.D.S.","10311 South De Anza Boulevard, Cupertino, CA, 95014-3028",(408) 996-8000,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+91,Sushi Kuni,"10211 South De Anza Boulevard, Cupertino, CA, 95014-3007",(408) 257-5864,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+92,Calihair,"20387 Stevens Creek Boulevard, Cupertino, CA, 95014",(408) 873-7661,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+93,"Family & Cosmetic Dentistry Ellen Peng, D.d.s.","19668 Stevens Creek Boulevard, 95014",(408) 257-8838,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+94,Nails A-1,"5175 Moorpark Avenue, San Jose, 95129",(408) 253-4663,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+95,Royal Skincare & Hair Design,"5163 Moorpark Avenue, San Jose, CA, 95129",(408) 893-5832,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+96,What the Falafel,"991 Saratoga Avenue, San Jose, CA, 95129",(408) 253-1111,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+97,Kiely 2 Wash & Dry,"975 Saratoga Avenue, San Jose, CA, 95129",(408) 252-2423,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+98,Goody Goody,"1080 Saratoga Avenue, San Jose, CA, 95129",(669) 342-7776,pet,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+99,Synergy Personal Training,"1130 Saratoga Avenue, San Jose, CA, 95129",(408) 247-2903,fitness_centre,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+100,Amatos Cheesesteaks,"1162 Saratoga Avenue, San Jose, 95117",(408) 246-3818,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+101,Formosa Aroma,"5205 Prospect Road, San Jose, CA, 95129",(408) 207-2740,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+102,Campbell Everyday Smog - Star Station,"1533 West Campbell Avenue, 95008",(408) 378-8899,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+103,Two Pesos Taqueria,"1452 Pollard Road, Los Gatos, CA, 95032",(408) 866-4354,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+104,Rural Supply,"110 South Santa Cruz Avenue, Los Gatos, CA, 95030",(408) 354-3910,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+105,T-Bird's Pizza,"444 North Santa Cruz Avenue, Los Gatos, CA, 95030",(408) 395-2525,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+106,Mama's Bakery,"473 North Santa Cruz Avenue, Los Gatos, CA, 95030",(408) 206-0282,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+107,Bob's Garage,"545 North Santa Cruz Avenue, Los Gatos, CA, 95030",(408) 345-8232,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+108,Orange Coast Title,"652 North Santa Cruz Avenue, Los Gatos, CA, 95030",(408) 827-4950,lawyer,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+109,Preferred Image of Los Gatos,"663 Industrial Way, Los Gatos, CA, 95030",(408) 354-7673,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+110,Heartbeat Café,"14392 Union Avenue, San Jose, CA, 95124",(408) 369-9078,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+111,Harbor Fish & Chips,"2632 Union Avenue, San Jose, CA, 95124",(408) 559-4499,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+112,Diamond Shoe Repair,"2614 Union Avenue, San Jose, CA, 95124",(408) 377-4940,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+113,Vogue Salon & Lounge,"2606 Union Avenue, San Jose, CA, 95124",(408) 457-9940,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+114,A&P Auto Repair,"1868 Almaden Road, San Jose, CA, 95125",(408) 307-3861,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+115,T-Safety Automotive,"193 Barnard Avenue, San Jose, CA, 95125",(408) 294-1600,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+116,Michael J's Collision Centers,"1577 Almaden Road, San Jose, CA, 95125",(408) 279-3222,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+117,Thai Spice,"1102 Bird Avenue, San Jose, CA, 95125",(408) 277-7500,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+118,Sweet Mango,"1040 Willow Street, San Jose, CA, 95125",(408) 293-2268,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+119,Los Dubon Inc.,"1182 Lincoln Avenue, San Jose, CA, 95125",(408) 320-2270,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+120,"Robert A Gong-Guy, DDS","1660 Westwood Drive, San Jose, CA, 95125",(408) 679-1703,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+121,La Superior Panadería y Taquería,"1098 Leigh Avenue, San Jose, CA, 95126",(408) 320-1999,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+122,Straight Edge,"1645 South Bascom Avenue, Campbell, CA, 95008",(408) 832-6109,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+123,T Lashes LLC,"1645 South Bascom Avenue, Campbell, CA, 95008",+1-408-917-8228;+1-408-618-1122,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+124,Hollywood Nails,"1639 South Bascom Avenue, Campbell, California, 95008 (reverse-geocoded approximate)",(408) 377-8185,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+125,Patricia S. Nakamura Electrolysis,"1639 South Bascom Avenue, Campbell, California, 95008 (reverse-geocoded approximate)",(408) 371-0488,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+126,the garret,"1777 South Bascom Avenue, 95008",(408) 555-7930,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+127,Serendipity Hair Salon,"2188 South Bascom Avenue, Campbell, CA, 95008",(408) 371-9015,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+128,Happy Hair Salon,"2205 South Bascom Avenue, Campbell, CA, 95008",(408) 879-0500,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+129,Mo's,"278 East Campbell Avenue, Campbell, CA, 95008",(408) 871-1300,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+130,JCM Electric,535 Salmar Avenue,(408) 628-4304,electrician,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+131,Kaizen,"330 East Hamilton Avenue, Campbell, CA, 95008",(408) 370-1600,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+132,Spa City,"330 East Hamilton Avenue, Campbell, CA, 95008",(408) 378-1777,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+133,Excel Cuts & Nailcare,"860 South Winchester Boulevard, San Jose, 95128",(408) 247-6454,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+134,Quality Car Care,"425 South Winchester Boulevard, San Jose, 95128",(408) 557-8157,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+135,BYLT,"333 Santana Row, San Jose, CA, 95128",(669) 900-4500,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+136,D&J Auto Center,"2321 Stevens Creek Boulevard, San Jose, CA, 95128",(408) 286-3632,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+137,Venice Nail Salon,"1407 West San Carlos Street, San Jose, 95126",(408) 993-8869,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+138,Spartan Autobody Shop,"344 Lincoln Avenue, San Jose, CA, 95126",(408) 971-7232,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+139,Auzerais Collision Center,"755 Auzerais Avenue, San Jose, CA, 95126",(408) 286-6650,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+140,El Radiator Doctor,"425 West San Carlos Street, San Jose, CA, 95110",(408) 998-0338,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+141,Bel Bacio,"350 West Julian Street, San Jose, 95110",(408) 645-7776,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+142,Dac Phuc,"198 West Santa Clara Street, San Jose, 95113",(408) 297-5517,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+143,Angel’s Cleaners & Alteration,"50 Post Street, San Jose, CA, 95113",(408) 298-3911,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+144,La Victoria Taqueria,"291 North 4th Street, San Jose, 95112",(408) 297-8421,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+145,Kali Noodles & Tea Bar,"374 East Santa Clara Street, San Jose, 95112",(408) 599-5855,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+146,Phở Công Lý,"460 East William Street, San Jose, CA, 95112",(408) 610-9849,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+147,MC-Salon,"520 South 10th Street, San Jose, CA, 95112",(408) 998-5340,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+148,Đà-Lạt,"408 East William Street, San Jose, 95112",(408) 294-6989,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+149,Mike Pizza & Taqueria,"889 Almaden Avenue, San Jose, CA, 95110",(408) 287-1111,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+150,Transon Auto Body & Paint,"1704 South 7th Street, San Jose, 95112",(408) 286-7776,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+151,Phố Cổ II,"979 Story Road, San Jose, CA, 95122",(408) 642-1800,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+152,Nam Thanh Bánh Canh 3 Miền,"958 Story Road, San Jose, CA, 95122",(408) 288-5679,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+153,Thanh Sơn,"990 Story Road, San Jose, CA, 95122",(408) 975-0135,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+154,Saigon Kitchen,"1111 Story Road, San Jose, CA, 95122",(408) 297-1107,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+155,Nina Hair & Nails,"1199 South King Road, San Jose, CA, 95122",(408) 770-2147,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+156,Bella Imagen,"2235 Story Road, San Jose, CA, 95122",(408) 729-1408,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+157,Styling Salon,"2290 Story Road, San Jose, 95122",(408) 708-4705,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+158,Valencia's Auto Service,"75 South Capitol Avenue, San Jose, CA, 95127",(408) 929-2960,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+159,Fruitas Regionales Magui,"41 South Jackson Avenue, San Jose, CA, 95116",(408) 417-1072,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+160,Lucky Hair & Nails,"33 South Jackson Avenue, San Jose, CA, 95116",(408) 791-6289,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+161,Lucy's Beauty Salon,"1660 Alum Rock Avenue, San Jose, CA, 95116",(408) 254-3691,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+162,Café Docanto,"7 North 33rd Street, San Jose, CA, 95116",(408) 272-2929,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+163,Joyería Y Discoteca Peña,"1595 Alum Rock Avenue, San Jose, CA, 95116",(408) 272-4736,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+164,Oasis Insurance Agency,"1524 Alum Rock Avenue, San Jose, CA, 95116",(408) 729-7858,insurance,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+165,T&P Auto Services,"1604 McKee Road, San Jose, CA",(408) 904-0500,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+166,New Dong Phuong Tofu,"2357 McKee Road, San Jose, CA, 95116",(408) 251-5838,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+167,McKee Hair & Nails,"2361 McKee Road, San Jose, CA, 95116",(408) 251-2538,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+168,Schroeder's Haircuts,"305 North Capitol Avenue, San Jose, CA, 95133",(408) 251-3020,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+169,Color Nails,"3041 McKee Road, San Jose, CA, 95127",(408) 729-5744,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+170,Helen's Beauty Salon,"3093 McKee Road, San Jose, CA, 95127",(408) 646-9558,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+171,El Cerrito Taqueria and Cenaduria,"3110 McKee Road, San Jose, CA, 95127",(408) 258-5292,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+172,The Coffee Cup,"438 Toyon Avenue, San Jose, CA, 95127",(408) 254-0755,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+173,Glow Beauty Bar,"1036 Piedmont Road, San Jose, CA, 95132",(408) 675-2860,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+174,Daydream Sandwiches& Donuts,"3263 Sierra Road, San Jose, CA, 95132",(408) 259-3289,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+175,Ava's Skin Care Lash Studio,"2544 Berryessa Road, San Jose, CA, 95132",(408) 680-9882,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+176,North Valley Dental Office,"2542 Berryessa Road, San Jose, CA, 95132",(408) 926-8600,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+177,Brand Hong Kong Salon,"2516 Berryessa Road, San Jose, CA, 95132",(408) 926-1348,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+178,Trang Pham CPA,"2470 Berryessa Road, San Jose, CA, 95133",(408) 436-8513,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+179,S Pearl Salon,"1739 Berryessa Road, San Jose, 95131",(669) 226-5363,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+180,Jonathan H Kim Dentistry,"1725 Berryessa Road, San Jose, CA, 95133",(408) 259-2900,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+181,VK Hair Creations,"1651 North Capitol Avenue, San Jose, CA, 95132",(408) 926-9677,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+182,The Jelly Donut,"2665 Cropley Avenue, San Jose, CA, 95132",(408) 268-1822,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+183,Kristin's Hair Design,"2137 Morrill Avenue, San Jose, 95132",(408) 935-8456,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+184,WOW Dental,"2147 Morrill Avenue, San Jose, 95132",(408) 586-8822,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+185,Lalas Dental,"3072 Landess Avenue, San Jose, 95132",(408) 719-8500,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+186,Greathair,"1561 Landess Avenue, Milpitas, CA, 95035",(408) 934-0488,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+187,Jessica’s Beauty Salon,"1350 South Park Victoria Drive, Milpitas, CA, 95035",(408) 263-2055,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+188,His 'n Hers Hair,"1215 South Park Victoria Drive, Milpitas, CA, 95035",(408) 262-8047,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+189,Hair Couture,"1535 Landess Avenue, Milpitas, CA, 95035",(408) 907-6648,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+190,Chef P's at Seafood City,"1535 Landess Avenue, Milpitas, CA, 95035",(408) 586-8389,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+191,Arté Boutique,"1535 Landess Avenue, Milpitas, CA, 95035",(408) 586-8882,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+192,Pho Saigon,"1455 Dempsey Road, Milpitas, CA, 95035",(408) 263-8936,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+193,Forever Beauty Hair And Nails,"1475 Landess Avenue, Milpitas, CA, 95035",(408) 263-4929,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+194,J&J Luxury Hair And Nails,"1410 Dempsey Road, Milpitas, CA",(408) 262-9000,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+195,Advanced Verterinary Medical Center,"800 East Capitol Avenue, Milpitas",(408) 956-8061,veterinary,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+196,M Beauty Salon,"2095 North Capitol Avenue, San Jose, CA, 95132",(408) 942-1377,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+197,Mama Lupita's,"2095 North Capitol Avenue, San Jose, 95132",(408) 618-8232,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+198,#1 Eyelash & Skin,"2095 North Capitol Avenue, San Jose, 95132",(689) 262-9377,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+199,Phở Ý #1,"2050 Concourse Drive, San Jose, CA, 95131",(408) 526-0880,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+200,Precious Smile Dental Center,"1728 Hostetter Road, San Jose, CA, 95131",(408) 272-9000,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+201,Kim Tar B.B.Q.,"1698 Hostetter Road, San Jose, CA, 95131",(408) 453-2006,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+202,Ma’s Restaurant,"1715 Lundy Avenue, San Jose, CA, 95131",+1 408-437-2499;+1 408-437-1638;+1 408-437-0748,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+203,Tiger Tea & Juice,"1706 Oakland Road, San Jose, CA, 95131",(650) 201-9822,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+204,Sushi Pro,"1078 East Brokaw Road, San Jose, CA, 95131",(408) 564-4953,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+205,Personalized Vans & Trucks,"491 Reynolds Circle, San Jose, 95112",(408) 436-8244,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+206,Mì Quảng Cô Thảo,"1560 North 4th Street, San Jose, CA, 95112",(408) 501-0011,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+207,Diamond Mitsubishi Fuso,"1505 North 4th Street, San Jose, CA, 95112",(408) 263-7300,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+208,Menara Moroccan,"43 East Gish Road, San Jose, CA, 95112",(408) 453-1983,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+209,Prolago Hand Car Wash,"North 10th Street, San Jose, California, 95131 (reverse-geocoded approximate)",(408) 271-9766,car_wash,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+210,Peter Auto Body & Paint,"1310 North 10th Street, San Jose, 95112",(408) 288-8398,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+211,101 Auto Body & Paint,"1033 North 11th Street, San Jose, CA, 95112",(408) 293-1010,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+212,Chez Sovan,"923 Oakland Road, San Jose, CA, 95112",(408) 287-7619,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+213,Autoland;Radiatorland,"631 East Hedding Street, San Jose, 95112",(408) 297-2906,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+214,Tire Merchants,"881 North 13th Street, San Jose, 95112",(408) 292-1339,tyres,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+215,Maria Asela Caces-Tiamson Inc.,"560 East Hedding Street, San Jose, 95112",(408) 286-1412,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+216,AKW Auto Body & Paint,"850 North 10th Street, San Jose, 95112",(408) 294-8787,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+217,Taquería “El Caminito”,"782 North 13th Street, San Jose, CA, 95112",(408) 295-1471,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+218,Tony’s Pool Hall,"583 East Taylor Street, San Jose, CA, 95112",(408) 293-1181,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+219,Mikee’s Auto Repair,"698 North 13th Street, San Jose, CA, 95112",(408) 287-1105,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+220,LTM Smog & Repair,"North 13th Street, San Jose, California, 95112 (reverse-geocoded approximate)",(408) 924-0630,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+221,"Doctor Martha E. Barragan, D.D.S.","634 North 13th Street, San Jose, CA, 95112",(408) 288-5490,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+222,Raul’s Mufflers,"633 North 13th Street, San Jose, CA, 95112",+1-408-772-5978;+1-408-816-7875,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+223,A&M Paint & Body,"633 North 13th Street, San Jose, CA, 95112",(408) 293-4256,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+224,True Beauty Salon Spa,"246 Jackson Street, San Jose, 95112",(408) 271-2888,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+225,Taylor Automotive Service,"297 East Taylor Street, San Jose, CA, 95112-5005",(408) 295-3786,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+226,Lettuce Sandwich Shop,"Coleman Avenue, Santa Clara, California, 95053 (reverse-geocoded approximate)",(408) 844-9400,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+227,M.Y. Salon,"1000 Lafayette Street, Santa Clara, CA, 95050",(408) 260-9108,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+228,Winx,"1190 Homestead Road, Santa Clara, CA, 95050",(408) 799-4069,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+229,Painted Ivy,"390 North Winchester Boulevard, Santa Clara, CA, 95050",(408) 883-4025,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+230,CK Salon,"2373 Pruneridge Avenue, Santa Clara, CA, 95050",(408) 609-3105,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+231,Vanna's Hair & Nails,"Pruneridge Avenue, Santa Clara, California, 95050 (reverse-geocoded approximate)",(408) 249-1230,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+232,Kokodek Korean Fried Chicken,"385 South Kiely Boulevard, San Jose, CA, 95129",(669) 331-9707,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+233,TLS Auto Service,"South Kiely Boulevard, San Jose, California, 95117 (reverse-geocoded approximate)",(408) 241-3848,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+234,Korean Spring,"1062 Kiely Boulevard, Santa Clara, CA, 95051",(408) 985-8808,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+235,Kens' Hair Stylists & Nails,"3564 Homestead Road, Santa Clara, CA, 95051",(408) 244-7727,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+236,Classic Homestead Barber,"3545 Homestead Road, Santa Clara, CA, 95051",(408) 841-3685,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+237,T&K Barber & Hairstyling,"938 East El Camino Real, Sunnyvale, CA, 94087",(408) 739-8960,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+238,Rajjot Sweets and Snacks,"1234 South Wolfe Road, Sunnyvale, 94086",(408) 730-5510,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+239,Jang Tu,1012 East El Camino Real,(408) 245-5720,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+240,Hair Focus,"1026 East El Camino Real, Sunnyvale, CA, 94087",(408) 732-1475,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+241,Rama V Thai Cuisine,1028 East El Camino Real,(408) 738-2177,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+242,Griffin Upholstery,1062 East El Camino Real,(408) 249-1360,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+243,Paredes Auto Works,1062 East El Camino Real,(408) 244-1800,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+244,Cheun Joo Young Yamg Dol Sot,"3519 El Camino Real, Santa Clara, CA, 95051",(408) 244-4002,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+245,Perfect Hair Design,"3517 El Camino Real, Santa Clara, CA, 95051",(408) 248-9688,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+246,Honey Berry,3488 El Camino Real,(408) 985-9555,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+247,미주부동산,"3354 El Camino Real, Santa Clara, CA, 95051",(408) 243-2424,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+248,Ga-In Beauty Salon,"3330 El Camino Real, Santa Clara, CA, 95051",(408) 529-7755,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+249,Santa Clara Tint Wrap & Carpet Coloring,"3295 El Camino Real, Santa Clara, CA, 95051",(408) 684-0083,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+250,Jeff's Garage,"3295 El Camino Real, Santa Clara, CA, 95051",(408) 204-6948,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+251,Nu-Way Tool Supply,"3232 El Camino Real, Santa Clara, CA, 95051",(408) 984-5395,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+252,Sassy Nail,"3216 El Camino Real, Santa Clara, CA, 95051",(408) 246-3600,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+253,Christine Dental,"El Camino Real, Santa Clara, California, 95051 (reverse-geocoded approximate)",(408) 246-5959,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+254,Blurr Kitchen,95050,(408) 243-1868,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+255,Taqueria Vallarta,"2525 Scott Boulevard, Santa Clara, CA, 95050",(408) 492-9310,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+256,Goldie's Muffler & Brake,"2756 Scott Boulevard, Santa Clara, CA, 95050",(408) 988-3940,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+257,Ume Chinese Food,"2595 North 1st Street, San Jose, CA, 95131",(408) 433-3333,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+258,Biryani Stop,"2565 North 1st Street, San Jose, CA, 95131",(408) 824-5114,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+259,Kenneth Hua Dentistry,"2573 North 1st Street, San Jose, 95131",(408) 433-5522,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+260,Wilson Motorsports AutoRepair Inc.,"2138 O'Toole Avenue, San Jose, CA, 95131",(408) 267-7937,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+261,QQ Noodle,"416 Barber Lane, Milpitas, CA, 95035",(408) 894-9171,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+262,AikoNails,"792 Barber Lane, Milpitas, 95035",(669) 266-8285,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+263,Dreamhair Beauty Salon,"398 Barber Court, Milpitas, CA, 95035",(408) 321-9998,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+264,Hair.Com,"316 Barber Court, Milpitas, CA, 95035",(408) 321-8288,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+265,Apt.Li Xiang Restaurant,"290 Barber Court, Milpitas, CA, 95035",(408) 955-9588,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+266,Jiuding Flavor Restaurant,"79 South Abbott Avenue, Milpitas, CA, 95035",(408) 649-3307,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+267,El Alazan Grill,"75 South Abbott Avenue, Milpitas, CA, 95035",(408) 649-3124,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+268,Hair Day - The Korean Salon,"221 West Calaveras Boulevard, Milpitas, CA, 95035",(408) 726-5979,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+269,Ann Hong Vietnamese Restaurant,"233 West Calaveras Boulevard, Milpitas, CA, 95035",(408) 946-9046,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+270,Angel Nails Spa,"259 West Calaveras Boulevard, Milpitas, CA, 95035",(408) 262-2587,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+271,Serra Barber Shop,"200 Serra Way, Milpitas, CA, 95035",(408) 509-5514,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+272,Sonam House Of Indian Fashion,"300 South Abel Street, Milpitas, CA, 95035",(408) 262-2938,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+273,Bleu de Beaute,"61 Serra Way, Milpitas, CA, 95035",(408) 203-3179,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+274,Taste Good Beijing Duck,"82 South Abel Street, Milpitas, CA, 95035",(408) 262-9439,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+275,Sen Dai Sushi,"224 North Abel Street, Milpitas, CA, 95035",(408) 263-1472,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+276,Donut Basket,"242 North Abel Street, Milpitas, CA, 95035",(408) 649-3314,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+277,Taiwan Cafe,"568 North Abel Street, 95035",(408) 586-8885,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+278,Jeanne's Nail Spa,"111 Beresford Court, Milpitas, CA, 95035",(408) 956-5555,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+279,Luu New Tung Kee Noodle,"481 East Calaveras Boulevard, Milpitas, CA, 95035",(408) 263-8288,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+280,Radiant Dental,"10 South Hillview Drive, Milpitas, CA, 95035",(408) 719-1643,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+281,Modern Image,"98 Dempsey Road, Milpitas, CA",(408) 935-8889,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+282,King Chicken Wing,"South Park Victoria Drive, Milpitas, California, 95035 (reverse-geocoded approximate)",(408) 262-8730,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+283,Park Victoria Dental,"33 South Park Victoria Drive, Milpitas, CA, 95035",(408) 942-1000,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+284,Tina's Hair Design,"31 South Park Victoria Drive, Milpitas, CA, 95035",(408) 946-5234,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+285,Calaveras Family Dentistry,"79 Dempsey Road, Milpitas, CA, 95035",(408) 263-0900,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+286,BBH Noodle,"1203 East Calaveras Boulevard, Milpitas, CA, 95035",(408) 263-8985,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+287,Be My Nails,"1281 East Calaveras Boulevard, Milpitas, CA, 95035",(408) 946-6245,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+288,Christy's Donuts,"1291 East Calaveras Boulevard, Milpitas, CA, 95035",(408) 942-1933,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+289,Victoria Hair & Nails,"96 South Park Victoria Drive, Milpitas, CA, 95035",(408) 493-5160,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+290,Chez Christina,"1339 Jacklin Road, Milpitas, CA, 95035",(408) 263-2220,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+291,The Pizza Box,"1253 Jacklin Road, Milpitas, CA, 95035",(408) 946-6521,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+292,MM Barbershop,"465 Jacklin Road, Milpitas, CA, 95035",(408) 649-3434,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+293,I Nails,"353 Jacklin Road, Milpitas, CA, 95035",(408) 946-1800,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+294,Loved And Lashed,"1468 North Milpitas Boulevard, Milpitas, CA",(510) 789-7478,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+295,Allianace Dental Center,"1474 North Milpitas Boulevard, Milpitas, CA, 95035",(408) 946-1397,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+296,Bliss Beauty & Spa,"1478 North Milpitas Boulevard, Milpitas, CA, 95035",(408) 262-5075,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+297,Chick & Tea,"1723 North Milpitas Boulevard, Milpitas, CA, 95035",(408) 770-2268,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+298,Gao's Kabob & Crab,"1741 North Milpitas Boulevard, Milpitas, CA, 95035",(408) 708-7906,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+299,Shing's Hair Studio,"1840 North Milpitas Boulevard, Milpitas, CA, 95035",(408) 262-6689,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+300,Beauty Touch,"54 Dixon Road, Milpitas, CA, 95035",(408) 946-8945,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+301,OP Beautiful Nails Spa,"58 Dixon Road, Milpitas, CA, 95035",(408) 263-9653,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+302,Vincent Liang Dentistry,"106 Dixon Road, Milpitas, CA, 95035",(408) 934-1200,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+303,Little Taipei Café,"46897 Warm Springs Boulevard, Fremont, CA, 94539",(510) 657-8488,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+304,Lok Nails,46584 Mission Blvd,(510) 258-7459,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+305,Sean's Barber Shop,46543 Mission Blvd,(510) 252-0924,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+306,A+ Hk Style Cafe,"46260 Warm Springs Boulevard, Fremont, CA",(510) 226-9168,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+307,"Richard My Ta, D.D.S., Inc.","46228 Warm Springs Boulevard, Fremont, CA, 94539",(510) 573-3286,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+308,Star Salon,"46164 Warm Springs Boulevard, Fremont, CA, 94539",(510) 396-0303,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+309,Red Pot,2090 Warm Springs Court,(510) 573-3965,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+310,CT Nails & Spa,"43496 Grimmer Boulevard, Fremont, CA",(510) 226-9909,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+311,Pho Saigon Pasteur,"43460 Grimmer Boulevard, Fremont, CA",(510) 249-9902,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+312,Young Beauty Salon,"41255 Fremont Boulevard, Fremont, CA, 94538",(510) 683-0709,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+313,Max Nunez CPA,"41255 Fremont Boulevard, Fremont, CA, 94538",(510) 656-3898,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+314,L'Amour Nails,"39477 Fremont Boulevard, Fremont, CA",(510) 770-9300,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+315,De Ala Dental,"39453 Fremont Boulevard, Fremont, CA",(510) 657-8907,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+316,Top Hair Cut & Salon,"39435 Fremont Boulevard, Fremont, CA",(510) 657-7197,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+317,"Amy B. Wong, D.D.S.",39358 Fremont Boulevard,(510) 818-1891,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+318,Doan's Hair & Spa,"3367 Walnut Avenue, 94538",(510) 793-6706,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+319,Sushi Ken,39156 Paseo Padre Parkway,(510) 894-1698,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+320,Sleek Salon,"38990 Paseo Padre Parkway, Fremont, 94538",(510) 790-2600,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+321,Stela's Hair Salon,"37477, Fremont",(510) 791-7198,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+322,Mary’s Barbershop,"11853 Main Street, California, 94586 (reverse-geocoded approximate)",(925) 568-0021,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+323,Yat Sing Chinese Food,"5400 Sunol Boulevard, Pleasanton, CA, 94566",(925) 484-1008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+324,Jim's Country Style Restaurant,"5400 Sunol Boulevard, Pleasanton, CA, 94566",(925) 426-7019,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+325,Main St. Hair Extensions Bar,"260;264;268 Main Street, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 339-2395,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+326,Brush & Blow,"West Angela Street, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 249-5139,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+327,Estrella Designs,"Division Street, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 408-2985,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+328,Sculptations Boutique,"Division Street, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 381-9300,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+329,Aila aesthetics,"148;164 Ray Street, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 313-7780,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+330,Lavendar Nail Salon,"3550 Bernal Avenue, Pleasanton, California, 94566 (reverse-geocoded approximate)",(925) 462-6907,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+331,Hopyard Nails,"2723 Hopyard Road, Pleasanton, CA, 94588",(925) 462-2261,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+332,Shear Cuts,"2739 Hopyard Road, Pleasanton, CA, 94588",(925) 462-0123,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+333,The Jelly Donut,"2897 Hopyard Road, Pleasanton, CA, 94588",(925) 462-1343,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+334,Pho Lovers,"4288 Dublin Boulevard, Dublin, CA, 94568",(925) 361-8024,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+335,Monaco Hair And Nails,"Dublin Boulevard, Dublin, California, 94588 (reverse-geocoded approximate)",(925) 479-0999,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+336,Athens Burgers,6999 Dublin Boulevard,(925) 803-8135,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+337,Tri-Valley Mufflers,"6447 Golden Gate Drive, Dublin, CA, 94568",(925) 829-4441,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+338,Zorba Automotive,"6449 Golden Gate Drive, Dublin, CA, 94568",(925) 829-6100,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+339,Beauty Hair and Nails,"7217 Regional Street, Dublin, CA, 94568",(925) 829-6068,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+340,Mad for Sushi,7222 Regional Street,(925) 248-8915,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+341,Sodam,"7992 Amador Valley Boulevard, Dublin, CA, 94568",(925) 551-0977,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+342,Bagel Bakery,7168 Regional Street,(925) 829-5434,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+343,Tofu House,7266 San Ramon Road,(925) 551-0825,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+344,"G-Jen Hsu, DDS",7226 San Ramon Road,(925) 551-3396,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+345,Banseok Korean BBQ,7877 Amador Valley Boulevard,(925) 875-1232,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+346,Famous Hair & Nails,7139 Amador Plaza Road,(925) 479-9691,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+347,Corwood Car Wash,"6973 Village Parkway, Dublin, CA, 94568-2405",(925) 828-5151,car_wash,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+348,Falafel Village,7410 Amador Valley Boulevard,(925) 248-2253,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+349,Country Faire Dental Group,12111 Alcosta Boulevard,(925) 829-3111,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+350,Dr. Charity Duncan Kachalia,"500 Bollinger Canyon Way, San Ramon, California, 94583 (reverse-geocoded approximate)",(925) 362-8209,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+351,Notorious Buns,500 Bollinger Canyon Way,(925) 905-9008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+352,W Salon,"2005 Crow Canyon Place, San Ramon, California, 94583 (reverse-geocoded approximate)",(925) 790-0000,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+353,Angel Staging Partners,"38 Beta Court, San Ramon, CA, 94583",(925) 855-1100,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+354,"Dr. Mary R. Johnson, DDS",75 Oak Court,(925) 837-2754,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+355,CPA Accountant Tax Group,100 Diablo Road,(877) 750-5480,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+356,Salon 7,7 Front Street,(925) 683-5105,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+357,Hair Graphics,210 East Linda Mesa Avenue,(925) 837-3214,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+358,Sally Ann's Salon,80 Railroad Avenue,(925) 831-9023,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+359,Hunan Yuan,"4100 Redwood Road, Oakland, CA, 94619",(510) 531-1415,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+360,Napoleon's,"3427 Fruitvale Avenue, Oakland, CA, 94602",(510) 479-3487,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+361,The Cutting Place,"Park Boulevard, Oakland, California, 94602 (reverse-geocoded approximate)",(510) 530-8087,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+362,Taqueria el Cruzero,1309 MacArthur Boulevard,(510) 532-3333,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+363,Dumpling Hours,"3321;3329 Lakeshore Avenue, Oakland, California, 94610 (reverse-geocoded approximate)",(510) 891-9888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+364,Young's Automotive,3509 Grand Avenue,(510) 444-4185,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+365,Better Cuts Salon,4212 Piedmont Avenue,(510) 428-2466,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+366,Siamese Dream,"3170 College Avenue, Berkeley, California, 94168 (reverse-geocoded approximate)",(510) 428-9987,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+367,Organic Greens,"2925 College Avenue, Berkeley, California, 94705 (reverse-geocoded approximate)",(510) 704-0554,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+368,Frank's Tailoring,"Telegraph Avenue, Berkeley, California, 94705 (reverse-geocoded approximate)",(510) 848-4232,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+369,My-O-My,"1866 Euclid Avenue, Berkeley, CA, 94709",(510) 356-4460,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+370,Polished Nail Salon,"1792 Shattuck Avenue, CA",(510) 644-4975,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+371,Cha Thai Tea,"1796 Shattuck Avenue, Berkeley, CA, 94709-1750",(510) 225-9781,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+372,Kala salon,"2008 Kala Bagai Way, Berkeley, CA, 94704",(510) 775-8040,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+373,Saigon Express,"2045 Kala Bagai Way, Berkeley, CA",(510) 486-1778,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+374,Max And Company,"1943 Martin Luther King Jr Way, Berkeley, CA",(510) 548-3800,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+375,Himalayan Flavors,"1585;1587;1589 University Avenue, Berkeley, California, 94702 (reverse-geocoded approximate)",(510) 704-0174,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+376,Eat @ Thai,"1181 University Avenue, Berkeley, CA",(510) 548-3278,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+377,Marlon Car Repair,"1043 Hearst Avenue, Berkeley",(510) 860-2060,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+378,Peles Muffler Works,"1085 Eastshore Freeway, 94710",(510) 526-5003,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+379,Seabreeze,"598 University Avenue, Berkeley, CA",(510) 486-8119,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+380,Quince Cafe & Grill,"2228 San Pablo Avenue, Berkeley, CA, 94702",(510) 666-0094,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+381,Panel craft,"2828 San Pablo Avenue, Berkeley, California, 94702 (reverse-geocoded approximate)",(510) 548-0815,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+382,K's Coffee House,"2002 Center Street, Berkeley",(510) 848-2147,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+383,Paul's Shoe Repair,"2281 Shattuck Avenue, Berkeley",(510) 843-1570,shoes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+384,眷湘 Easterly,"2323 Shattuck Avenue, Berkeley",(510) 647-8008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+385,Royal Ground Coffee,"2409 Shattuck Avenue, Berkeley, CA, 94704",(510) 849-9888,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+386,Berkeley Auto Repair Center,"2558 Shattuck Avenue, Berkeley, CA, 94704",(510) 848-7682,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+387,European Tailor,"2808 Adeline Street, Berkeley, CA, 94703",(510) 843-3881,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+388,Ashby Nails,1959 Ashby Avenue,(510) 540-9284,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+389,Pizza Amigos,"5000 Adeline Street, Oakland, CA, 94608",(510) 652-3333,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+390,Chef Yu Chinese Restaurant,"4871 Telegraph Avenue, Oakland, CA, 94609",(510) 653-2288,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+391,Temescal Wash & Dry,"4860 Telegraph Avenue, Oakland, 94609",(510) 547-1217,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+392,Town Essentials,"4013 Telegraph Avenue, Oakland, CA, 94609",(510) 890-5737,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+393,Timothy D. Lee,"2933 Webster Street, Oakland",(510) 451-2058,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+394,Webster Cheap Auto Insurance Oakland,"1528 Webster Street, Oakland, CA, 94612",(650) 942-6331,insurance,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+395,Gum Kuo,"388 9th Street, 94607",(510) 268-1288,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+396,Mac Khai,417 7th Street,(510) 763-1767,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+397,Yao Auto Repair,"1101 7th Avenue, Oakland, CA, 94606-3636",(510) 603-6268,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+398,Pacific Lighthouse Restaurant,94501,(510) 263-9232,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+399,Spritzers Coffee House,"734 Central Avenue, Alameda, CA, 94501",(510) 995-8644,coffee,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+400,Polished,"1002 Central Avenue, Alameda, CA, 94501",(510) 263-8308,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+401,Elegant Nails in Alameda,"1409 Encinal Avenue, Alameda, CA, 94501",(510) 522-7459,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+402,Carol L Chan Lamps,"1900 Encinal Avenue, Alameda, CA, 94501",(510) 865-6374,furniture,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+403,Hi Tech Nails,"1909 Encinal Avenue, Alameda, CA, 94501",(510) 749-0709,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+404,Ohgane Alameda x Vons Chicken,"2211 South Shore Center, Alameda, CA, 94501",(510) 775-7538,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+405,Eyebrow Station,"2211 South Shore Center, Alameda, CA, 94501",(707) 386-2468,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+406,Best Alteration,"1190 Park Street, Alameda, CA, 94501",(510) 337-9723,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+407,iSalon,"2327 Blanding Avenue, Alameda, CA, 94501",(510) 995-8937,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+408,BB Bowl,"2601 Blanding Avenue, Alameda, CA, 94501",(510) 521-1325,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+409,Peña's Bakery II,"3912 International Boulevard, oakland, 94601",(510) 533-5733,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+410,Hogar Latino,3331 International Boulevard,(510) 975-8261,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+411,Elvia's Bridal & Tuxedo,"3240 International Boulevard, Oakland, 94601",(510) 261-8909,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+412,Pasteleria La Favorita,"1433 Fruitvale Avenue, Oakland, 94601",(510) 261-2200,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+413,Mi Grullense Taco Truck,"1301 30th Avenue, Oakland, CA, 94601",(301) 308-4283,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+414,Los Mexicanos Panaderia,"1522, Oakland, 94601",(510) 532-5528,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+415,Fruitvale Collision Center,"3009 Foothill Boulevard, Oakland, 94601",(510) 532-2050,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+416,Peña's Bakery,3355 Foothill Boulevard,(510) 536-0661,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+417,VN. Auto Service Center,"3509 Foothill Boulevard, Oakland, 94601",(510) 533-3465,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+418,El Torito Auto Body,"3714 Foothill Boulevard, Oakland, 94601",(510) 436-0129,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+419,K&7 Auto Repair,"3755 Foothill Boulevard, Oakland, 94601",(510) 436-6138,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+420,Bodylines,"3900 Foothill Boulevard, Oakland, 94601",(510) 842-8967,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+421,CocoBreeze,2370 High Street,(510) 479-3270,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+422,Old Weang Ping Village,"6217 MacArthur Boulevard, 94605",(510) 430-8771,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+423,Just Kids Pediatric Dentistry & Orthodontics - San Leandro,"433 Estudillo Ave, San Leandro, CA, 94577",(510) 221-3449,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+424,Emil Villa's Hickory Pit,"1800 East 14th Street, San Leandro, CA, 94577",(510) 357-7776,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+425,Z Nail Spa,"1698 Washington Avenue, San Leandro, CA, 94577",(510) 427-1084,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+426,Stylist Hair Salon,"162 Parrott Street, San Leandro, CA, 94577",(510) 357-5456,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+427,Amaazing Hair and Nail,"187 Pelton Center Way, San Leandro, CA, 94577",(510) 343-4982,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+428,Beauty Club,"191 Pelton Center Way, San Leandro, CA, 94577",(510) 268-0988,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+429,BlendMasters,"108 Pelton Center Way, San Leandro, CA, 94577",(510) 925-6057,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+430,Beauty Source,"1327 Washington Avenue, San Leandro, CA, 94577",(510) 483-0944,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+431,Tiptop Hair & Nails,"2254 Marina Boulevard, San Leandro, CA, 94577",(510) 677-0704,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+432,Ming's Donuts,"13996 Doolittle Drive, San Leandro, CA, 94577",(510) 352-5870,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+433,Beijing Bowl,"14400 Washington Avenue, 94578",(510) 357-8858,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+434,Dumpling Kitchen Express,"3295 Castro Valley Boulevard, Castro Valley, CA, 94546",(510) 210-0388,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+435,Pistons Car Care Center,22484 Mission Boulevard,(510) 582-0227,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+436,Sivan's Cafe,"766 A Street, Hayward, CA, 94541",(510) 538-5911,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+437,Kennedy Snack Shop,"19501 Hesperian Boulevard, San Lorenzo, California, 94580 (reverse-geocoded approximate)",(510) 670-7275,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+438,Bamboo Steamer,"24297 Hesperian Boulevard, Hayward, CA, 94545",(510) 300-3388,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+439,pho ty II,"27461 Hesperian Boulevard, Hayward",(510) 783-9888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+440,Blue Ginger Indian Restaurant,"28565 Hesperian Boulevard, Hayward, CA, 94545",(510) 397-6772,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+441,Tacos Uruapan,"29950 Huntwood Avenue, Hayward, 94544",(510) 581-1915,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+442,Gerry's Grill and Bar,"31005 Courthouse Drive, Union City, CA, 94587",(510) 441-9900,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+443,Ocean Bar,"30980 Union Landing Boulevard, Union City, CA, 94587",(510) 941-7947,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+444,The Une Sandwich Factory,"3902 Smith Street, Union City, CA, 94587",(510) 931-9334,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+445,Macs By Icky,"3900 Smith Street, Union City, CA, 94587",(510) 899-3900,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+446,Zeny's Hair Salon,"3850 Smith Street, Union City, CA, 94587",(510) 489-7264,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+447,Maneki Sushi,"31810 Alvarado Boulevard, Fremont, CA, 94587",(510) 489-1077,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+448,Raja Sweets & Indian Cuisine,"31853 Alvarado Boulevard, Union City, CA, 94587",(510) 489-9100,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+449,Phở Pasteur,"31860 Alvarado Boulevard, Union City, CA, 94587",(510) 441-7130,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+450,Dragon House,"31870 Alvarado Boulevard, Union City, CA, 94587",(510) 477-8868,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+451,Lechon Manila,"32104 Alvarado Boulevard, Union City, CA, 94587",(510) 429-8911,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+452,New York Pizza & Kabob,"32106 Alvarado Boulevard, Union City, CA, 94587",(510) 477-8888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+453,Cấm Hương Sandwiches,"32124 Alvarado Boulevard, Union City, CA, 94587",(510) 441-0590,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+454,King Calamari,"32130 Alvarado Boulevard, Union City, CA, 94587",(510) 489-8221,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+455,"Family Dental Care - Romeo S. Bautista, D.M.D.","34399 Alvarado-Niles Road, Union City, CA, 94587",(510) 477-0777,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+456,B & B Salon,"34324 Alvarado-Niles Road, Union City, 94587",(510) 475-0881,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+457,Imagine Hair Beauty Salon,"1775 Decoto Road, Union City, CA, 94587",(510) 489-3086,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+458,Che Lo,"1767 Decoto Road, Union City, CA, 94587",(510) 431-3868,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+459,Pinky's Nails and Spa,"1761 Decoto Road, Union City, CA, 94587",(510) 431-3360,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+460,Family Dentistry - Dr. Tran & Associates,"1755 Decoto Road, Union City, CA, 94587",(510) 487-8533,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+461,Parilya,"1680 Decoto Road, Union City, CA, 94587",(510) 431-3588,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+462,Bar Bay Grill,"1784 Decoto Road, Union City, CA, 94587",(510) 400-8247,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+463,Kim's Hair Salon,34547 Alvarado-Niles Road,(510) 471-7403,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+464,Mai's Kitchen,"34587 Alvarado-Niles Road, Union City, CA, 94587",(510) 487-1378,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+465,Desi Cuts and Color Plus,34685 Alvarado-Niles Road,(510) 429-0786,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+466,Dino's,"36930 Fremont Boulevard, Fremont, CA, 94536",(510) 792-6533,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+467,Delicious Donuts,"34916 Newark Boulevard, Newark, CA, 94560",(510) 574-1955,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+468,Los Gallos Taqueria,"6160 Jarvis Avenue, Newark, CA, 94560",(510) 894-1729,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+469,Chopsticks Pho & Grill,"6180 Jarvis Avenue, Newark, CA, 94560",(510) 793-9888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+470,Jade Palace Restaurant,"36601 Newark Boulevard, Newark, CA, 94560",(510) 792-5456,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+471,Tucker Method,"5268 Central Avenue, Fremont, CA, 94536",(510) 578-8155,fitness_centre,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+472,Peach Garden,"5862 Mowry School Road, Newark, CA, 94560",(510) 770-0777,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+473,Balentine Beauty Salon,"5876 Mowry School Road, Newark, CA, 94560",(510) 659-1860,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+474,Vahl's Restaurant & cocktail,"1513 El Dorado Street, Alviso, CA, 95002",(408) 262-0731,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+475,Mina's Korean BBQ,"3730 North 1st Street, San Jose, 95134",(408) 433-2270,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+476,Easterly Hunan Cuisine,"3927 Rivermark Plaza, Santa Clara, CA, 95054",(408) 748-3355,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+477,New Camau,"3775 Lafayette Street, 95054",(408) 988-1883,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+478,Amakai,"4300 Great America Parkway, Santa Clara, California, 95054 (reverse-geocoded approximate)",(408) 988-2555,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+479,Hi Nail Salon & Eyelash,"546 Lawrence Expressway, Sunnyvale, CA, 94085",(408) 830-9594,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+480,HR Beauty Salon,"933 East Duane Avenue, Sunnyvale, CA, 94085",(408) 400-0629,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+481,Hunan Mifen Chinese Rice Noodles,1149 Lawrence Expressway,(408) 734-8898,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+482,Lakewood Dental Care,1153 Lawrence Expressway,(408) 541-1900,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+483,Amazing Cuts,"613 West Tasman Drive, Sunnyvale, CA, 94089",(408) 746-5758,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+484,Bagel Street Cafe,346 West Maude Avenue,(408) 738-1856,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+485,Alpha Barbershop,"472 North Mathilda Avenue, Sunnyvale, CA, 94085",(408) 738-8389,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+486,Roger's DELI & DONUTS,"295 East Middlefield Road, Mountain View, CA, 94043",(650) 965-2204,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+487,Salon Finesse,732 Villa Street,(650) 968-1386,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+488,Center Tailoring & Alterations,257 Castro Street,(650) 965-5526,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+489,Taqueria Los Charros,854 West Dana Street,(650) 969-1464,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+490,Mervyn's Lounge,"236 Castro Street, Mountain View, CA",(650) 938-2968,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+491,Phở Tô Châu,853 Villa Street,(650) 961-8069,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+492,Imagine Hair Salon,"857 Villa Street, Mountain View, CA, 94041",(650) 968-8602,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+493,Hong Kong Bakery and Cafe,"210 Castro Street, Mountain View, CA",(650) 969-3153,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+494,Ramen Izakaya Yu-Gen,"152 Castro Street, Mountain View, CA",(650) 428-0888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+495,Dr. Yvette Tan Antonio Family Dentistry,327C Moffett Boulevard,(650) 961-5424,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+496,Bailey Beauty Salon,"570 North Shoreline Boulevard, Mountain View, CA, 94043",(650) 967-3003,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+497,Sushi Jin,"580 North Rengstorff Avenue, Mountain View, 94043",(650) 386-5885,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+498,Star Nail Spa,"580 North Rengstorff Avenue, Mountain View, 94043",(650) 969-4516,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+499,Beauty Salon Haircut,"580 North Rengstorff Avenue, Mountain View, 94043",(650) 965-4581,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+500,Mercedes Benz Repair,2362 Old Middlefield Way,(650) 593-1300,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+501,Royal Beauty Salon,"1040 North Rengstorff Avenue, Mountain View, CA, 94043",(650) 390-0688,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+502,Nail Touch Beauty Salon,1020 North Rengstorff Avenue,(650) 938-8471,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+503,Blades Styling,"3966 Middlefield Road, Palo Alto, CA, 94303",(650) 494-2987,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+504,Yardbird Equipment,"2532 Old Middlefield Way, Mountain View, 94043",(650) 969-8665,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+505,D'Cache Beauty Salon,"Latham Street, Mountain View, California, 94039 (reverse-geocoded approximate)",(650) 625-8991,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+506,Emergency Animal Care,"601 Showers Drive, Mountain View, CA, 94040",(650) 494-1461,veterinary,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+507,Esther's German Restaurant,"987 North San Antonio Road, Los Altos, CA, 94022",(650) 941-4463,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+508,A Good Morning,"West El Camino Real, Los Altos, California, 94022 (reverse-geocoded approximate)",(650) 941-8154,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+509,Amici,450 San Antonio Road,(650) 961-6666,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+510,The Sea by Alexander's Steakhouse,"4269 West El Camino Real, Palo Alto, CA, 94306",(650) 213-1111,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+511,Palo Alto Advanced Dentists,4191,(650) 324-4900,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+512,Sushi Tomo,"4131 El Camino Way, Palo Alto",(650) 856-1100,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+513,Hong Kong Restaurant,"3691 El Camino Real, Palo Alto, CA, 94306",(650) 251-9062,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+514,Smog 4 Less,"3508 El Camino Real, Palo Alto",(650) 383-7664,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+515,Wilmer Hale,"950 Page Mill Road, Palo Alto, 94304",(650) 858-6000,lawyer,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+516,Hairshaper's Club,"453 South California Avenue, Palo Alto, CA, 94306",(650) 329-8040,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+517,Salon 454,"454 Cambridge Avenue, Palo Alto, CA, 94306",(650) 799-8308,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+518,Palo Alto Sol,"408 South California Avenue, Palo Alto, 94306",(650) 328-8840,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+519,Daigo,"2363 Birch Street, Palo Alto, CA, 94306",(650) 384-6880,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+520,Hair Studio,"101 South California Avenue, Palo Alto, 94036",(650) 473-1213,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+521,Pho Banh Mi,"405 University Avenue, Palo Alto, CA, 94301",(650) 559-0382,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+522,Simply Be Beautiful,"530 University Avenue, Palo Alto, CA, 94301",(650) 323-1009,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+523,Menlo Park Smog,"710 O'Keefe Street, Menlo Park, California, 94301 (reverse-geocoded approximate)",(650) 323-7664,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+524,Ochoas Beauty Salon,720 Willow Road,(650) 325-2125,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+525,New Generation Nails,724,(650) 323-4987,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+526,Tony's Pizza,820 Willow Road,(650) 853-0860,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+527,Markstyle,"Willow Road, Menlo Park, California, 94301 (reverse-geocoded approximate)",(650) 325-4075,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+528,Nina's Nails & Hair,891 Hamilton Avenue,(650) 324-3978,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+529,Mi Taqueria,875 Hamilton Avenue,(650) 289-0451,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+530,J&J Hawaiian Barbeque,"1170 Alma Street, 94025",(650) 323-6137,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+531,Simpson's Barber Shop,1181,(650) 853-9913,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+532,Park Avenue Salon and Spa,"609 Santa Cruz Avenue, Menlo Park, CA, 94025",(650) 328-6311,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+533,LaMigliore Salon,"644 Santa Cruz Avenue, Menlo Park, CA, 94025",(650) 321-1100,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+534,Sky Nails,"1059 Crane Street, Menlo Park, CA, 94025",(650) 462-0836,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+535,Turfside Grille,3151,(650) 362-4109,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+536,Las Parrillas,"Semicircular Road, North Fair Oaks, California, 94027 (reverse-geocoded approximate)",(650) 369-2040,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+537,Tere's Boutique,3270,(650) 364-0239,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+538,Rocio Alvizar,3227,(650) 365-1949,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+539,Vico's Beauty Salon,3225,(650) 257-3156,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+540,Amparo's Shoe Repair,3205,(650) 575-8691,shoes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+541,Zessy's Beauty Salon,3149,(650) 207-9292,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+542,Hometown Noodles,3153,(650) 367-0657,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+543,United,3196,(650) 720-0875,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+544,Taqueria Gonzales,3194,(650) 365-6405,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+545,Villa Latina,3176,(650) 364-7400,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+546,Irma's Beauty Salon,"4th Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate)",(650) 363-0288,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+547,Hair and Nails by Nancy,3144,(650) 261-1645,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+548,Glamerous Looks Salon,3142,(650) 365-3130,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+549,Joyeria 3RRR,"Middlefield Road, North Fair Oaks, California, 94061 (reverse-geocoded approximate)",(650) 771-1361,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+550,Samantha's Salon,"2nd Avenue, Redwood City, California, 94061 (reverse-geocoded approximate)",(650) 298-8136,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+551,San Luis Auto Glass,3017,(510) 927-1781,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+552,L&M Transmissions,2951,(650) 366-7185,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+553,Joe's Auto Repair,2914,(650) 716-3915,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+554,Tzintzun Auto Repair,"Crocker Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate)",(650) 204-5715,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+555,H&H Automotive,2835,(650) 368-7052,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+556,Uruapan,2844,(650) 366-2514,furniture,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+557,Osuna Auto Repair,"Pacific Avenue, North Fair Oaks, California, 94061 (reverse-geocoded approximate)",(650) 365-2364,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+558,A&S Automotive,2670,(650) 261-9177,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+559,Redwood City Transmission,412,(650) 361-1676,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+560,Estraella Smog Check,2627,(650) 364-0530,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+561,La Chapina,"2601 Middlefield Road, Redwood City",(650) 363-8903,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+562,Liebe's Auto Body,"2549 Middlefield Road, Redwood City",(650) 365-8478,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+563,La Tres Marias,"2505 Middlefield Road, Redwood City",(650) 260-2940,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+564,MsKouture,1775 Broadway,(650) 743-1917,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+565,Michele's Hair Care,1201 6th Avenue,(650) 593-0584,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+566,Belmont Dental,Masonic Way,(650) 593-5110,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+567,Pilgrim Kitchen,"311 El Camino Real, Belmont, CA, 94002",(650) 592-0638,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+568,SeeU Cafe,"1465 Beach Park Boulevard, Foster City, 94404",(650) 357-0088,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+569,Java Blue (Patio Coffee Shop),"25 West 25th Avenue, 94403",(650) 570-3037,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+570,Sunesy Hair Design,"South El Camino Real, San Mateo, California, 94402 (reverse-geocoded approximate)",(650) 437-2271,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+571,The Pantry,"1855 South Delaware Street, San Mateo, CA, 94402",(650) 345-4544,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+572,Bucky’s Cocktail Lounge,"101 South Boulevard, San Mateo, CA",(650) 349-4711,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+573,Spiedo Restaurant,223 East 4th Avenue,(650) 375-0818,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+574,Izakaya Mai,212 2nd Avenue,(650) 347-2511,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+575,Gosch Bros Auto Pros,"124 South Amphlett Boulevard, San Mateo, CA, 94401-2941",(650) 454-4163,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+576,L'Vian Boutique,"317 Primrose Road, Burlingame, CA",(650) 344-4707,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+577,V&V Nails,220 Broadway,(650) 652-9999,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+578,De Design,289 Broadway,(650) 697-1210,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+579,The Kitchen,"279 El Camino Real, Milbrae, CA, 94030",(650) 692-9688,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+580,San Bruno Transmission & Auto Repair,"San Bruno Avenue East, San Bruno, California, 94066 (reverse-geocoded approximate)",(650) 589-2122,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+581,Fil-Am Cuisine 2,"321 Grand Avenue, South San Francisco",(650) 871-5010,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+582,South City Hair,"250 Grand Avenue, South San Francisco, CA",(650) 873-6787,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+583,Melissa's Taqueria,"160 Visitacion Avenue, Brisbane, CA, 94005",(415) 656-1369,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+584,Round N Round Pot,"182 Old County Road, Brisbane, CA, 94005",(415) 715-8419,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+585,Pupuseria El Golazo,"Geneva Avenue, San Francisco, California, 94112 (reverse-geocoded approximate)",(650) 759-5980,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+586,Tikal,"5099 Mission Street, San Francisco, CA, 94112",(415) 347-7125,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+587,Western Donuts,"5101 Mission Street, San Francisco, CA, 94112",(415) 900-6985,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+588,Ray Oliver Caoili D.D.S.,"5105 Mission Street, San Francisco, CA, 94112",(415) 469-7111,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+589,J&J Hardware Store,"929 Geneva Avenue, San Francisco, CA, 94112",(415) 239-8998,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+590,Taqueria La Iguana Azul,"928 Geneva Avenue, San Francisco, CA, 94112",(415) 786-7814,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+591,Taqueria Mi Sazon,"5300 Mission Street, San Francisco, CA, 94112",(415) 585-8243,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+592,Hayden Auto Care,"5400 Mission Street, San Francisco, CA, 94112",(415) 333-3188,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+593,Excelsior Auto Care,"2800 Alemany Boulevard, San Francisco, CA, 94112",(415) 586-0633,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+594,BeeFadezz,"6029 Mission Street, Daly City, CA, 94014-2007",(415) 909-0883,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+595,Da Pan,3995 Alemany Boulevard,(698) 895-0501,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+596,Emmy's Restaurant,"1923 Ocean Avenue, San Francisco, CA, 94127",(415) 585-8887,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+597,Mahogany House of Styles,"Ocean Avenue, San Francisco, California, 94127 (reverse-geocoded approximate)",(415) 239-5156,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+598,Java on Ocean Cafe,"1700 Ocean Avenue, San Francisco, CA, 94112",(415) 333-6075,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+599,Jolie Elegance Spa,1418 Ocean Avenue,(415) 585-2409,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+600,Sakesan Sushi & Robata,"1400 Ocean Avenue, San Francisco, CA, 94112",(415) 347-7898,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+601,Go Go 7,"1300 Ocean Avenue, San Francisco, CA, 94112",(415) 333-4344,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+602,TS cafe,4750;4752;4756 Mission Street,(415) 825-5231,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+603,Unique Automotive,"4650 Mission Street, San Francisco, CA, 94112",(415) 586-1405,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+604,Los Planes de Renderos,"12 Persia Avenue, San Francisco, CA, 94112",(415) 585-8645,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+605,Pacitas Salvadorean Bakery,"10 Persia Avenue, San Francisco, CA, 94112",(415) 452-8442,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+606,Tanjessy Gifts Jewelry & Accessories,9 Persia Avenue,(415) 350-9747,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+607,Oscar Laundromat,200 Brazil Avenue,(415) 583-1024,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+608,Double Shot Coffee,"4587 Mission Street, San Francisco, CA, 94112",(415) 508-9064,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+609,Tasty Coffee,"1818 San Jose Avenue, San Francisco, CA, 94112",(415) 585-8853,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+610,Cafe Bello,"2885 Diamond Street, San Francisco, CA",(415) 585-3457,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+611,Higher Grounds Coffee House and Restaurant,"691 Chenery Street, San Francisco, CA",(415) 587-2933,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+612,Choice Yakiniku,"5214A Diamond Heights Boulevard, San Francisco, CA, 94131",(415) 206-9755,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+613,Of Barbers and Bears,"4137 1/2 24th Street, San Francisco",(510) 415-6098,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+614,Noe Bagels,"3933 24th Street, San Francisco, CA, 94114",(415) 643-9634,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+615,Dumpling Kitchen,"3913 24th Street, San Francisco, CA, 94114",(415) 282-4969,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+616,Hillside Laundromat,3451 22nd Street,(510) 473-5367,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+617,Esperpento,"3295 22nd Street, San Francisco, CA",(415) 282-8867,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+618,Ezzo Rotisserie,"3388 24th Street, San Francisco, CA, 94110",(415) 410-1026,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+619,Big Mouth Burgers & Beers,"3392 24th Street, San Francisco, CA, 94110",(415) 821-4821,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+620,Pacific Collision Care,1423 Valencia Street,(415) 525-4965,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+621,El Rinconcito Nicaraguense,"2943 Mission Street, San Francisco, CA, 94110",(415) 643-4620,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+622,Eddy's Tax and Accounting,"3420 25th Street, San Francisco",(415) 529-1387,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+623,Lian Nails,2890 Mission Street,(415) 648-5826,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+624,Ariel’s Breakfast Mi Yucatan,"2845 Mission Street, San Francisco, CA, 94110",(415) 285-4455,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+625,Hollywood Beauty Salon,2863 Mission Street,(415) 410-1200,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+626,The Phone Booth,"1398 South Van Ness Avenue, San Francisco, CA, 94110",(415) 648-4683,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+627,Pepe’s Auto Repair,1500 South Van Ness Avenue,(415) 970-9232,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+628,El Honduras,3047 Mission Street,(415) 341-0013,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+629,Las Brisas de Acapulco,"3137 Mission Street, San Francisco, CA, 94110",(415) 826-1496,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+630,Eco Jewelers,3174 Mission Street,(415) 282-2710,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+631,Healthy Nails,"3187 Mission Street, San Francisco, CA, 94110",(415) 658-7536,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+632,Taqueria Can-Cún,"3211 Mission Street, San Francisco, CA, 94110",(415) 550-1414,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+633,Royal Cuckoo,"3202 Mission Street, San Francisco, 94110",(415) 550-8667,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+634,Brown Bear Realty,303 Cortland Avenue,(415) 285-5700,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+635,LP Decorative Plumbing,"Cortland Avenue, San Francisco, California, 94110 (reverse-geocoded approximate)",(415) 641-7928,plumber,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+636,Progressive Grounds,400 Cortland Avenue,(415) 282-6233,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+637,Bernal Heights Nail Care,430A Cortland Avenue,(415) 401-9096,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+638,Four Seasons Nails and Spa,451 Cortland Avenue,(415) 282-2531,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+639,Moonlight Cafe,634 Cortland Avenue,(415) 647-6448,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+640,Tacos Los Altos,"737 Cortland Avenue, 94110",(415) 821-0701,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+641,Ming Hui Dim Sum,2495 San Bruno Avenue,(415) 468-6188,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+642,Taqueria Gonzalez,2527;2529;2531 San Bruno Avenue,(415) 468-4293,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+643,2546 Cafe,2546 San Bruno Avenue,(415) 468-8008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+644,Ming Hing Restaurant,2550 San Bruno Avenue,(415) 468-5309,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+645,Golden City,"3rd Street, San Francisco, California, 94124 (reverse-geocoded approximate)",(415) 822-3003,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+646,Yan Li,"3rd Street, San Francisco, California, 94124 (reverse-geocoded approximate)",(415) 822-8978,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+647,Generation Nails,"Evans Avenue, San Francisco, California, 94124 (reverse-geocoded approximate)",(415) 648-2933,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+648,3R Automotive,240 Bayshore Boulevard,(415) 955-7277,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+649,Laura's Beauty and Barber Shop,2858 24th Street,(415) 282-9995,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+650,Ana's Dreams,2870 24th Street,(415) 724-3065,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+651,Ambaro Salon & Barbet,2915 24th Street,(415) 240-6173,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+652,Géminis Barber Shop,2933 24th Street,(415) 573-7918,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+653,Center Nails,3008 24th Street,(415) 401-6245,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+654,Cholo Soy,2801 Folsom Street,(415) 341-0027,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+655,Jose R. Sanchez Diamond Setter,"3184 24th Street, San Francisco, CA",(415) 641-1129,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+656,The Jelly Donut,"3198 24th Street, San Francisco, CA, 94110",(415) 648-1419,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+657,J. J. Jewelers,3214 24th Street,(415) 285-9277,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+658,Las Palmeras,"2721;2723 Mission Street, San Francisco, CA, 94110",(415) 285-7796,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+659,Primera Insurance Agency,3339 23rd Street,(415) 829-7312,insurance,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+660,Vanessa's Beauty Salon,3329 23rd Street,(415) 285-1070,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+661,Eyebrow Star,2651A Mission Street,(415) 301-8558,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+662,El Trebol,"3149 22nd Street, San Francisco, CA, 94110",(415) 647-5774,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+663,Pan Lido Salvadoreno,"3147 22nd Street, San Francisco, CA, 94110",(415) 282-3350,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+664,Fiesta Laundromat,"898 South Van Ness Avenue, 94110",(415) 401-7605,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+665,Ambaro,2365 Mission Street,(415) 240-6173,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+666,Little Kite Asian Fusion,3515 20th Street,(415) 285-4926,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+667,Angelica's Hair Salon,"963 Valencia Street, San Francisco",(415) 970-1546,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+668,Java Supreme,"703 Guerrero Street, San Francisco, CA, 94110",(415) 647-2530,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+669,500 Club,"500 Guerrero Street, San Francisco, CA, 94110",(415) 861-2500,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+670,Ramen Izakaya Goku,"3232 16th Street, San Francisco, 94103",+1 415 9340321;+1 415 9313118,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+671,Alhamra,3083 16th Street,(415) 621-3935,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+672,De Angelis,573 Valencia Street,(415) 861-9800,furniture,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+673,District Tea,"2154 Mission Street, San Francisco, CA, 94110-1247",(415) 638-6134,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+674,Clean Cut,2263 Mission Street,(415) 757-0780,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+675,La Barberhood,2275 Mission Street,(415) 933-5601,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+676,Homestead,"19th Street, San Francisco, California, 94110 (reverse-geocoded approximate)",(415) 282-4663,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+677,El Tepa,2198 Folsom Street,(415) 255-8372,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+678,El Yucateco Bakery,2907 16th Street,(415) 655-3402,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+679,Doña Mago,301 South Van Ness Avenue,(415) 573-8586,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+680,Shanghai China Restaurant,1559 Mission Street,(415) 621-8188,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+681,All Star Cafe,"1500 Market Street, 94102",(415) 252-9888,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+682,Tsubasa Sushi,"429 Gough Street, San Francisco, CA, 94102",(415) 551-9688,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+683,Pete's Launderette & Cleaners,"600 Octavia Street, San Francisco, CA, 94102",(415) 863-5084,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+684,Martuni's,"4 Valencia Street, San Francisco, CA, 94103",(415) 241-0205,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+685,Nail Art iSF,"1845 Market Street, San Francisco, CA, 94103",(415) 241-0878,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+686,Zip Zap Hair,"245 Fillmore Street, San Francisco, 94117",(415) 621-1671,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+687,Taquería Estrella,533 Haight Street,(415) 861-1455,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+688,Di Ciccio,511 Duboce Avenue,(415) 431-3357,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+689,Shanghai Dumpling King,720 14th Street,(415) 757-0439,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+690,Willkommen,"2198 Market Street, San Francisco, CA, 94114",(415) 322-3302,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+691,People Hair & Nails Spa,"207 Sanchez Street, San Francisco, CA, 94114",(415) 621-2729,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+692,Warakubune Sushi,301 Church Street,(415) 252-8383,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+693,Eiji,"317 Sanchez Street, San Francisco, CA, 94114",(415) 558-8149,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+694,Bruno Hair Design,"597 Castro Street, 94114",(415) 621-7710,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+695,Dumpling Kitchen,"544 Castro Street, San Francisco, CA, 94114",(415) 874-9882,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+696,Citizen Clothing,"489 Castro Street, 94114",(415) 575-3560,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+697,Lisa Hair Design,"421 Castro Street, 94114",(415) 626-6268,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+698,The Coffee Lama,"1300 Haight Street, San Francisco, CA, 94117",(415) 865-0929,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+699,Four Seasons Nails & Tanning,"2076 Hayes Street, San Francisco, CA, 94117",(415) 386-2793,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+700,Deluxe Lavender Nail Spa,"113 Carl Street, San Francisco, CA, 94117",(415) 323-6909,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+701,Barrera's Cocina Mexicana,"900 Stanyan Street, San Francisco, CA, 94117-3807",(415) 238-7270,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+702,Cole Valley Nail Salon,"510 1/2 Frederick Street, San Francisco, CA, 94117",(415) 731-6088,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+703,Hugo Street Launderette,"215 Hugo Street, San Francisco, CA, 94122",(415) 819-4859,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+704,The Yellow Submarine,"503 Irving Street, San Francisco, 94122",(415) 681-5652,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+705,May Lee's Restaurant,"1256 7th Avenue, San Francisco, CA, 94122",(415) 242-1006,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+706,Lisa's Lash,600 Irving Street,(415) 702-6379,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+707,Banh Mi Crunch,646 Irving Street,(628) 256-3711,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+708,Salon J,"634 Irving Street, San Francisco, 94122",(415) 566-6789,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+709,Daily Beauty Supply & Salon,"605 Irving Street, San Francisco, CA, 94122",(415) 513-9756,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+710,Mike's Union Auto Service,"1311 7th Avenue, San Francisco, CA, 94122",(415) 963-1292,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+711,Tun Beauty Salon,"1373 7th Avenue, San Francisco, CA, 94122",(415) 564-8982,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+712,Sensi Nails,"338 Judah Street, CA, 94122",(415) 665-6245,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+713,Hing Wang Bakery,"339 Judah Street, San Francisco, CA, 94122",(415) 681-3928,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+714,Green Spa & Nail,"Judah Street, San Francisco, California, 94122 (reverse-geocoded approximate)",(415) 702-6704,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+715,Gentle Nail Salon,1414 9th Avenue,(415) 702-6559,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+716,Pasquale's,"700 Irving Street, San Francisco, 94122",(415) 661-2140,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+717,Street Taco,"712 Irving Street, San Francisco, 94122",(415) 681-9205,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+718,Yancy's Saloon,"734 Irving Street, San Francisco, 94122",(415) 665-6551,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+719,Qing Shu,"816 Irving Street, San Francisco, CA, 94122",(415) 702-6255,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+720,New Eritrean Restaurant & Bar,"907 Irving Street, San Francisco, CA, 94122",(415) 681-1288,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+721,Accent on Beauty,"924 Irving Street, San Francisco, CA, 94122",(415) 731-3097,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+722,Avenue Dental,"926 Irving Street, San Francisco, CA, 94122",(415) 564-9888,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+723,High Touch Nail Salon,"954 Irving Street, San Francisco, CA, 94122",(415) 566-1368,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+724,Social Cleaning Laundromat,"1001 Irving Street, San Francisco, CA, 94122",(415) 287-7773,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+725,Yummy Yummy,"1015 Irving Street, San Francisco, CA, 94122",(415) 566-4722,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+726,Ben Salon,"1098 Irving Street, San Francisco, CA, 94122",(415) 570-1715,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+727,Irving Subs and Cheese Shop,"1298 12th Avenue, San Francisco, CA, 94122",(415) 566-3155,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+728,Mai Ling Hair Design,"1112 Irving Street, San Francisco, CA, 94122",(415) 566-5330,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+729,Jenny's Hair Salon,1235 Noriega Street,(415) 242-0168,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+730,Be Salon,"1306 Noriega Street, San Francisco, CA, 94122",(415) 926-2227,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+731,SF Nail Spa,"1324 Noriega Street, San Francisco, CA, 94122",(415) 564-5581,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+732,Noodle Stop,"1325 Noriega Street, San Francisco, CA, 94122",(415) 753-6688,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+733,Thái Nghiệp Ký Mì Gia,1427 Noriega Street,(415) 682-8528,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+734,Neon Shade,1500 Noriega Street,(415) 753-2368,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+735,Top Design Beauty Salon,"1551 Noriega Street, San Francisco, CA, 94122",(415) 566-1182,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+736,C & W Tailoring,1622 Noriega Street,(415) 661-9998,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+737,Top Design Beauty Salon,1836 Lawton Street,(415) 518-1092,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+738,All Bay Properties,1313 24th Avenue,(415) 298-9888,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+739,City Cuts,"2324 Irving Street, San Francisco, CA, 94122",(415) 564-7678,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+740,Sunny WheatField Cafe,"2305 Irving Street, San Francisco, CA, 94122",(415) 681-1988,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+741,Happy Bakery / Dim Sum To Go,"2249;2253 Irving Street, San Francisco, CA, 94122",+1 415-661-8261; +1 415-661-1386,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+742,Bon Beauty Salon,"2230 Irving Street, San Francisco, CA, 94122",(415) 665-7282,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+743,Steam Rice Roll King,"2228 Irving Street, San Francisco, CA, 94122",(415) 571-8739,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+744,Guangdong Barbecue Restaurant,"2191 Irving Street, San Francisco, CA, 94122",(415) 731-9948,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+745,Quê Huong Vietnamese Deli,"2138 Irving Street, San Francisco, CA, 94122",(415) 682-3828,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+746,Salon de Hong Kong,"2100 Irving Street, San Francisco, CA, 94122",(415) 759-1899,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+747,Modern Design Salon,"2027 Irving Street, San Francisco, CA, 94122",(415) 753-0363,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+748,Salon 828,"2004 Irving Street, San Francisco, CA, 94122",(415) 665-1788,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+749,"Randall W. Tom, DDS","1268 20th Avenue, San Francisco, CA, 94122",(415) 681-4291,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+750,PPQ (Phở Phú Quốc) Beef Noodle House,"1816 Irving Street, San Francisco, CA, 94122",(415) 661-8869,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+751,TopCuts,"1642A Irving Street, San Francisco, CA, 94122",(415) 802-3832,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+752,T T Nail Spa Waxing,"1654 Irving Street, San Francisco, CA, 94122",(415) 564-5286,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+753,Unique Beauty,"1648A Irving Street, San Francisco, CA, 94122",(415) 941-8437,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+754,Lola Milo Salon,"1645 Irving Street, San Francisco, CA, 94122",(415) 810-1550,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+755,Carol Yee Insurance Agency,"1629 Irving Street, San Francisco, CA, 94122",(415) 661-1331,insurance,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+756,Friendly Cuts,"1505 Irving Street, San Francisco, CA, 94122",(415) 665-1368,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+757,Yoma Cafe,"1518 Irving Street, San Francisco, CA, 94122",(415) 742-4360,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+758,Balboa Bubbles,2001 Balboa Street,(415) 789-6679,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+759,Buffalo Burgers,"5317 Geary Boulevard, San Francisco, CA, 94121",(415) 668-1267,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+760,Sweet Mango,5217 Geary Boulevard,(415) 668-8812,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+761,amphawa,5020 Geary Boulevard,(415) 221-2824,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+762,Sagarmatha Kitchen,4828 Geary Boulevard,(415) 571-8105,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+763,"Randolph Yip, DDS","4800;4804 Geary Boulevard, San Francisco, California, 94118 (reverse-geocoded approximate)",(415) 221-4800,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+764,Express Pupuseria,4715 Geary Boulevard,(415) 666-3534,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+765,Korean Village Wooden Charcoal,4611 Geary Boulevard,(415) 751-6336,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+766,Celandine Day Spa,404 8th Avenue,(415) 666-0800,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+767,Muu Kara Thai Charcoal BBQ,"4217 Geary Boulevard, San Francisco, CA, 94118",(415) 702-6565,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+768,"Donald S. Lim, D.D.S",4215 Geary Boulevard,(415) 387-0220,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+769,LH Restaurant,"4142 Geary Boulevard, San Francisco, CA, 94118",(415) 387-1234,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+770,The Richmond,"615 Balboa Street, San Francisco, CA, 94118",(415) 379-8988,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+771,Xiao Yu's Kitchen,560 Balboa Street,(415) 742-4392,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+772,Luxury Spa,405 Balboa Street,(415) 702-6351,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+773,Muguboka,"401 Balboa Street, San Francisco, 94118",(415) 668-6007,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+774,O'Keeffe's,"598 5th Avenue, San Francisco, CA, 94118",(415) 751-1449,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+775,Hair Touch,341 Balboa Street,(415) 876-7728,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+776,"Yan Kalika D.M.D., M.S.",3412 Geary Boulevard,(415) 752-0654,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+777,Sohn & Song Accountancy Corp.,3001 Geary Boulevard,(415) 379-6860,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+778,Club Waziema,"543 Divisadero Street, San Francisco, 94117",(415) 346-6641,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+779,Katsuo+Kombu,559 Divisadero Street,(415) 829-3150,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+780,NewBills Barbershop & Salon,781 Divisadero Street,(415) 374-4353,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+781,Sung's Automotive,999 Divisadero Street,(412) 346-5976,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+782,Geomantic Salon,1221 Divisadero Street,(415) 549-7276,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+783,Asian American Medical Center,"1630 Geary Boulevard, CA",(415) 346-2828,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+784,Osakaya,"Geary Boulevard, San Francisco, California, 95115 (reverse-geocoded approximate)",(415) 922-2728,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+785,Trio Nails,1832 Buchanan Street,(415) 931-9261,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+786,9 Nail Spa,"Franklin Street, San Francisco, California, 94164 (reverse-geocoded approximate)",(415) 567-3861,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+787,Wayo,"1407 Van Ness Avenue, San Francisco, CA",(415) 561-9598,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+788,Victor's Pizzeria & Restaurant,"1411 Polk Street, San Francisco, CA",(415) 885-1660,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+789,Aicha,"1303 Polk Street, San Francisco, CA",(415) 345-9947,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+790,Sammy's Cafe,"1416 Bush Street, San Francisco, CA",(415) 749-1938,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+791,La Fina Estampa,"1407 Bush Street, San Francisco, CA, 94109",(415) 345-1685,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+792,Route 101,"1332 Van Ness Avenue, San Francisco, CA, 94109",(415) 874-9360,bar,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+793,Fingertips,"1309 Sutter Street, San Francisco",(415) 567-2092,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+794,Village Pizzeria,"1243 Van Ness Avenue, San Francisco, CA",(415) 673-7771,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+795,Wok Shop Cafe,"1233 Van Ness Avenue, San Francisco, CA, 94109",(415) 771-2142,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+796,Piroo,"1101 Polk Street, San Francisco, CA, 94109",(415) 757-0756,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+797,Wen's Kitchen,"1150 Polk Street, San Francisco, CA, 94109",(415) 771-6888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+798,Armando for Hair,"Sutter Street, San Francisco, California, 94164 (reverse-geocoded approximate)",(415) 441-1724,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+799,Ling's Salon,648 Hyde Street,(415) 921-8402,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+800,Ling Beauty Salon,753 O'Farrell Street,(415) 361-6779,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+801,Sam's Bakery,"753 Polk Street, San Francisco",(415) 834-5682,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+802,Jarin Thia Cuisine,"Ellis Street, San Francisco, California, 94102 (reverse-geocoded approximate)",(415) 563-5746,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+803,Pronto Pizza & Espresso,"798 Eddy Street, San Francisco",(415) 921-1999,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+804,Cafe 450 Eurest Dining,"450 Golden Gate Avenue, San Francisco, CA, 94102",(415) 621-0874,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+805,Larkin Restaurant,"607 Larkin Street, San Francisco, CA",(415) 400-4463,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+806,Mayfair Beauty Salon,"333;335 Hyde Street, San Francisco, California, 94102 (reverse-geocoded approximate)",(415) 474-4853,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+807,Mộng Thu,248 Hyde Street,(415) 928-6724,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+808,Mom Banh Mi,"411 Ellis Street, San Francisco, CA",(415) 796-2492,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+809,Cafecito,"406 Ellis Street, San Francisco, CA, 94102",(415) 874-9508,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+810,Pho Tan Hoa,431;435 Jones Street,(415) 673-3163,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+811,El Rincon Yucateco,"491 O'Farrell Street, San Francisco, CA",(415) 872-9231,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+812,Marcela's Taqueria,"595 Geary Street, San Francisco, CA, 94102",(415) 658-7950,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+813,Crystal Spa,"577 Geary Street, San Francisco, CA",(415) 829-7553,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+814,Sugarcoat Salon,"619 Post Street, San Francisco",(415) 441-1868,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+815,Ton Ton Japanese Ramen House,"422 Geary Street, San Francisco, CA",(415) 874-9664,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+816,Nave Cafe,"242 Powell Street, 94102",(415) 601-2677,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+817,Noori Stitch,"Powell Street, San Francisco, California, 94108 (reverse-geocoded approximate)",(510) 695-4471,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+818,Maru Sushi,"529 Powell Street, San Francisco, CA, 94108",(415) 393-9911,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+819,Beanstalk Cafe,"724 Bush Street, 94108",(415) 576-1966,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+820,Fresh Brew Coffee,882 Bush Street,(415) 567-0915,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+821,Tina's Salon,"931 Bush Street, San Francisco, CA",(415) 346-5725,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+822,Metropolitan,1018 Bush Street,(925) 293-6463,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+823,Morning Fix Cafe,"1008 Bush Street, San Francisco, CA",(415) 875-9598,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+824,Cafe Bean,800 Sutter Street,(415) 928-0888,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+825,Cup of Joy,896 Sutter Street,(415) 563-7745,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+826,The Floral Designer,963 Hyde Street,(415) 775-2757,florist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+827,Hair on Hyde,1402 California Street,(415) 674-9689,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+828,Costa Del Sol Tanning,"1426 California Street, San Francisco, CA",(415) 771-3577,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+829,Lady Goldfingers,1432 California Street,(415) 441-8857,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+830,Hair Future,1434 California Street,(415) 771-9577,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+831,CC Nail Spa,"1472 California Street, San Francisco, CA",(415) 887-8989,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+832,Cordon Bleu,"1574 California Street, San Francisco, CA, 94109",(415) 673-5637,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+833,Lan's Formal Wear,"1538;1540;1542;1544 Polk Street, San Francisco, California, 94109 (reverse-geocoded approximate)",(415) 921-2615,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+834,Zee Continental Jewelry,1546 Polk Street,(415) 775-2935,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+835,Union Nails,"1601 Pacific Avenue, San Francisco, California, 94109 (reverse-geocoded approximate)",(415) 931-0414,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+836,West Coast Nails,"1821 Larkin Street, San Francisco, 94109",(415) 928-1859,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+837,Tong's Cleaners,"1667 Leavenworth Street, San Francisco, CA",(415) 771-1467,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+838,Nadya,"Taylor Street, San Francisco, CA, 94109",(415) 851-0863,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+839,Faces Plus,"1019 Pacific Avenue, San Francisco",(415) 474-9615,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+840,Yong Chang Hair Design,"942 Pacific Avenue, San Francisco",(415) 693-9282,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+841,A&A Hair Design,"835 Broadway, San Francisco, CA",(415) 989-8285,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+842,Jason's Salon,"807 Broadway, San Francisco, CA",(415) 699-4629,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+843,Comprehensive Dental Care,"Broadway, San Francisco, California, 94133 (reverse-geocoded approximate)",(415) 392-0788,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+844,Lana Beauty Salon,"784 Broadway, San Francisco, CA, 94133",(415) 986-5172,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+845,Happy Chinese Restaurant,"1326 Powell Street, San Francisco",(415) 398-1268,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+846,Powell Florist,"1230 Powell Street, San Francisco, CA",(415) 781-8788,florist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+847,Fang Yi Fashion,"872 Jackson Street, San Francisco, CA",(415) 866-3433,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+848,Yan Yang Beauty Salon,"864 Jackson Street, San Francisco, CA",(415) 433-1888,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+849,Ha Tea,"1170 Powell Street, San Francisco, CA",(415) 757-0849,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+850,Jenny Hair Salon,"1117 Powell Street, San Francisco, CA",(415) 982-2833,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+851,A Salon,"999 Powell Street, San Francisco, CA",(415) 399-9888,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+852,Joy's Hair Salon,894 Washington Street,(415) 391-3832,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+853,Lucky Creation,"854 Washington Street, San Francisco",(415) 989-0818,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+854,Sweetheart Cafe,"909 Grant Avenue, San Francisco, CA",(415) 262-9989,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+855,Golden Star Vietnamese Restaurant,11 Walter U. Lum Place,(415) 398-1215,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+856,Golden King Vietnamese Restaurant,757 Clay Street,(415) 217-6888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+857,Zhen Mei Hair Salon,749 Clay Street,(415) 549-6626,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+858,Artist Hair Design,719 Clay Street,(415) 989-1238,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+859,Kay Beauty & Skin Care,"615 Kearny Street, San Francisco, CA",+1 415 3982633;+1 415 3926868,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+860,Sushi Boat Restaurant,700 Grant Avenue,(415) 872-9008,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+861,L.D Jewelry,"Grant Avenue, San Francisco, California, 94108 (reverse-geocoded approximate)",(415) 391-1883,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+862,Sutter Cafe,"330 Sutter Street, San Francisco, CA, 94108",(415) 434-3309,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+863,Richard's Hair Design,"330 Sutter Street, San Francisco, CA, 94108",(415) 981-7028,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+864,BLOOMING ALLEY,"330 Sutter Street, San Francisco, CA, 94108",(415) 391-6574,florist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+865,Tailored Salon,"266 Sutter Street, San Francisco, CA, 94108",(415) 501-9205,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+866,HB Alterations,"Claude Lane, San Francisco, California, 94108 (reverse-geocoded approximate)",(415) 986-2959,tailor,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+867,Boydstun & Klingner CPA's,"235 Montgomery Street, San Francisco, CA, 94104",(415) 986-9900,accountant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+868,Caffè Bianco,"39 Sutter Street, San Francisco, CA, 94104",(415) 780-1807,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+869,Caramba,"2nd Street, San Francisco, California, 94104 (reverse-geocoded approximate)",(415) 543-8226,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+870,St. John,"767 Market Street, San Francisco, CA, 94103",(415) 856-0420,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+871,Cable Car Coffee,900 Market Street,(415) 470-0170,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+872,Taquerria Castillo B2,"10 Mason Street, San Francisco, CA, 94102",(415) 986-0426,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+873,Ady Barber & Beauty,"Mission Street, San Francisco, California, 94103 (reverse-geocoded approximate)",(415) 341-1047,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+874,Yamato Auto Repair,1359 Harrison Street,(415) 346-5116,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+875,Hello Bahn Mi,681 Townsend Street,(415) 658-7181,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+876,U & I Auto Safety Center,"758 Bryant Street, San Francisco, CA",(415) 255-7337,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+877,The Sandwich Boss at EPC,"600 Harrison Street, San Francisco, CA, 94107",(415) 777-4709,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+878,Bahn Mi King,"San Francisco, CA",(415) 664-0893,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+879,Ozzy's  Cafe & Grill,"21 Drumm Street, San Francisco, CA, 94111",(415) 391-8181,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+880,Lucky Nails,17 Drumm Street,(415) 981-5321,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+881,Il Canto Cafe,475 Sacramento Street,(415) 202-3593,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+882,Oolong Noodles,"646 Washington Street, San Francisco, CA, 94111",(415) 986-2737,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+883,Ravi,"533 Jackson Street, San Francisco, 94133",(415) 693-0499,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+884,Yee Hing Clothing Store,"603 Jackson Street, San Francisco",(415) 632-8663,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+885,Yummy Bakery & Cafe,"607 Jackson Street, San Francisco, CA",(415) 989-8388,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+886,Brioche Bakery & Cafe,"210 Columbus Avenue, San Francisco, CA, 94133",(415) 572-3858,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+887,"Oriental Shopping Center, Inc","620 Pacific Avenue, San Francisco, CA",(415) 397-7366,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+888,Yummy Yummy,"758;760 Pacific Avenue, San Francisco, California, 94133 (reverse-geocoded approximate)",(415) 391-1068,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+889,Little Paris,"1131 Stockton Street, San Francisco, CA, 94133",(415) 982-6111,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+890,Wa Li Bakery & Cafe,"1249 Stockton Street, San Francisco, CA",(415) 986-1660,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+891,Yummy BBQ Kitchen,683 Broadway,(415) 378-3768,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+892,V.I.P Coffee & Cake Shop,671 Broadway,(415) 989-7118,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+893,Café Broadway,674 Broadway,(415) 956-1668,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+894,V & J Cafe,670 Broadway,(415) 788-2822,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+895,Ann's For Hair,"Columbus Avenue, San Francisco, 94133",(415) 391-3860,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+896,Water Lily Cleaners,"2201 Powell Street, San Francisco",(415) 391-2850,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+897,DeLise Dessert cafe,"327 Bay Street, San Francisco, CA, 94133",(415) 399-9694,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+898,Swiss Louis,"Pier 39, San Francisco, CA, 94133",(415) 421-2913,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+899,The Chowder Hut Grill,"2890 Taylor Street, San Francisco, CA, 94133",(415) 776-1849,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+900,Tanguito,"2850 Jones Street, San Francisco",(415) 577-4223,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+901,Little Kitchen,"2401 Polk Street, San Francisco",(415) 922-5526,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+902,Ramen Sho Ryu,"2123 Polk Street, San Francisco, CA, 94109",(415) 400-4732,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+903,Pearly Nails,2015 Van Ness Avenue,(415) 567-2866,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+904,Elite Fine Jewelry,2480 Sacramento Street,(415) 931-9100,jewelry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+905,San Francisco Animal Medical Center,2343 Fillmore Street,(415) 872-1872,veterinary,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+906,D & A Cafe,407 Clement Street,(415) 668-7883,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+907,Chocococo,455 Clement Street,(628) 233-8088,clothes,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+908,Wing Lee B.B.Q. Restaurant,501 Clement Street,(415) 831-7883,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+909,Wing Lee Bakery,503 Clement Street,(415) 668-9481,bakery,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+910,Golden Phoenix Hair Salon,514 Clement Street,(415) 752-4524,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+911,Fame Hair Design,616 Clement Street,(415) 386-8617,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+912,Red A Bakery,634 Clement Street,(415) 668-8881,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+913,Xiao Long Bao Restaurant,625 Clement Street,(415) 666-3998,fast_food,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+914,Clement BBQ,617 Clement Street,(415) 666-3328,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+915,Moku Yakitori,"312 8th Avenue, San Francisco, CA, 94118",(415) 379-4113,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+916,SF Smiles Dental,319 8th Avenue,(415) 668-2600,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+917,May's Hair Design,"746 Clement Street, San Francisco, CA, 94118",(415) 379-9928,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+918,Sewa,"815 Clement Street, San Francisco, CA, 94118",(415) 742-4596,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+919,Chongqing Hot Pot,832 Clement Street,(415) 831-8811,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+920,Lime Tree,"836 Clement Street, CA, 94118",(415) 831-8811,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+921,Fairy Lake Aquarium,1609 Clement Street,(415) 752-3527,pet,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+922,Mai's Beauty Salon,5547 Geary Boulevard,(415) 752-1642,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+923,Aquatica Nails,5707 Geary Boulevard,(415) 422-0448,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+924,Pho Huong Viet,5733 Geary Boulevard,(415) 702-6177,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+925,Nail Care by Theresa,5815 Geary Boulevard,(415) 806-8329,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+926,An Chi,"5827 Geary Boulevard, San Francisco, CA, 94121",(415) 702-9986,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+927,Qué Chulada,"5848;5850 Geary Boulevard, San Francisco, California, 94121 (reverse-geocoded approximate)",(415) 702-6433,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+928,Izakaya Mayumi,"2221;2223 Clement Street, San Francisco, California, 94121 (reverse-geocoded approximate)",(415) 742-4159,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+929,Kayo Hair,2211 Clement Street,(415) 831-2222,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+930,Fuku Ramen,2110 Clement Street,(415) 683-5979,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+931,Little Sushi Bar,200 23rd Avenue,(415) 682-4418,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+932,Blossom Beauty Salon & Spa,2416 Clement Street,(415) 702-6818,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+933,Chef Xiong Kitchen,"2428 Clement Street, San Francisco, CA, 94121",(415) 706-1623,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+934,Ruby's Cut,2838 Clement Street,(415) 751-1662,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+935,Star East,3101 Clement Street,(415) 666-0777,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+936,Geary Cafe,6900 Geary Boulevard,(415) 422-1423,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+937,Sugarcane SF,6903 Geary Boulevard,(415) 933-8938,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+938,Kufu-Ya,"7001 Geary Boulevard, San Francisco, CA, 94121",(415) 668-8699,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+939,Chino's,"3416 Balboa Street, 94121",(415) 668-9956,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+940,Jessica Liu Insurance Services Inc.,"3428 Balboa Street, 94121",(415) 386-2283,insurance,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+941,Cielito Lindo,3438 Balboa Street,(415) 742-0959,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+942,Taste of Fusion Kitchen,3497 Balboa Street,(415) 742-4560,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+943,Plato Hair Design,"3508 Balboa Street, 94121",(415) 386-2129,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+944,Superior Palace,"3546 Balboa Street, 94121",(415) 387-1386,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+945,Little Henry's,"3600 Balboa Street, 94121",(415) 387-8761,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+946,Julie Nail Spa,"3604 Balboa Street, 94121",(415) 386-2355,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+947,Fuwa Dumpling,"3608 Balboa Street, 94121",(415) 665-6688,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+948,Kim Son,"3614 Balboa Street, 94121",(415) 221-3811,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+949,Mr. Báhn Mì,3605 Balboa Street,(415) 463-6588,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+950,Crown Hardware,"3615 Balboa Street, 94121",(415) 221-9047,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+951,Shanghai House,"3641 Balboa Street, 94121",(415) 831-9288,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+952,H&Q Beauty Salon,"3651 Balboa Street, 94121",(415) 666-0288,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+953,The Pot's,"2652 Judah Street, 94122",(415) 682-7889,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+954,I D Hair Salon,"3950 Irving Street, San Francisco, CA, 94122",(415) 666-0888,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+955,The Clean Cycle Laundromat,"1454 48th Avenue, San Francisco, CA, 94122",(415) 935-1681,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+956,J J Cosmetology Health Spa,"3800 Noriega Street, San Francisco, CA, 94122",(415) 731-8888,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+957,Law Office Of Kurt D. Huysentruyt,3630 Lawton Street,(415) 661-5565,lawyer,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+958,JT’s Auto Repair,"3601 Lawton Street, San Francisco, California, 94122 (reverse-geocoded approximate)",(415) 636-6656,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+959,Sunset Hardware,"3126 Noriega Street, San Francisco, CA, 94122",(415) 987-6048,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+960,Kaili Beauty Nail Salon,2545 Noriega Street,+1 415-741-6822; +1 415-527-8398,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+961,Duke's Hardware,"2526 Noriega Street, San Francisco, CA, 94122-4127",(415) 753-0258,hardware,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+962,Oriental Seafood Restaurant,"Noriega Street, San Francisco, California, 94116 (reverse-geocoded approximate)",(415) 661-8808,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+963,Bright N' Clean Laundry Center,2900 Taraval Street,(510) 579-8419,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+964,Dumpling Kitchen,"1935 Taraval Street, San Francisco, CA, 94116",(415) 662-8938,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+965,T-28 Bakery & Cafe,"1757 Taraval Street, San Francisco, CA",(415) 682-8200,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+966,"Beverly Presley-Nelson, DDS General Dentistry",1749 Taraval Street,(415) 753-0790,dentist,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+967,Taraval Okazu Ya,1735 Taraval Street,(415) 759-6850,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+968,Parkside Day Spa,"1732 Taraval Street, San Francisco, CA",(415) 566-8166,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+969,"United Associates Inv., Inc.",1580 Taraval Street,(415) 566-6868,estate_agent,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+970,Flora Permanent Beauty Center,1572 Taraval Street,(415) 242-9688,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+971,Lou's Cafe,"1508 Taraval Street, San Francisco, CA, 94116",(415) 682-4083,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+972,123 Wash & Dry,"1501 Taraval Street, San Francisco, CA, 94116",(415) 556-3883,laundry,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+973,Dragon Lounge,"1355 Taraval Street, San Francisco, CA, 94116",(415) 566-7700,mobile_phone,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+974,Banhwich,"1105 Taraval Street, San Francisco, CA, 94116",(415) 665-2233,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+975,Made in China,"1033 Taraval Street, San Francisco, CA, 94116",(415) 661-6888,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+976,Just Won Ton,"1241 Vicente Street, San Francisco, CA, 94116",(415) 681-2999,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+977,Riverside Seafood Restaurant,"1201 Vicente Street, San Francisco, CA, 94116",(415) 759-8828,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+978,My Cup of Tea (Cool Tea Bar),"2666 Ocean Avenue, San Francisco, CA, 94127",(415) 753-3338,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+979,Hall of Flame,"73 Cambon Drive, 94132",(415) 584-4444,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+980,Elite Hair Salon Hair Nail,"311 Lake Merced Boulevard, Daly City, CA, 94015",(650) 994-0108,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+981,Coastside Barber Shop,"69 Bill Drake Way, Pacifica, CA, 94044",(650) 355-9954,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+982,Redeye Grill,"446 Manor Plaza, Pacifica, CA, 94044",(650) 359-5188,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+983,New York Nails 2,"45 West Manor Drive, Pacifica, CA, 94044",(650) 359-8386,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+984,Seaview Tire and Brake Center,"66 West Manor Drive, Pacifica, CA, 94044",(650) 355-6889,tyres,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+985,Simon’s Auto Werks,"1518 Francisco Boulevard, Pacifica, CA, 94044",(650) 355-2744,car_repair,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+986,Buona Italia Caffe,"1608 Francisco Boulevard, Pacifica, CA, 94044",(650) 733-7159,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+987,Loco Burger,"1624 Francisco Boulevard, Pacifica, CA, 94044",(650) 290-8111,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+988,Taqueria Pacifica,"1710 Francisco Boulevard, Pacifica, CA, 94044",(650) 735-9983,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+989,Kitten & Pinky,"1715 Palmetto Avenue, Pacifica, CA, 94044",(650) 290-8153,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+990,The Tan Line,"1717 Palmetto Avenue, Pacifica, CA, 94044",(650) 290-8377,beauty,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+991,Cafe Pacifica,"1821 Palmetto Avenue, Pacifica, CA, 94044",(650) 438-1808,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+992,Chit Chat Cafe At the Pier,"2100 Beach Boulevard, Pacifica, CA, 94044",(650) 359-7025,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+993,Reflections Hair Salon,"2116 Palmetto Avenue, Pacifica, CA, 94044",(650) 359-7041,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+994,Johnny’s Barber Shop,"190 Clarendon Road, Pacifica, CA, 94044",(650) 355-3261,hairdresser,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+995,Asian King's Kitchen,"3048 North Cabrillo Highway, Half Moon Bay, CA, 94019",(650) 560-9898,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+996,La Di Da,"500 Purisima Street, 94019",(650) 712-8808,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+997,Cafe Capistrano,"523 Church Street, Half Moon Bay, CA, 94019",(650) 726-7699,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+998,Downtown Local,"213 Stage Road, Pescadero, California, 94060 (reverse-geocoded approximate)",(650) 879-9155,cafe,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+999,Mercado & Taqueria De Amigos,"1999 Pescadero Creek Road, Pescadero, 94060",(650) 879-0232,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search
+1000,Pine Tent,"Rossi Road, California (reverse-geocoded approximate)",(650) 879-7421,restaurant,ATTEMPTED - no likely owned-site hit,,No owned website found in OSM tags or web search

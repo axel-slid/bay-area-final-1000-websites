@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thanh Sơn | fast_food</title>
+    <meta name="description" content="A local food page can make hours, menu highlights, and pickup or delivery links easier to find.">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body style="--primary:#263238;--surface:#f3f6f5;--accent:#3f8f8b;--ink:#111a1d">
+    <header class="hero hero--image" data-hero-pattern="animated-image-hero" data-21st-hero="Animated Hero Section" data-21st-url="https://21st.dev/community/components/ravikatiyar/animated-hero-section-1/default" data-customization-id="153-thanh-son-fast-food-animated-image-hero-addphg">
+      <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
+        <span class="brand"><span class="brand-mark">TS</span>Thanh Sơn</span>
+        <a href="tel:4089750135">(408) 975-0135</a>
+      </nav>
+      <div class="hero__content">
+        <p class="eyebrow motion-item">fast food</p>
+        <h1 class="motion-item">Thanh Sơn</h1>
+        <p class="hero__lead motion-item">Menu-first local dining in San Jose, built for quick calls and pickup decisions.</p>
+        <p class="hero__focus motion-item">Quick dining decisions with phone-first local conversion.</p>
+        <div class="actions">
+          <a class="button motion-item" href="tel:4089750135">Call for menu</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Thanh%20S%C6%A1n%20990%20Story%20Road%2C%20San%20Jose%2C%20CA%2C%2095122">Open map</a>
+          </div>
+        <div class="hero__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>153</span></span><span class="hero-stat motion-item"><span>Category</span><span>fast food</span></span><span class="hero-stat motion-item"><span>Area</span><span>San Jose</span></span></div>
+      </div>
+    </header>
+    <main>
+      <section class="split">
+        <div>
+          <p class="eyebrow">Why this page exists</p>
+          <h2>Everything customers need before reaching out.</h2>
+        </div>
+        <p>A local food page can make hours, menu highlights, and pickup or delivery links easier to find.</p>
+      </section>
+      <section class="info-grid">
+        <article>
+          <span>Address</span>
+          <span class="info-value">990 Story Road, San Jose, CA, 95122</span>
+        </article>
+        <article>
+          <span>Hours</span>
+          <span class="info-value">Th-Tu 07:00-20:00</span>
+        </article>
+        <article>
+          <span>Phone</span>
+          <span class="info-value">(408) 975-0135</span>
+        </article>
+      </section>
+      <section class="services">
+        <p class="eyebrow">Services</p>
+        <h2>Built around real search intent.</h2>
+        <div class="service-list">
+          <article><h3>Quick meals</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Takeout</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Family orders</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Menu questions</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+        </div>
+      </section>
+      <section class="proof">
+        <div>
+          <p class="eyebrow">Lead notes</p>
+          <h2>No owned website confirmed.</h2>
+          <p>No owned website found in OSM tags or web search</p>
+        </div>
+        <div class="links">
+          
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=Thanh%20S%C6%A1n%20990%20Story%20Road%2C%20San%20Jose%2C%20CA%2C%2095122">Google Maps search</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Thanh Sơn</span>
+      <span>Draft local website generated from public lead data.</span>
+    </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
+  </body>
+</html>

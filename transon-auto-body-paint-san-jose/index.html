@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Transon Auto Body &amp; Paint | car_repair</title>
+    <meta name="description" content="Auto customers search with urgency, so an owned page can clarify services, location, and call-before-you-arrive expectations.">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body style="--primary:#14213d;--surface:#f5f7fb;--accent:#fca311;--ink:#111827">
+    <header class="hero hero--console" data-hero-pattern="trust-console-hero" data-21st-hero="Hero Section" data-21st-url="https://21st.dev/community/components/moumensoliman/hero-section-shadcnui/default" data-customization-id="150-transon-auto-body-paint-car-repair-trust-console-hero-1t6c0c5">
+      <img src="https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
+        <span class="brand"><span class="brand-mark">TA</span>Transon Auto Body &amp; Paint</span>
+        <a href="tel:4082867776">(408) 286-7776</a>
+      </nav>
+      <div class="hero__console-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">car repair</p>
+          <h1 class="motion-item">Transon Auto Body &amp; Paint</h1>
+          <p class="hero__lead motion-item">Clear repair intake, hours, and trust cues for drivers in San Jose.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:4082867776">Request service</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Transon%20Auto%20Body%20%26%20Paint%201704%20South%207th%20Street%2C%20San%20Jose%2C%2095112">Open map</a>
+          </div>
+        </div>
+        <aside class="hero-console motion-panel">
+          <span class="hero-console__label">Local intake</span>
+          <p>Repair trust cues, drop-off details, and direct phone intake.</p>
+          <div class="hero-console__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>150</span></span><span class="hero-stat motion-item"><span>Category</span><span>car repair</span></span><span class="hero-stat motion-item"><span>Area</span><span>San Jose</span></span></div>
+        </aside>
+      </div>
+    </header>
+    <main>
+      <section class="split">
+        <div>
+          <p class="eyebrow">Why this page exists</p>
+          <h2>Everything customers need before reaching out.</h2>
+        </div>
+        <p>Auto customers search with urgency, so an owned page can clarify services, location, and call-before-you-arrive expectations.</p>
+      </section>
+      <section class="info-grid">
+        <article>
+          <span>Address</span>
+          <span class="info-value">1704 South 7th Street, San Jose, 95112</span>
+        </article>
+        <article>
+          <span>Hours</span>
+          <span class="info-value">Call for current hours</span>
+        </article>
+        <article>
+          <span>Phone</span>
+          <span class="info-value">(408) 286-7776</span>
+        </article>
+      </section>
+      <section class="services">
+        <p class="eyebrow">Services</p>
+        <h2>Built around real search intent.</h2>
+        <div class="service-list">
+          <article><h3>Collision repair</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Body work</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Paint questions</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Estimate calls</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+        </div>
+      </section>
+      <section class="proof">
+        <div>
+          <p class="eyebrow">Lead notes</p>
+          <h2>No owned website confirmed.</h2>
+          <p>No owned website found in OSM tags or web search</p>
+        </div>
+        <div class="links">
+          
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=Transon%20Auto%20Body%20%26%20Paint%201704%20South%207th%20Street%2C%20San%20Jose%2C%2095112">Google Maps search</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Transon Auto Body &amp; Paint</span>
+      <span>Draft local website generated from public lead data.</span>
+    </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
+  </body>
+</html>

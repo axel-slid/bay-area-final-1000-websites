@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ambaro | hairdresser</title>
+    <meta name="description" content="A hair site can showcase specialties, stylist fit, pricing cues, and booking expectations before someone calls.">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body style="--primary:#181818;--surface:#f4efe6;--accent:#b6854d;--ink:#111111">
+    <header class="hero hero--studio" data-hero-pattern="studio-split-hero" data-21st-hero="Hero Page" data-21st-url="https://21st.dev/community/components/ruixenui/hero-page/default" data-customization-id="665-ambaro-hairdresser-studio-split-hero-1wa020l">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
+        <span class="brand"><span class="brand-mark">A</span>Ambaro</span>
+        <a href="tel:4152406173">(415) 240-6173</a>
+      </nav>
+      <div class="hero__studio-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">hairdresser</p>
+          <h1 class="motion-item">Ambaro</h1>
+          <p class="hero__lead motion-item">A polished appointment path for style, care, and repeat clients.</p>
+          <p class="hero__focus motion-item">Style-forward appointment flow for repeat neighborhood clients.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:4152406173">Book by phone</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Ambaro%202365%20Mission%20Street">Open map</a>
+          </div>
+        </div>
+        <div class="hero-portrait motion-panel">
+          <img src="https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=1800&q=80" alt="" class="hero-portrait__image">
+          <div class="hero-portrait__caption">
+            <span>hairdresser</span>
+            <span>2365 Mission Street</span>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="split">
+        <div>
+          <p class="eyebrow">Why this page exists</p>
+          <h2>Everything customers need before reaching out.</h2>
+        </div>
+        <p>A hair site can showcase specialties, stylist fit, pricing cues, and booking expectations before someone calls.</p>
+      </section>
+      <section class="info-grid">
+        <article>
+          <span>Address</span>
+          <span class="info-value">2365 Mission Street</span>
+        </article>
+        <article>
+          <span>Hours</span>
+          <span class="info-value">Call for current hours</span>
+        </article>
+        <article>
+          <span>Phone</span>
+          <span class="info-value">(415) 240-6173</span>
+        </article>
+      </section>
+      <section class="services">
+        <p class="eyebrow">Services</p>
+        <h2>Built around real search intent.</h2>
+        <div class="service-list">
+          <article><h3>Cuts and styling</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Color services</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Appointments</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Consultation calls</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+        </div>
+      </section>
+      <section class="proof">
+        <div>
+          <p class="eyebrow">Lead notes</p>
+          <h2>No owned website confirmed.</h2>
+          <p>No owned website found in OSM tags or web search</p>
+        </div>
+        <div class="links">
+          
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=Ambaro%202365%20Mission%20Street">Google Maps search</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Ambaro</span>
+      <span>Draft local website generated from public lead data.</span>
+    </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
+  </body>
+</html>

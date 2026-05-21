@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Max Nunez CPA | accountant</title>
+    <meta name="description" content="An owned website can make hours, services, trust signals, and next-step contact details easier to find than scattered directory listings.">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body style="--primary:#1f2937;--surface:#f8fafc;--accent:#2563eb;--ink:#0f172a">
+    <header class="hero hero--console" data-hero-pattern="trust-console-hero" data-21st-hero="Hero Section" data-21st-url="https://21st.dev/community/components/moumensoliman/hero-section-shadcnui/default" data-customization-id="313-max-nunez-cpa-accountant-trust-console-hero-1x8agni">
+      <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1800&q=80" alt="" class="hero__image">
+      <div class="motion-bg hero__backdrop" aria-hidden="true"></div>
+      <nav class="nav motion-nav">
+        <span class="brand"><span class="brand-mark">MN</span>Max Nunez CPA</span>
+        <a href="tel:5106563898">(510) 656-3898</a>
+      </nav>
+      <div class="hero__console-grid">
+        <div class="hero__content">
+          <p class="eyebrow motion-item">accountant</p>
+          <h1 class="motion-item">Max Nunez CPA</h1>
+          <p class="hero__lead motion-item">A direct local landing page for customers searching before they call in Fremont.</p>
+          <div class="actions">
+          <a class="button motion-item" href="tel:5106563898">Call now</a>
+          <a class="button button--ghost motion-item" href="https://www.google.com/maps/search/?api=1&amp;query=Max%20Nunez%20CPA%2041255%20Fremont%20Boulevard%2C%20Fremont%2C%20CA%2C%2094538">Open map</a>
+          </div>
+        </div>
+        <aside class="hero-console motion-panel">
+          <span class="hero-console__label">Local intake</span>
+          <p>Calm, direct accounting access for Fremont clients.</p>
+          <div class="hero-console__stats"><span class="hero-stat motion-item"><span>Route stop</span><span>313</span></span><span class="hero-stat motion-item"><span>Category</span><span>accountant</span></span><span class="hero-stat motion-item"><span>Area</span><span>Fremont</span></span></div>
+        </aside>
+      </div>
+    </header>
+    <main>
+      <section class="split">
+        <div>
+          <p class="eyebrow">Why this page exists</p>
+          <h2>Everything customers need before reaching out.</h2>
+        </div>
+        <p>An owned website can make hours, services, trust signals, and next-step contact details easier to find than scattered directory listings.</p>
+      </section>
+      <section class="info-grid">
+        <article>
+          <span>Address</span>
+          <span class="info-value">41255 Fremont Boulevard, Fremont, CA, 94538</span>
+        </article>
+        <article>
+          <span>Hours</span>
+          <span class="info-value">Call for current hours</span>
+        </article>
+        <article>
+          <span>Phone</span>
+          <span class="info-value">(510) 656-3898</span>
+        </article>
+      </section>
+      <section class="services">
+        <p class="eyebrow">Services</p>
+        <h2>Built around real search intent.</h2>
+        <div class="service-list">
+          <article><h3>Tax questions</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Bookkeeping support</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Small business accounting</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+          <article><h3>Appointment requests</h3><p>Clear, phone-friendly information for customers comparing local options.</p></article>
+        </div>
+      </section>
+      <section class="proof">
+        <div>
+          <p class="eyebrow">Lead notes</p>
+          <h2>No owned website confirmed.</h2>
+          <p>No owned website found in OSM tags or web search</p>
+        </div>
+        <div class="links">
+          
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=Max%20Nunez%20CPA%2041255%20Fremont%20Boulevard%2C%20Fremont%2C%20CA%2C%2094538">Google Maps search</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Max Nunez CPA</span>
+      <span>Draft local website generated from public lead data.</span>
+    </footer>
+    <script type="module">
+      import { animate, inView, stagger } from "https://esm.sh/framer-motion@11.18.2/dom";
+
+      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      if (!reduced) {
+        animate(".motion-nav", { y: [-18, 0] }, { duration: 0.72, easing: "ease-out" });
+        animate(".motion-bg", { scale: [1.08, 1] }, { duration: 1.4, easing: "ease-out" });
+        animate(".motion-item", { y: [28, 0] }, { delay: stagger(0.08, { startDelay: 0.16 }), duration: 0.72, easing: "ease-out" });
+        animate(".motion-panel", { x: [34, 0], scale: [0.96, 1] }, { delay: 0.28, duration: 0.86, easing: "ease-out" });
+        inView("section", (element) => {
+          animate(element, { y: [26, 0] }, { duration: 0.64, easing: "ease-out" });
+        }, { margin: "0px 0px -18% 0px" });
+      }
+    </script>
+  </body>
+</html>

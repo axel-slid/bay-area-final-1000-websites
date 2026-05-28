@@ -4,7 +4,8 @@ import path from "node:path";
 const root = process.cwd();
 const dist = path.join(root, "dist");
 const deliverables = path.join(root, "deliverables");
-const csvPath = path.join(deliverables, "bay-area-final-1000-websites.csv");
+const csvPath = path.join(deliverables, "bay-area-final-1000-websites_with_stripe_links.csv");
+const dashboardSource = path.join(root, "sales-dashboard");
 
 function parseCsv(text) {
   const rows = [];
@@ -50,6 +51,121 @@ function escapeHtml(value) {
     .replace(/"/g, "&quot;");
 }
 
+function clean(value) {
+  return String(value ?? "").trim();
+}
+
+function numeric(value) {
+  const text = clean(value);
+  if (!text) return null;
+  const parsed = Number(text);
+  if (!Number.isFinite(parsed)) return null;
+  return Number.isInteger(parsed) ? parsed : parsed;
+}
+
+function phoneHref(phone) {
+  let digits = clean(phone).replace(/\D+/g, "");
+  if (digits.length === 10) digits = `1${digits}`;
+  return digits ? `tel:+${digits}` : "";
+}
+
+function labelize(value) {
+  return clean(value)
+    .replace(/[_-]+/g, " ")
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+function cityFromAddress(address) {
+  const parts = clean(address)
+    .split(",")
+    .map((part) => part.trim())
+    .filter(Boolean);
+  if (parts.length >= 3) return parts.at(-2);
+  if (parts.length === 2 && !/\b\d{5}(?:-\d{4})?\b/.test(parts.at(-1))) return parts.at(-1);
+  return "";
+}
+
+function parsePalette(text) {
+  const values = {};
+  for (const match of clean(text).matchAll(/\b(primary|surface|accent|ink)\s+((?:#[0-9a-fA-F]{3,8})|[a-zA-Z]+)/g)) {
+    values[match[1]] = match[2];
+  }
+  return values;
+}
+
+function buildDashboardData(rows) {
+  const companies = rows.map((row, index) => {
+    const routeStop = numeric(row["Route stop"]) || index + 1;
+    const slug = row.slug;
+    const category = clean(row.Category);
+    const address = clean(row.Address);
+    const localPreview = slug ? `/${slug}/` : "";
+    const company = {
+      id: `${String(routeStop).padStart(4, "0")}-${slug || index + 1}`,
+      routeStop,
+      name: clean(row.Business),
+      address,
+      city: cityFromAddress(address),
+      phone: clean(row.Phone),
+      phoneHref: phoneHref(row.Phone),
+      category,
+      categoryLabel: labelize(category),
+      hours: clean(row.Hours),
+      leadStatus: clean(row["Lead status"]),
+      websiteStatus: clean(row["Website status"]),
+      evidence: clean(row.Evidence),
+      whyWebsiteHelps: clean(row["Why a dedicated website would help"]),
+      profileLink: clean(row["Yelp or booking link"]),
+      googleMapsLink: clean(row["Google Maps link"]),
+      latitude: numeric(row.Latitude),
+      longitude: numeric(row.Longitude),
+      routeLegMiles: numeric(row["Route leg miles"]),
+      routeCumulativeMiles: numeric(row["Route cumulative miles"]),
+      generatedSitePath: clean(row["Generated site path"]),
+      localPreview,
+      localPreviewExists: Boolean(localPreview),
+      livePreview: clean(row["Vercel link"]),
+      defaultPreview: localPreview || clean(row["Vercel link"]),
+      githubLink: clean(row["GitHub link"]),
+      stripeMonthlyLink: clean(row["Stripe $20/mo link"] || row["Payment link"]),
+      stripeSetupLink: clean(row["Stripe $100/mo for 6 months then $30/year link"]),
+      heroImageUrl: clean(row["Hero image URL"]),
+      heroImageSource: clean(row["Hero image source"]),
+      profileImageUrl: clean(row["Profile image URL"]),
+      profileImageSource: clean(row["Profile image source"]),
+      photoProfileSource: clean(row["Photo/profile source"]),
+      brandPalette: parsePalette(row["Brand palette"]),
+      styleRationale: clean(row["Style rationale"]),
+    };
+    company.searchText = [
+      company.name,
+      company.address,
+      company.city,
+      company.phone,
+      company.category,
+      company.categoryLabel,
+      company.websiteStatus,
+      company.leadStatus,
+    ]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+    return company;
+  });
+
+  return {
+    sourceCsv: path.basename(csvPath),
+    generatedAt: new Date().toISOString(),
+    total: companies.length,
+    localPreviewCount: companies.filter((company) => company.localPreviewExists).length,
+    mappedCount: companies.filter((company) => company.latitude !== null && company.longitude !== null).length,
+    companies,
+  };
+}
+
 const rows = parseCsv(fs.readFileSync(csvPath, "utf8")).map((row) => ({
   ...row,
   slug: path.basename(String(row["Generated site path"] || "").replace(/\/$/, "")),
@@ -59,7 +175,7 @@ fs.rmSync(dist, { recursive: true, force: true });
 fs.mkdirSync(dist, { recursive: true });
 fs.cpSync(deliverables, path.join(dist, "deliverables"), { recursive: true });
 fs.writeFileSync(path.join(dist, "data.json"), JSON.stringify(rows));
-fs.writeFileSync(path.join(dist, "robots.txt"), "User-agent: *\nAllow: /\n");
+fs.writeFileSync(path.join(dist, "robots.txt"), "User-agent: *\nDisallow: /sales-dashboard/\nAllow: /\n");
 
 for (const row of rows) {
   const source = path.join(root, row.slug);
@@ -69,6 +185,18 @@ for (const row of rows) {
   }
   fs.cpSync(source, target, { recursive: true });
 }
+
+if (!fs.existsSync(dashboardSource)) {
+  throw new Error(`Missing dashboard source directory: ${dashboardSource}`);
+}
+
+const dashboardTarget = path.join(dist, "sales-dashboard");
+fs.cpSync(dashboardSource, dashboardTarget, { recursive: true });
+fs.mkdirSync(path.join(dashboardTarget, "data"), { recursive: true });
+fs.writeFileSync(
+  path.join(dashboardTarget, "data", "companies.js"),
+  `window.COMPANY_DASHBOARD_DATA = ${JSON.stringify(buildDashboardData(rows))};\n`,
+);
 
 const cards = rows
   .map(

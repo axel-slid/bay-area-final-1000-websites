@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Company Sales Dashboard</title>
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://tile.openstreetmap.org">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Bay Area website leads</p>
+        <h1>Company Sales Dashboard</h1>
+      </div>
+      <div class="metrics" aria-label="Lead summary">
+        <span><strong id="metric-total">0</strong> companies</span>
+        <span><strong id="metric-mapped">0</strong> mapped</span>
+        <span><strong id="metric-previews">0</strong> local previews</span>
+      </div>
+      <div class="top-actions">
+        <a class="button button-secondary" href="/deliverables/bay-area-final-1000-websites_with_stripe_links.csv">CSV</a>
+        <a class="button" id="open-current-top" href="#" target="_blank" rel="noreferrer">Open Site</a>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <aside class="sidebar" aria-label="Companies">
+        <div class="controls">
+          <label class="field">
+            <span>Search</span>
+            <input id="search-input" type="search" autocomplete="off" placeholder="Name, city, category, phone">
+          </label>
+          <div class="control-grid">
+            <label class="field">
+              <span>Category</span>
+              <select id="category-filter"></select>
+            </label>
+            <label class="field">
+              <span>Sort</span>
+              <select id="sort-select">
+                <option value="route">Route order</option>
+                <option value="name">Name</option>
+                <option value="category">Category</option>
+                <option value="city">City</option>
+              </select>
+            </label>
+          </div>
+          <div class="segmented" role="group" aria-label="Preview availability">
+            <button class="is-active" type="button" data-preview-filter="all">All</button>
+            <button type="button" data-preview-filter="local">Local</button>
+            <button type="button" data-preview-filter="live">Live</button>
+          </div>
+        </div>
+        <div class="result-line">
+          <span id="result-count">0 leads</span>
+          <span id="route-span">Route miles ready</span>
+        </div>
+        <div class="company-list" id="company-list" tabindex="0"></div>
+      </aside>
+
+      <section class="map-panel" aria-label="Company map">
+        <div id="map"></div>
+      </section>
+
+      <aside class="detail-panel" aria-label="Selected company">
+        <section class="detail-header">
+          <div>
+            <p class="eyebrow" id="detail-category">Category</p>
+            <h2 id="detail-name">Select a company</h2>
+            <p id="detail-address"></p>
+          </div>
+          <span class="route-badge" id="detail-route">#0</span>
+        </section>
+
+        <nav class="action-row" aria-label="Company actions">
+          <a class="button" id="call-link" href="#">Call</a>
+          <a class="button button-secondary" id="maps-link" href="#" target="_blank" rel="noreferrer">Map</a>
+          <a class="button button-secondary" id="stripe-link" href="#" target="_blank" rel="noreferrer">$20/mo</a>
+          <a class="button button-secondary" id="open-current" href="#" target="_blank" rel="noreferrer">Open</a>
+        </nav>
+
+        <section class="preview-section">
+          <div class="preview-toolbar">
+            <div class="segmented compact" role="group" aria-label="Preview source">
+              <button class="is-active" type="button" id="preview-local">Local</button>
+              <button type="button" id="preview-live">Live</button>
+            </div>
+            <span id="preview-status">Preview</span>
+          </div>
+          <div class="preview-frame">
+            <iframe id="site-preview" title="Generated website preview"></iframe>
+            <div class="empty-preview" id="empty-preview">No preview link for this company.</div>
+          </div>
+        </section>
+
+        <section class="info-section">
+          <dl class="info-grid">
+            <div>
+              <dt>Phone</dt>
+              <dd id="info-phone"></dd>
+            </div>
+            <div>
+              <dt>Hours</dt>
+              <dd id="info-hours"></dd>
+            </div>
+            <div>
+              <dt>Status</dt>
+              <dd id="info-status"></dd>
+            </div>
+            <div>
+              <dt>Distance</dt>
+              <dd id="info-distance"></dd>
+            </div>
+          </dl>
+        </section>
+
+        <section class="lead-notes">
+          <h3>Sales Notes</h3>
+          <p id="why-text"></p>
+          <p id="evidence-text"></p>
+          <div class="link-list">
+            <a id="profile-link" href="#" target="_blank" rel="noreferrer">Profile</a>
+            <a id="github-link" href="#" target="_blank" rel="noreferrer">GitHub</a>
+            <a id="setup-link" href="#" target="_blank" rel="noreferrer">Setup plan</a>
+          </div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="./data/companies.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
